@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "mon_hoc": "Vật lí",
+    "khoi_lop": "Lớp 10",
+    "bo_sach": "Chuẩn GDPT 2018 (Mẫu kiểm thử OMML)",
+    "chuong": "Chương III: Động lực học",
+    "ten_bai": "Bài 15: Định luật II Newton",
+    "is_demo": false,
+    "nguon_sgk": "Chương trình GDPT 2018 — Vật lí 10 (lưu ý: chưa có file PDF SGK Vật lí trong thư mục SGK/)"
+  },
+  "muc_tieu": {
+    "kien_thuc": [
+      "Phát biểu và viết được biểu thức của Định luật II Newton dưới dạng vector $\\vec{a} = \\frac{\\vec{F}}{m}$ và dạng đại số $a = \\frac{F}{m}$.",
+      "Phân biệt được khối lượng (đại lượng vô hướng đặc trưng cho mức quán tính) với trọng lượng và hợp lực."
+    ],
+    "ky_nang": [
+      "Vận dụng biểu thức $\\vec{F} = m\\vec{a}$ (với $\\vec{F} = \\vec{F}_1 + \\vec{F}_2 + \\dots$) để tính gia tốc, lực tác dụng hoặc quãng đường chuyển động biến đổi đều.",
+      "Kiểm tra đúng thứ nguyên và đơn vị SI ($1\\,\\mathrm{N} = 1\\,\\mathrm{kg\\cdot m/s^2}$)."
+    ]
+  },
+  "y_nghia_thuc_tien": [
+    {
+      "hien_tuong": "Khi đẩy một xe đẩy hàng rỗng và một xe đẩy hàng chất đầy hàng hóa bằng cùng một lực đẩy $\\vec{F}$, xe rỗng tăng tốc nhanh hơn hẳn xe chở nặng.",
+      "cau_hoi": "Đại lượng vật lí nào quyết định mức độ dễ hay khó thay đổi vận tốc của xe khi chịu cùng một lực tác dụng?",
+      "giai_thich_khoa_hoc": "Theo Định luật II Newton $a = \\frac{F}{m}$, với cùng độ lớn hợp lực $F$, gia tốc $a$ tỉ lệ nghịch với khối lượng $m$. Xe chở nặng có khối lượng $m$ lớn hơn (mức quán tính lớn hơn) nên gia tốc $a$ nhỏ hơn.",
+      "y_nghia_ung_dung": "Giải thích nguyên tắc tính toán công suất động cơ xe tải, xe đua và khoảng cách hãm phanh an toàn trong giao thông.",
+      "lien_ket_muc_c": "Xem Mục C.1 (Biểu thức Định luật II Newton và mức quán tính)."
+    },
+    {
+      "hien_tuong": "Khi hai bạn kéo một thùng hàng theo hai phương vuông góc với các lực $\\vec{F}_1$ và $\\vec{F}_2$, thùng hàng không đi theo riêng hướng nào mà chuyển động theo phương của hợp lực $\\vec{F} = \\vec{F}_1 + \\vec{F}_2$.",
+      "cau_hoi": "Làm thế nào xác định đúng hướng và độ lớn gia tốc của vật khi có nhiều lực đồng thời tác dụng?",
+      "giai_thich_khoa_hoc": "Vật thu gia tốc cùng hướng với hợp lực $\\vec{F} = \\vec{F}_1 + \\vec{F}_2$ và độ lớn $a = \\frac{F}{m} = \\frac{\\sqrt{F_1^2 + F_2^2}}{m}$ (khi $\\vec{F}_1 \\perp \\vec{F}_2$).",
+      "y_nghia_ung_dung": "Ứng dụng trong tính toán lực kéo tàu thủy, cần cẩu và phân tích lực trên mặt phẳng nghiêng.",
+      "lien_ket_muc_c": "Xem Mục C.2 (Hợp lực và đơn vị lực trong hệ SI)."
+    }
+  ],
+  "kien_thuc_trong_tam": [
+    {
+      "muc_so": "1.",
+      "tieu_de": "Nội dung và biểu thức Định luật II Newton",
+      "cot_loi": [
+        "Nội dung: Gia tốc của một vật cùng hướng với lực tác dụng lên vật. Độ lớn của gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật.",
+        "Biểu thức vector: $$\\vec{a} = \\frac{\\vec{F}}{m} \\quad \\text{hay} \\quad \\vec{F} = m\\vec{a}$$"
+      ],
+      "giai_thich_ban_chat": "Trong biểu thức $\\vec{a} = \\frac{\\vec{F}}{m}$, $\\vec{a}$ và $\\vec{F}$ là các đại lượng vector (có phương, chiều, độ lớn), còn khối lượng $m > 0$ là đại lượng vô hướng đặc trưng cho mức quán tính của vật. Vì $m > 0$ nên vector gia tốc $\\vec{a}$ luôn cùng hướng với vector hợp lực $\\vec{F}$. Định luật II Newton chỉ áp dụng chính xác trong hệ quy chiếu quán tính.",
+      "cong_thuc_quy_tac": [
+        "Khi vật chịu nhiều lực tác dụng: $\\vec{F} = \\vec{F}_1 + \\vec{F}_2 + \\dots + \\vec{F}_n = m\\vec{a}$.",
+        "Trường hợp riêng trọng lực: $\\vec{P} = m\\vec{g}$ với $g \\approx 9{,}8\\,\\mathrm{m/s^2}$."
+      ],
+      "vi_du": {
+        "de_bai": "Một vật có khối lượng $m = 2{,}5\\,\\mathrm{kg}$ đang đứng yên trên mặt phẳng ngang không ma sát. Tác dụng đồng thời hai lực vuông góc nhau $\\vec{F}_1$ và $\\vec{F}_2$ có độ lớn $F_1 = 12\\,\\mathrm{N}$ và $F_2 = 5\\,\\mathrm{N}$. Tính độ lớn gia tốc của vật.",
+        "huong_dan": "Bước 1: Xác định hợp lực $\\vec{F} = \\vec{F}_1 + \\vec{F}_2$. Vì $\\vec{F}_1 \\perp \\vec{F}_2$ nên độ lớn hợp lực là $F = \\sqrt{F_1^2 + F_2^2} = \\sqrt{12^2 + 5^2} = 13\\,\\mathrm{N}$.\nBước 2: Áp dụng Định luật II Newton: $a = \\frac{F}{m} = \\frac{13\\,\\mathrm{N}}{2{,}5\\,\\mathrm{kg}} = 5{,}2\\,\\mathrm{m/s^2}$.\nBước 3: Kiểm tra thứ nguyên: $[a] = \\frac{\\mathrm{N}}{\\mathrm{kg}} = \\frac{\\mathrm{kg\\cdot m/s^2}}{\\mathrm{kg}} = \\mathrm{m/s^2}$ (hợp lệ)."
+      },
+      "lien_he_thuc_tien": "Xem Mục B.1 & B.2: Mối liên hệ giữa khối lượng, hợp lực và gia tốc."
+    },
+    {
+      "muc_so": "2.",
+      "tieu_de": "Đơn vị lực (Newton) và liên hệ với động học",
+      "cot_loi": [
+        "Trong hệ SI, lực có đơn vị là newton (kí hiệu $\\mathrm{N}$): $1\\,\\mathrm{N} = 1\\,\\mathrm{kg\\cdot m/s^2}$.",
+        "Kết hợp Định luật II Newton với các công thức động học thẳng biến đổi đều: $v = v_0 + at$, $s = v_0 t + \\frac{1}{2}at^2$, $v^2 - v_0^2 = 2as$."
+      ],
+      "giai_thich_ban_chat": "Một newton ($1\\,\\mathrm{N}$) là độ lớn của lực tác dụng lên vật có khối lượng $1\\,\\mathrm{kg}$ gây cho vật gia tốc $1\\,\\mathrm{m/s^2}$. Biến đổi $\\vec{F} = m\\vec{a} = m\\frac{\\Delta \\vec{v}}{\\Delta t}$ cho thấy lực là nguyên nhân làm thay đổi vận tốc (cả hướng và độ lớn) của vật.",
+      "cong_thuc_quy_tac": [
+        "Đơn vị chuẩn SI: $m$ tính bằng $\\mathrm{kg}$, $a$ tính bằng $\\mathrm{m/s^2}$, $F$ tính bằng $\\mathrm{N}$, $t$ tính bằng $\\mathrm{s}$."
+      ],
+      "vi_du": {
+        "de_bai": "Một ô tô khối lượng $m = 1{,}2\\,\\text{tấn}$ đang chạy với vận tốc $v_0 = 15\\,\\mathrm{m/s}$ thì hãm phanh chuyển động chậm dần đều và dừng lại sau quãng đường $s = 45\\,\\mathrm{m}$. Tính độ lớn lực hãm phanh tác dụng lên ô tô.",
+        "huong_dan": "Bước 1: Quy đổi đơn vị chuẩn SI: $m = 1{,}2\\,\\text{tấn} = 1200\\,\\mathrm{kg}$, vật dừng lại nên $v = 0\\,\\mathrm{m/s}$.\nBước 2: Chọn chiều dương là chiều chuyển động. Từ công thức $v^2 - v_0^2 = 2as$, suy ra gia tốc $a = \\frac{0^2 - 15^2}{2\\cdot 45} = \\frac{-225}{90} = -2{,}5\\,\\mathrm{m/s^2}$.\nBước 3: Áp dụng Định luật II Newton: $F_h = m|a| = 1200\\,\\mathrm{kg} \\cdot 2{,}5\\,\\mathrm{m/s^2} = 3000\\,\\mathrm{N}$."
+      }
+    }
+  ],
+  "he_thong_hoa": {
+    "bang_so_sanh": {
+      "tieu_de": "Bảng tổng hợp các đại lượng và đơn vị chuẩn SI trong Định luật II Newton",
+      "headers": ["Đại lượng", "Kí hiệu", "Loại đại lượng", "Đơn vị chuẩn SI"],
+      "rows": [
+        ["Hợp lực", "$\\vec{F}$", "Vector", "$\\mathrm{N}$ ($1\\,\\mathrm{N} = 1\\,\\mathrm{kg\\cdot m/s^2}$)"],
+        ["Gia tốc", "$\\vec{a}$", "Vector (cùng hướng $\\vec{F}$)", "$\\mathrm{m/s^2}$"],
+        ["Khối lượng", "$m$", "Vô hướng (đặc trưng quán tính)", "$\\mathrm{kg}$"],
+        ["Trọng lực", "$\\vec{P} = m\\vec{g}$", "Vector (hướng thẳng đứng xuống dưới)", "$\\mathrm{N}$"]
+      ]
+    },
+    "quy_tac_ghi_nho": [
+      "Luôn đổi khối lượng về $\\mathrm{kg}$, vận tốc về $\\mathrm{m/s}$, quãng đường về $\\mathrm{m}$ trước khi thế vào $F = ma$.",
+      "Hợp lực $\\vec{F}$ phải được tổng hợp theo quy tắc hình bình hành (không cộng đại số nếu các lực không cùng phương)."
+    ],
+    "loi_thuong_gap": [
+      "Quên đổi đơn vị tấn sang $\\mathrm{kg}$ hoặc $\\mathrm{km/h}$ sang $\\mathrm{m/s}$ (chia $3{,}6$).",
+      "Cộng trực tiếp độ lớn $F_1 + F_2$ khi hai lực vuông góc hoặc hợp với nhau góc $\\alpha \\ne 0^\\circ$."
+    ]
+  },
+  "cau_hoi_tu_kiem_tra": {
+    "mcq": [
+      {
+        "cau_so": 1,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Biểu thức đúng của Định luật II Newton dưới dạng vector là",
+        "lua_chon": {
+          "A": "$\\vec{F} = \\frac{m}{\\vec{a}}$.",
+          "B": "$\\vec{a} = \\frac{\\vec{F}}{m}$.",
+          "C": "$\\vec{a} = m\\vec{F}$.",
+          "D": "$F = m + a$."
+        },
+        "dap_an": "B",
+        "giai_thich": "Theo Định luật II Newton, vector gia tốc $\\vec{a} = \\frac{\\vec{F}}{m}$ luôn cùng hướng với hợp lực $\\vec{F}$."
+      },
+      {
+        "cau_so": 2,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Trong hệ đơn vị SI, đơn vị của lực là newton ($\\mathrm{N}$). Biểu diễn nào sau đây đúng với $1\\,\\mathrm{N}$?",
+        "lua_chon": {
+          "A": "$1\\,\\mathrm{kg\\cdot m/s}$.",
+          "B": "$1\\,\\mathrm{kg\\cdot m/s^2}$.",
+          "C": "$1\\,\\mathrm{g\\cdot m/s^2}$.",
+          "D": "$1\\,\\mathrm{kg/s^2}$."
+        },
+        "dap_an": "B",
+        "giai_thich": "Từ $F = ma$, ta có $1\\,\\mathrm{N} = 1\\,\\mathrm{kg} \\cdot 1\\,\\mathrm{m/s^2} = 1\\,\\mathrm{kg\\cdot m/s^2}$."
+      },
+      {
+        "cau_so": 3,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Một vật khối lượng $m = 4\\,\\mathrm{kg}$ chịu tác dụng của hợp lực có độ lớn $F = 10\\,\\mathrm{N}$. Gia tốc của vật có độ lớn là",
+        "lua_chon": {
+          "A": "$40\\,\\mathrm{m/s^2}$.",
+          "B": "$0{,}4\\,\\mathrm{m/s^2}$.",
+          "C": "$2{,}5\\,\\mathrm{m/s^2}$.",
+          "D": "$6\\,\\mathrm{m/s^2}$."
+        },
+        "dap_an": "C",
+        "giai_thich": "Áp dụng $a = \\frac{F}{m} = \\frac{10}{4} = 2{,}5\\,\\mathrm{m/s^2}$."
+      },
+      {
+        "cau_so": 4,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Nếu giữ nguyên khối lượng của vật và tăng độ lớn hợp lực tác dụng lên gấp $3$ lần thì gia tốc của vật sẽ",
+        "lua_chon": {
+          "A": "tăng gấp $3$ lần.",
+          "B": "giảm đi $3$ lần.",
+          "C": "không đổi.",
+          "D": "tăng gấp $9$ lần."
+        },
+        "dap_an": "A",
+        "giai_thich": "Vì $a = \\frac{F}{m}$ tỉ lệ thuận với độ lớn hợp lực $F$ khi $m$ không đổi."
+      },
+      {
+        "cau_so": 5,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Một vật khối lượng $m = 2\\,\\mathrm{kg}$ bắt đầu chuyển động nhanh dần đều từ trạng thái nghỉ, đi được quãng đường $s = 16\\,\\mathrm{m}$ trong thời gian $t = 4\\,\\mathrm{s}$. Độ lớn hợp lực tác dụng lên vật là",
+        "lua_chon": {
+          "A": "$2\\,\\mathrm{N}$.",
+          "B": "$4\\,\\mathrm{N}$.",
+          "C": "$8\\,\\mathrm{N}$.",
+          "D": "$16\\,\\mathrm{N}$."
+        },
+        "dap_an": "B",
+        "giai_thich": "Từ $s = \\frac{1}{2}at^2 \\Rightarrow a = \\frac{2s}{t^2} = \\frac{2\\cdot 16}{4^2} = 2\\,\\mathrm{m/s^2}$. Suy ra $F = ma = 2 \\cdot 2 = 4\\,\\mathrm{N}$."
+      }
+    ],
+    "dung_sai": [
+      {
+        "cau_so": 1,
+        "dan_nhap": "Một xe lăn có khối lượng $m = 2{,}5\\,\\mathrm{kg}$ chịu tác dụng đồng thời của hai lực vuông góc nhau $\\vec{F}_1$ và $\\vec{F}_2$ với $F_1 = 12\\,\\mathrm{N}$, $F_2 = 5\\,\\mathrm{N}$ (bỏ qua ma sát).",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Độ lớn hợp lực tác dụng lên xe lăn bằng $17\\,\\mathrm{N}$.",
+            "dap_an": false,
+            "giai_thich": "Sai. Hai lực vuông góc nên $F = \\sqrt{F_1^2 + F_2^2} = \\sqrt{12^2 + 5^2} = 13\\,\\mathrm{N}$."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Gia tốc $\\vec{a}$ của xe lăn cùng hướng với hợp lực $\\vec{F} = \\vec{F}_1 + \\vec{F}_2$.",
+            "dap_an": true,
+            "giai_thich": "Đúng theo Định luật II Newton $\\vec{a} = \\frac{\\vec{F}}{m}$."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Độ lớn gia tốc của xe lăn bằng $5{,}2\\,\\mathrm{m/s^2}$.",
+            "dap_an": true,
+            "giai_thich": "Đúng: $a = \\frac{13}{2{,}5} = 5{,}2\\,\\mathrm{m/s^2}$."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Nếu xe xuất phát từ trạng thái nghỉ, sau $2\\,\\mathrm{s}$ vận tốc của xe đạt $10{,}4\\,\\mathrm{m/s}$.",
+            "dap_an": true,
+            "giai_thich": "Đúng: $v = v_0 + at = 0 + 5{,}2 \\cdot 2 = 10{,}4\\,\\mathrm{m/s}$."
+          }
+        ]
+      },
+      {
+        "cau_so": 2,
+        "dan_nhap": "Xét một vật có khối lượng $m$ chuyển động thẳng trên mặt ngang dưới tác dụng của hợp lực $\\vec{F}$ không đổi.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Khối lượng $m$ là đại lượng vô hướng đặc trưng cho mức quán tính của vật.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Khối lượng càng lớn thì mức quán tính càng lớn."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Nếu hợp lực $\\vec{F} = \\vec{0}$ thì vật nhất thiết phải đứng yên.",
+            "dap_an": false,
+            "giai_thich": "Sai. Khi $\\vec{F} = \\vec{0}$ thì $\\vec{a} = \\vec{0}$, vật đứng yên hoặc chuyển động thẳng đều."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Thứ nguyên của $ma$ tương đương với $\\mathrm{kg\\cdot m/s^2}$.",
+            "dap_an": true,
+            "giai_thich": "Đúng, đó chính là định nghĩa đơn vị newton ($1\\,\\mathrm{N} = 1\\,\\mathrm{kg\\cdot m/s^2}$)."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Gia tốc của vật có thể ngược hướng với vận tốc ban đầu nếu hợp lực $\\vec{F}$ ngược chiều chuyển động.",
+            "dap_an": true,
+            "giai_thich": "Đúng, khi đó $\\vec{a}$ cùng hướng $\\vec{F}$ (ngược chiều $\\vec{v}_0$) nên vật chuyển động chậm dần đều."
+          }
+        ]
+      }
+    ]
+  }
+}

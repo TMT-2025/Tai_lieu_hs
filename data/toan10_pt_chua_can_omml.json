@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "mon_hoc": "Toán học",
+    "khoi_lop": "Lớp 10",
+    "bo_sach": "Chuẩn GDPT 2018 (Mẫu kiểm thử OMML)",
+    "chuong": "Chương VI: Hàm số, đồ thị và ứng dụng",
+    "ten_bai": "Bài 18: Phương trình quy về phương trình bậc hai",
+    "is_demo": false,
+    "nguon_sgk": "Chương trình GDPT 2018 — Toán 10 (lưu ý: chưa có file PDF SGK Toán trong thư mục SGK/)"
+  },
+  "muc_tieu": {
+    "kien_thuc": [
+      "Nhận biết được hai dạng phương trình chứa căn thức quy về phương trình bậc hai: $\\sqrt{ax^2+bx+c} = \\sqrt{dx^2+ex+f}$ và $\\sqrt{ax^2+bx+c} = dx+e$.",
+      "Hiểu rõ điều kiện xác định và điều kiện bình phương hai vế (tránh nghiệm ngoại lai)."
+    ],
+    "ky_nang": [
+      "Giải thành thạo phương trình chứa căn thức bậc hai bằng phép biến đổi tương đương hoặc bình phương hai vế kết hợp thử lại nghiệm.",
+      "Vận dụng giải quyết các bài toán thực tiễn liên quan đến khoảng cách, chuyển động và hình học."
+    ]
+  },
+  "y_nghia_thuc_tien": [
+    {
+      "hien_tuong": "Trong bài toán thiết kế cầu vượt hoặc đường dẫn ngắn nhất nối từ điểm A trên bờ đến điểm M trên một đoạn đường thẳng, tổng độ dài quãng đường dẫn đến phương trình chứa căn thức dạng $\\sqrt{x^2 + h^2} = L - x$.",
+      "cau_hoi": "Làm thế nào để giải chính xác phương trình chứa căn thức nhằm tìm vị trí điểm M mà không sinh ra nghiệm vô nghĩa về mặt hình học?",
+      "giai_thich_khoa_hoc": "Áp dụng phép biến đổi phương trình chứa căn thức: đặt điều kiện không âm cho vế phải $L - x \\ge 0$ trước khi bình phương hai vế để đưa về phương trình bậc hai, sau đó kiểm tra lại điều kiện xác định.",
+      "y_nghia_ung_dung": "Giúp tính toán chính xác tọa độ giao điểm, tối ưu hóa chi phí xây dựng đường ống, cáp quang và thiết kế quỹ đạo.",
+      "lien_ket_muc_c": "Xem Mục C.2 (Phương trình dạng $\\sqrt{ax^2+bx+c} = dx+e$)."
+    },
+    {
+      "hien_tuong": "Khi so sánh hai khoảng cách từ một điểm $M(x; 0)$ trên trục hoành đến hai trạm thu phát sóng $A$ và $B$ trong mặt phẳng tọa độ, ta thiết lập được đẳng thức $\\sqrt{(x-x_A)^2+y_A^2} = \\sqrt{(x-x_B)^2+y_B^2}$.",
+      "cau_hoi": "Điều kiện cần kiểm tra sau khi bình phương hai vế của phương trình dạng $\\sqrt{f(x)} = \\sqrt{g(x)}$ là gì?",
+      "giai_thich_khoa_hoc": "Sau khi giải phương trình $f(x) = g(x)$, bắt buộc phải thử lại vào điều kiện $f(x) \\ge 0$ (hoặc $g(x) \\ge 0$) để loại bỏ giá trị làm biểu thức dưới dấu căn bị âm.",
+      "y_nghia_ung_dung": "Ứng dụng trong định vị trạm phát sóng, xác định điểm cách đều hai vị trí trên bản đồ tọa độ.",
+      "lien_ket_muc_c": "Xem Mục C.1 (Phương trình dạng $\\sqrt{ax^2+bx+c} = \\sqrt{dx^2+ex+f}$)."
+    }
+  ],
+  "kien_thuc_trong_tam": [
+    {
+      "muc_so": "1.",
+      "tieu_de": "Phương trình dạng $\\sqrt{ax^2+bx+c} = \\sqrt{dx^2+ex+f}$",
+      "cot_loi": [
+        "Để giải phương trình $\\sqrt{ax^2+bx+c} = \\sqrt{dx^2+ex+f}$, ta bình phương hai vế để đưa về phương trình bậc hai (hoặc bậc nhất): $ax^2+bx+c = dx^2+ex+f$.",
+        "Tìm các nghiệm của phương trình vừa nhận được, sau đó thay từng nghiệm vào một trong hai biểu thức dưới dấu căn (ví dụ $ax^2+bx+c \\ge 0$) để kiểm tra điều kiện xác định."
+      ],
+      "giai_thich_ban_chat": "Phép biến đổi tương đương chuẩn xác là: $$\\sqrt{f(x)} = \\sqrt{g(x)} \\Leftrightarrow \\begin{cases} f(x) \\ge 0 \\\\ f(x) = g(x) \\end{cases}$$ Vì khi $f(x) = g(x)$ và $f(x) \\ge 0$ thì tự động kéo theo $g(x) \\ge 0$, nên chỉ cần kiểm tra không âm cho một vế là đủ.",
+      "cong_thuc_quy_tac": [
+        "Điều kiện xác định: $ax^2+bx+c \\ge 0$ và $dx^2+ex+f \\ge 0$.",
+        "Lưu ý: Phép bình phương hai vế chỉ là phép biến đổi hệ quả nếu chưa đặt điều kiện, do đó bước thử lại nghiệm là bắt buộc."
+      ],
+      "vi_du": {
+        "de_bai": "Giải phương trình: $\\sqrt{2x^2 - 6x + 4} = \\sqrt{x^2 - 3x + 2}$.",
+        "huong_dan": "Bước 1: Bình phương hai vế của phương trình ta được phương trình hệ quả: $2x^2 - 6x + 4 = x^2 - 3x + 2 \\Leftrightarrow x^2 - 3x + 2 = 0$.\nBước 2: Giải phương trình bậc hai bằng công thức nghiệm hoặc phân tích thành nhân tử $(x - 1)(x - 2) = 0$, thu được hai nghiệm $x = 1$ và $x = 2$.\nBước 3: Thử lại vào biểu thức dưới dấu căn $x^2 - 3x + 2$: với $x = 1$ ta có $1 - 3 + 2 = 0 \\ge 0$ (thỏa mãn); với $x = 2$ ta có $4 - 6 + 2 = 0 \\ge 0$ (thỏa mãn).\nBước 4: Kết luận tập nghiệm của phương trình là $S = \\{1; 2\\}$."
+      },
+      "lien_he_thuc_tien": "Xem Mục B.2: Bài toán tìm điểm cách đều hai trạm phát sóng trên trục tọa độ."
+    },
+    {
+      "muc_so": "2.",
+      "tieu_de": "Phương trình dạng $\\sqrt{ax^2+bx+c} = dx+e$",
+      "cot_loi": [
+        "Để giải phương trình $\\sqrt{ax^2+bx+c} = dx+e$, trước hết cần chú ý điều kiện $dx + e \\ge 0$ vì vế trái $\\sqrt{ax^2+bx+c} \\ge 0$.",
+        "Bình phương hai vế đưa về phương trình bậc hai: $ax^2+bx+c = (dx+e)^2$, giải tìm $x$ rồi thử lại vào điều kiện $dx+e \\ge 0$ và phương trình ban đầu."
+      ],
+      "giai_thich_ban_chat": "Phép biến đổi tương đương chuẩn xác là: $$\\sqrt{f(x)} = g(x) \\Leftrightarrow \\begin{cases} g(x) \\ge 0 \\\\ f(x) = [g(x)]^2 \\end{cases}$$ Nếu $f(x) = [g(x)]^2$ thì $f(x) \\ge 0$ luôn tự động đúng, nên không cần giải bất phương trình $f(x) \\ge 0$ mà chỉ cần $g(x) \\ge 0$.",
+      "cong_thuc_quy_tac": [
+        "Công thức nghiệm phương trình bậc hai $Ax^2 + Bx + C = 0$ ($A \\ne 0$): $\\Delta = B^2 - 4AC$, khi $\\Delta \\ge 0$ thì $x_{1,2} = \\frac{-B \\pm \\sqrt{\\Delta}}{2A}$."
+      ],
+      "vi_du": {
+        "de_bai": "Giải phương trình: $\\sqrt{2x^2 - 3x + 1} = x - 1$.",
+        "huong_dan": "Bước 1: Đặt điều kiện vế phải không âm: $x - 1 \\ge 0 \\Leftrightarrow x \\ge 1$.\nBước 2: Bình phương hai vế: $2x^2 - 3x + 1 = (x - 1)^2 \\Leftrightarrow 2x^2 - 3x + 1 = x^2 - 2x + 1 \\Leftrightarrow x^2 - x = 0$.\nBước 3: Giải được $x(x - 1) = 0 \\Leftrightarrow x = 0$ hoặc $x = 1$.\nBước 4: Đối chiếu điều kiện $x \\ge 1$: loại $x = 0$ (vì $0 - 1 = -1 < 0$), nhận $x = 1$ (thử lại $\\sqrt{0} = 0$, đúng). Vậy tập nghiệm $S = \\{1\\}$."
+      },
+      "lien_he_thuc_tien": "Xem Mục B.1: Bài toán tối ưu hóa độ dài đường dẫn $\\sqrt{x^2 + h^2} = L - x$."
+    }
+  ],
+  "he_thong_hoa": {
+    "bang_so_sanh": {
+      "tieu_de": "Bảng so sánh hai dạng phương trình quy về phương trình bậc hai",
+      "headers": ["Dạng phương trình", "Điều kiện tương đương", "Phương trình hệ quả", "Lưu ý kiểm tra nghiệm"],
+      "rows": [
+        ["$\\sqrt{f(x)} = \\sqrt{g(x)}$", "$f(x) \\ge 0$ (hoặc $g(x) \\ge 0$)", "$f(x) = g(x)$", "Thay nghiệm vào $f(x)$ kiểm tra $f(x) \\ge 0$"],
+        ["$\\sqrt{f(x)} = g(x)$", "$g(x) \\ge 0$", "$f(x) = [g(x)]^2$", "Thay nghiệm kiểm tra $g(x) \\ge 0$ và thử lại phương trình gốc"]
+      ]
+    },
+    "quy_tac_ghi_nho": [
+      "Không bao giờ quên điều kiện $g(x) \\ge 0$ khi giải $\\sqrt{f(x)} = g(x)$.",
+      "Luôn kiểm tra lại bằng cách thế trực tiếp nghiệm vào phương trình ban đầu để chắc chắn không có nghiệm ngoại lai."
+    ],
+    "loi_thuong_gap": [
+      "Bình phương hai vế $\\sqrt{f(x)} = g(x)$ thành $f(x) = [g(x)]^2$ rồi kết luận ngay cả nghiệm làm $g(x) < 0$ (ví dụ nhận $x = 0$ trong $\\sqrt{2x^2-3x+1} = x-1$).",
+      "Khai triển sai hằng đẳng thức $(dx + e)^2 = d^2x^2 + 2dex + e^2$ (quên số hạng $2dex$)."
+    ]
+  },
+  "cau_hoi_tu_kiem_tra": {
+    "mcq": [
+      {
+        "cau_so": 1,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Điều kiện để phương trình $\\sqrt{f(x)} = g(x)$ tương đương với hệ $\\begin{cases} g(x) \\ge 0 \\\\ f(x) = [g(x)]^2 \\end{cases}$ là gì?",
+        "lua_chon": {
+          "A": "Luôn đúng với mọi biểu thức $f(x), g(x)$.",
+          "B": "Chỉ cần thêm điều kiện $f(x) \\ne 0$.",
+          "C": "Cần $f(x) < 0$.",
+          "D": "Cần $g(x) < 0$."
+        },
+        "dap_an": "A",
+        "giai_thich": "Hệ $\\begin{cases} g(x) \\ge 0 \\\\ f(x) = [g(x)]^2 \\end{cases}$ tự động bảo đảm $f(x) \\ge 0$ nên luôn tương đương với $\\sqrt{f(x)} = g(x)$."
+      },
+      {
+        "cau_so": 2,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Điều kiện xác định của phương trình $\\sqrt{x - 3} = \\sqrt{5 - x}$ là",
+        "lua_chon": {
+          "A": "$x \\ge 3$.",
+          "B": "$x \\le 5$.",
+          "C": "$3 \\le x \\le 5$.",
+          "D": "$x \\ne 3$."
+        },
+        "dap_an": "C",
+        "giai_thich": "Cả hai biểu thức dưới dấu căn phải không âm: $x - 3 \\ge 0$ và $5 - x \\ge 0 \\Leftrightarrow 3 \\le x \\le 5$."
+      },
+      {
+        "cau_so": 3,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Tập nghiệm của phương trình $\\sqrt{x^2 - 4x + 4} = 3$ là",
+        "lua_chon": {
+          "A": "$S = \\{5\\}$.",
+          "B": "$S = \\{-1; 5\\}$.",
+          "C": "$S = \\{-1\\}$.",
+          "D": "$S = \\emptyset$."
+        },
+        "dap_an": "B",
+        "giai_thich": "$\\sqrt{(x-2)^2} = 3 \\Leftrightarrow |x - 2| = 3 \\Leftrightarrow x - 2 = 3$ hoặc $x - 2 = -3 \\Leftrightarrow x = 5$ hoặc $x = -1$."
+      },
+      {
+        "cau_so": 4,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Số nghiệm của phương trình $\\sqrt{2x^2 - 3x + 1} = x - 1$ là",
+        "lua_chon": {
+          "A": "0.",
+          "B": "1.",
+          "C": "2.",
+          "D": "3."
+        },
+        "dap_an": "B",
+        "giai_thich": "Với điều kiện $x \\ge 1$, bình phương hai vế được $x^2 - x = 0 \\Leftrightarrow x = 0$ (loại) hoặc $x = 1$ (nhận). Vậy phương trình có 1 nghiệm."
+      },
+      {
+        "cau_so": 5,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Tổng các nghiệm của phương trình $\\sqrt{x^2 + 2x + 4} = 2 - x$ bằng",
+        "lua_chon": {
+          "A": "$0$.",
+          "B": "$2$.",
+          "C": "$-2$.",
+          "D": "$\\frac{1}{2}$."
+        },
+        "dap_an": "A",
+        "giai_thich": "Điều kiện $2 - x \\ge 0 \\Leftrightarrow x \\le 2$. Bình phương hai vế: $x^2 + 2x + 4 = 4 - 4x + x^2 \\Leftrightarrow 6x = 0 \\Leftrightarrow x = 0$ (thỏa mãn $x \\le 2$). Vậy tổng các nghiệm bằng $0$."
+      }
+    ],
+    "dung_sai": [
+      {
+        "cau_so": 1,
+        "dan_nhap": "Cho phương trình $\\sqrt{3x^2 - 4x + 1} = \\sqrt{x^2 + x - 1}$ (1).",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Bình phương hai vế của (1) ta được phương trình $2x^2 - 5x + 2 = 0$.",
+            "dap_an": true,
+            "giai_thich": "Đúng: $3x^2 - 4x + 1 = x^2 + x - 1 \\Leftrightarrow 2x^2 - 5x + 2 = 0$."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Phương trình $2x^2 - 5x + 2 = 0$ có hai nghiệm là $x = 2$ và $x = \\frac{1}{2}$.",
+            "dap_an": true,
+            "giai_thich": "Đúng: $(2x - 1)(x - 2) = 0 \\Leftrightarrow x = \\frac{1}{2}$ hoặc $x = 2$."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Cả hai giá trị $x = 2$ và $x = \\frac{1}{2}$ đều là nghiệm của phương trình (1).",
+            "dap_an": false,
+            "giai_thich": "Sai. Khi thay $x = \\frac{1}{2}$ vào vế phải $x^2 + x - 1 = \\frac{1}{4} + \\frac{1}{2} - 1 = -\\frac{1}{4} < 0$, vi phạm điều kiện xác định nên phải loại $x = \\frac{1}{2}$."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Tập nghiệm của phương trình (1) là $S = \\{2\\}$.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Chỉ có $x = 2$ thỏa mãn ($\\sqrt{5} = \\sqrt{5}$)."
+          }
+        ]
+      },
+      {
+        "cau_so": 2,
+        "dan_nhap": "Xét phương trình $\\sqrt{x + 3} = x + 1$ (2).",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Điều kiện để vế phải không âm là $x \\ge -1$.",
+            "dap_an": true,
+            "giai_thich": "Đúng: $x + 1 \\ge 0 \\Leftrightarrow x \\ge -1$."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Sau khi bình phương hai vế, ta thu được phương trình bậc hai $x^2 + x - 2 = 0$.",
+            "dap_an": true,
+            "giai_thich": "Đúng: $x + 3 = x^2 + 2x + 1 \\Leftrightarrow x^2 + x - 2 = 0$."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Giá trị $x = -2$ thỏa mãn phương trình (2).",
+            "dap_an": false,
+            "giai_thich": "Sai. Tại $x = -2$, vế trái $\\sqrt{1} = 1$ còn vế phải $-2 + 1 = -1$ ($1 \\ne -1$)."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Phương trình (2) có nghiệm duy nhất là $x = 1$.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Thử lại $x = 1$: $\\sqrt{4} = 2 = 1 + 1$."
+          }
+        ]
+      }
+    ]
+  }
+}

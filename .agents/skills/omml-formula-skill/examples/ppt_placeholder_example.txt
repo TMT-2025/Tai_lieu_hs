@@ -1,0 +1,9 @@
+Put these placeholders into PowerPoint text boxes, then run inject_ppt_omml.py:
+
+{{OMML:eq1}}
+
+Routing: {{OMML:routing_weight}}
+
+{{OMML:evidence_fusion}}
+
+Use --scope all if placeholders are in notes, masters, or layouts.

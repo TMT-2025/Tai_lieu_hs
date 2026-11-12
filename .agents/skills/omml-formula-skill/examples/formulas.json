@@ -1,0 +1,43 @@
+{
+  "macros": {
+    "\\E": "\\mathbb{E}",
+    "\\R": "\\mathbb{R}"
+  },
+  "formulas": [
+    {
+      "id": "eq1",
+      "latex": "\\frac{\\tilde{e}^{+}}{S}",
+      "display": true,
+      "mode": "omml",
+      "alt": "positive evidence over S"
+    },
+    {
+      "id": "routing_weight",
+      "latex": "\\alpha_{i,m}=\\frac{\\exp(z_{i,m})}{\\sum_{m'}\\exp(z_{i,m'})}",
+      "display": true,
+      "mode": "omml",
+      "alt": "softmax routing weight over modalities"
+    },
+    {
+      "id": "evidence_fusion",
+      "latex": "m(A)=\\frac{\\sum_{B\\cap C=A}m_1(B)m_2(C)}{1-\\sum_{B\\cap C=\\varnothing}m_1(B)m_2(C)}",
+      "display": true,
+      "mode": "omml",
+      "alt": "Dempster combination rule"
+    },
+    {
+      "id": "bce_loss",
+      "latex": "\\mathcal{L}_{BCE}=-\\sum_{i=1}^{C}\\left[y_i\\log p_i+(1-y_i)\\log(1-p_i)\\right]",
+      "display": true,
+      "mode": "omml",
+      "alt": "binary cross entropy loss"
+    },
+    {
+      "id": "expected_value_inline",
+      "latex": "\\E[x]\\in\\R",
+      "display": false,
+      "mode": "omml",
+      "alt": "expected value of x is in real numbers"
+    }
+  ]
+}

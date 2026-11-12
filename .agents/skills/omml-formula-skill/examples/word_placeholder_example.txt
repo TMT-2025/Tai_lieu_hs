@@ -1,0 +1,9 @@
+Put these placeholders into a Word document, then run insert_word_omml.py:
+
+Inline formula: the routing weight is {{OMML:routing_weight}}.
+
+Standalone formula:
+{{OMML:eq1}}
+
+Table cells, headers and footers are also scanned:
+{{OMML:bce_loss}}

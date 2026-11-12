@@ -1,0 +1,4 @@
+interface:
+  display_name: "LaTeX OMML DOCX Audit"
+  short_description: "Audit DOCX formulas and diagnose OMML conversion failures"
+  default_prompt: "Use $latex-omml-docx-audit to inspect this DOCX and explain why its formulas do or do not render as native Word equations."

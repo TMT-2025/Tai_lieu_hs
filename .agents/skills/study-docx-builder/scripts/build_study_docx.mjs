@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { execFileSync } from 'child_process';
 import {
   AlignmentType,
   BorderStyle,
@@ -45,24 +46,33 @@ const COLOR_CALLOUT_BG = 'F0F6FC';
  */
 function parseRichRuns(text, baseOpts = {}) {
   if (!text) return [new TextRun({ text: '', font: FONT_NAME, ...baseOpts })];
-  const normalized = String(text).replace(/<->/g, '⇌').replace(/->/g, '→');
-  const tokenRegex = /(\*\*[^*]+\*\*|_\{[^}]+\}|\^\{[^}]+\})/g;
+  const raw = String(text);
+  const tokenRegex = /(\$\$[\s\S]+?\$\$|\$(?!\s)[^$\n]+?(?<!\s)\$|\*\*[^*]+\*\*|_\{[^}]+\}|\^\{[^}]+\})/g;
   const runs = [];
   let lastIndex = 0;
   let match;
 
-  while ((match = tokenRegex.exec(normalized)) !== null) {
+  while ((match = tokenRegex.exec(raw)) !== null) {
     if (match.index > lastIndex) {
+      const plain = raw.slice(lastIndex, match.index).replace(/<->/g, '⇌').replace(/->/g, '→');
       runs.push(
         new TextRun({
-          text: normalized.slice(lastIndex, match.index),
+          text: plain,
           font: FONT_NAME,
           ...baseOpts,
         })
       );
     }
     const token = match[0];
-    if (token.startsWith('**') && token.endsWith('**')) {
+    if (token.startsWith('$')) {
+      runs.push(
+        new TextRun({
+          text: token,
+          font: FONT_NAME,
+          ...baseOpts,
+        })
+      );
+    } else if (token.startsWith('**') && token.endsWith('**')) {
       runs.push(...parseRichRuns(token.slice(2, -2), { ...baseOpts, bold: true }));
     } else if (token.startsWith('_{') && token.endsWith('}')) {
       runs.push(
@@ -86,10 +96,10 @@ function parseRichRuns(text, baseOpts = {}) {
     lastIndex = tokenRegex.lastIndex;
   }
 
-  if (lastIndex < normalized.length) {
+  if (lastIndex < raw.length) {
     runs.push(
       new TextRun({
-        text: normalized.slice(lastIndex),
+        text: raw.slice(lastIndex).replace(/<->/g, '⇌').replace(/->/g, '→'),
         font: FONT_NAME,
         ...baseOpts,
       })
@@ -652,6 +662,13 @@ export async function buildStudyDocx(data, outputPath, mode = 'auto') {
   const buffer = await Packer.toBuffer(doc);
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
   fs.writeFileSync(outputPath, buffer);
+
+  if (JSON.stringify(data).includes('$')) {
+    const engineScript = path.resolve(path.dirname(import.meta.filename), 'math_physics_equation_engine.py');
+    const tmpOut = `${outputPath}.omml.tmp.docx`;
+    execFileSync('python', [engineScript, '--input', outputPath, '--output', tmpOut], { stdio: 'inherit' });
+    fs.renameSync(tmpOut, outputPath);
+  }
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve(import.meta.filename)) {
