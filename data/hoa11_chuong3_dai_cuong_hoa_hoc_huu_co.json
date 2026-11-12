@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "mon_hoc": "Hóa học",
+    "khoi_lop": "Lớp 11",
+    "bo_sach": "Tổng hợp 3 bộ sách (KNTT · CTST · Cánh Diều)",
+    "chuong": "Chương 3: Đại cương về hóa học hữu cơ",
+    "is_demo": false,
+    "nguon_sgk": "SGK Hóa học 11: KNTT (tr. 57–81), CTST (tr. 46–65), Cánh Diều (tr. 51–71)"
+  },
+  "muc_tieu_chuong": {
+    "kien_thuc": [
+      "Nêu được khái niệm hợp chất hữu cơ, hóa học hữu cơ, đặc điểm chung của hợp chất hữu cơ và phân loại (hydrocarbon, dẫn xuất hydrocarbon).",
+      "Nêu được khái niệm nhóm chức và sử dụng bảng tín hiệu phổ hồng ngoại (IR) để xác định một số nhóm chức cơ bản (-OH, >C=O, -NH_{2}, -COOH).",
+      "Trình bày được nguyên tắc và ứng dụng của 4 phương pháp tách biệt, tinh chế hợp chất hữu cơ: chưng cất, chiết, kết tinh và sắc kí cột.",
+      "Nêu được khái niệm công thức tổng quát, công thức đơn giản nhất, công thức phân tử; hiểu ý nghĩa của phổ khối lượng (MS) trong xác định phân tử khối.",
+      "Trình bày được nội dung thuyết cấu tạo hóa học (Butlerov), hiện tượng đồng phân (cấu tạo, lập thể) và khái niệm đồng đẳng, dãy đồng đẳng."
+    ],
+    "ky_nang": [
+      "Phân biệt được hợp chất hữu cơ với hợp chất vô cơ; nhận diện nhóm chức thông qua số sóng hấp thụ đặc trưng trên phổ IR.",
+      "Lựa chọn và vận dụng được phương pháp tách biệt, tinh chế phù hợp với hỗn hợp chất hữu cơ cụ thể trong phòng thí nghiệm và đời sống.",
+      "Lập được công thức đơn giản nhất và công thức phân tử hợp chất hữu cơ từ kết quả phân tích nguyên tố và phổ khối lượng (MS).",
+      "Viết được công thức cấu tạo đầy đủ, thu gọn, khung phân tử; xác định được chất đồng đẳng, chất đồng phân từ công thức cấu tạo."
+    ]
+  },
+  "y_nghia_thuc_tien": [
+    {
+      "hien_tuong": "Trong dân gian và công nghiệp thực phẩm, người ta nấu tinh dầu sả/vỏ bưởi bằng hơi nước, ngâm rượu thuốc bắc để lấy hoạt chất và làm đường kính từ nước mía bằng cách cô đặc rồi để nguội.",
+      "cau_hoi": "Mỗi quá trình trên tương ứng với phương pháp tách biệt và tinh chế hợp chất hữu cơ nào, dựa trên nguyên tắc vật lí nào?",
+      "giai_thich_hoa_hoc": "Nấu tinh dầu sả/bưởi là phương pháp chưng cất lôi cuốn hơi nước (dựa trên sự khác biệt nhiệt độ sôi và tính không tan của tinh dầu với nước); ngâm rượu thuốc là chiết lỏng-rắn (dựa vào độ tan của hoạt chất trong ethanol); làm đường kính là kết tinh (dựa vào độ tan của saccharose giảm khi hạ nhiệt độ).",
+      "y_nghia_ung_dung": "Giúp tách riêng và thu được các chất hữu cơ tinh khiết phục vụ y học, hương liệu và chế biến thực phẩm.",
+      "lien_ket_muc_c": "Xem Chủ đề 2 (Phương pháp tách biệt và tinh chế hợp chất hữu cơ)."
+    },
+    {
+      "hien_tuong": "Khi kiểm tra chất lượng dược phẩm hoặc dung môi công nghiệp (như ethanol, acetone, acetic acid), máy quang phổ hồng ngoại (IR) cho biết ngay sự có mặt của nhóm -OH hay >C=O chỉ trong vài giây mà không cần thử phản ứng hóa học phức tạp.",
+      "cau_hoi": "Vì sao phổ hồng ngoại (IR) có thể nhận diện nhanh chóng các nhóm chức khác nhau trong phân tử hợp chất hữu cơ?",
+      "giai_thich_hoa_hoc": "Mỗi loại liên kết hóa học (O-H, C=O, N-H, C-H) dao động với tần số đặc trưng riêng nên hấp thụ bức xạ hồng ngoại ở vùng số sóng (cm^{-1}) đặc trưng, tạo thành các peak hấp thụ trên phổ IR.",
+      "y_nghia_ung_dung": "Là công cụ hiện đại không thể thiếu trong kiểm nghiệm dược phẩm, thực phẩm và xác định cấu trúc hợp chất hữu cơ mới.",
+      "lien_ket_muc_c": "Xem Chủ đề 1 (Nhóm chức và Phổ hồng ngoại IR)."
+    },
+    {
+      "hien_tuong": "Eugenol (trong tinh dầu đinh hương, dùng làm chất diệt nấm, giảm đau răng) và camphor (trong cây long não) được xác định chính xác phân tử khối lần lượt là 164 và 152 nhờ phổ khối lượng (MS).",
+      "cau_hoi": "Làm thế nào từ phổ khối lượng (MS) và phần trăm khối lượng nguyên tố người ta tìm ra công thức phân tử chính xác của eugenol?",
+      "giai_thich_hoa_hoc": "Trên phổ MS, peak ion phân tử [M^{+}] (thường có giá trị m/z lớn nhất) cho biết phân tử khối M của chất. Kết hợp M với công thức đơn giản nhất (tìm từ %C, %H, %O) giúp xác định bội số n và công thức phân tử.",
+      "y_nghia_ung_dung": "Thay thế các phương pháp đo tỉ khối hơi cổ điển đối với các chất khó bay hơi hoặc lượng mẫu rất nhỏ.",
+      "lien_ket_muc_c": "Xem Chủ đề 3 (Công thức phân tử và Phổ khối lượng MS)."
+    },
+    {
+      "hien_tuong": "Ethanol (CH_{3}-CH_{2}-OH, lỏng, sôi ở 78,3 °C) và dimethyl ether (CH_{3}-O-CH_{3}, khí, sôi ở -24,9 °C) có cùng công thức phân tử C_{2}H_{6}O nhưng tính chất trái ngược nhau; trong khi methane, ethane, propane lại có tính chất hóa học tương tự nhau.",
+      "cau_hoi": "Quy luật cấu tạo nào giải thích hai hiện tượng đối lập trên trong hóa học hữu cơ?",
+      "giai_thich_hoa_hoc": "Ethanol và dimethyl ether khác nhau về thứ tự liên kết (nhóm chức -OH vs -O-) nên là chất đồng phân, dẫn đến tính chất khác nhau. Còn methane, ethane, propane có cấu tạo tương tự nhau và hơn kém nhau nhóm -CH_{2}- nên là chất đồng đẳng, có tính chất tương tự nhau.",
+      "y_nghia_ung_dung": "Giúp dự đoán tính chất, thiết kế vật liệu mới và phân loại hàng chục triệu hợp chất hữu cơ một cách khoa học.",
+      "lien_ket_muc_c": "Xem Chủ đề 4 (Thuyết cấu tạo hóa học, Đồng phân và Đồng đẳng)."
+    }
+  ],
+  "he_thong_kien_thuc": [
+    {
+      "muc_so": "1",
+      "chu_de": "Hợp chất hữu cơ, nhóm chức và phổ hồng ngoại (IR)",
+      "cot_loi": [
+        "Hợp chất hữu cơ là hợp chất của carbon (trừ CO, CO_{2}, muối carbonate, cyanide, carbide,...). Đặc điểm chung: thành phần nhất thiết có C, thường có H, O, N, halogen; liên kết chủ yếu là liên kết cộng hóa trị; nhiệt độ nóng chảy/sôi thường thấp, ít tan trong nước, dễ cháy; phản ứng xảy ra chậm, không hoàn toàn, theo nhiều hướng.",
+        "Phân loại: Hydrocarbon (chỉ gồm C và H, như CH_{4}, C_{2}H_{4}, C_{6}H_{6}) và Dẫn xuất của hydrocarbon (ngoài C, H còn có O, N, S, halogen,... như C_{2}H_{5}OH, CH_{3}COOH).",
+        "Nhóm chức là nguyên tử hoặc nhóm nguyên tử gây ra những tính chất hóa học đặc trưng của hợp chất hữu cơ (ví dụ: -OH alcohol/phenol, -CHO aldehyde, >C=O ketone, -COOH carboxylic acid, -COO- ester, -NH_{2} amine).",
+        "Phổ hồng ngoại (IR): số sóng hấp thụ đặc trưng (cm^{-1}): liên kết O-H (alcohol ~3600–3200 tù rộng; carboxylic acid ~3300–2500 rất rộng); C=O (~1750–1700 nhọn, mạnh); N-H (~3500–3300); C-H (~3000–2850)."
+      ],
+      "giai_thich_ban_chat": "Do độ âm điện của C (2,55) gần với H (2,20) và có 4 electron hóa trị, nguyên tử C chủ yếu hình thành liên kết cộng hóa trị ít phân cực nên lực tương tác liên phân tử yếu (dẫn đến nhiệt độ sôi thấp, dễ bay hơi). Khi thay H bằng nhóm chức phân cực (-OH, -COOH), phân tử hình thành liên kết hydrogen làm tăng nhiệt độ sôi và tính tan trong nước, đồng thời tạo ra dao động hấp thụ hồng ngoại đặc trưng dễ nhận biết trên phổ IR.",
+      "hinh_anh": {
+        "path": "data/assets/chuong3_hoa11/so_do_chuong3.png",
+        "caption": "Hình 1. Quy trình 4 bước nghiên cứu hợp chất hữu cơ trong Chương 3 Hóa học 11 (tổng hợp 3 bộ sách).",
+        "source": "Biên soạn chuẩn GDPT 2018",
+        "width_cm": 15.5
+      },
+      "vi_du": {
+        "de_bai": "Phổ IR của hợp chất hữu cơ X (chứa C, H, O) xuất hiện một tín hiệu tù rộng ở vùng 3400 cm^{-1} và không có tín hiệu mạnh nào ở vùng 1750–1700 cm^{-1}. Hãy dự đoán nhóm chức có trong X.",
+        "huong_dan": "Bước 1: Đối chiếu vùng 3400 cm^{-1} (dạng tù rộng) -> đặc trưng cho dao động hóa trị của liên kết O-H trong nhóm alcohol (hoặc phenol).\nBước 2: Kiểm tra vùng 1750–1700 cm^{-1} không có peak mạnh -> phân tử X không chứa nhóm >C=O (loại trừ carboxylic acid, aldehyde, ketone, ester).\nBước 3: Kết luận X chứa nhóm chức alcohol (-OH)."
+      }
+    },
+    {
+      "muc_so": "2",
+      "chu_de": "Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+      "cot_loi": [
+        "Chưng cất: Dựa vào sự khác nhau về nhiệt độ sôi của các chất trong hỗn hợp lỏng ở áp suất nhất định (gồm chưng cất thường, chưng cất phân đoạn, chưng cất lôi cuốn hơi nước). Ví dụ: tách ethanol khỏi nước, tách phân đoạn dầu mỏ, tách tinh dầu sả.",
+        "Chiết: Dựa vào sự phân bố khác nhau của chất trong hai môi trường không trộn lẫn. Chiết lỏng-lỏng tách chất tan trong nước bằng dung môi hữu cơ (hexane, ethyl acetate) dùng phễu chiết; Chiết lỏng-rắn ngâm/đun chất rắn với dung môi thích hợp (pha trà, ngâm rượu thuốc).",
+        "Kết tinh: Dựa vào độ tan khác nhau của chất rắn theo nhiệt độ trong cùng một dung môi (độ tan thường tăng mạnh khi đun nóng và giảm khi làm lạnh). Ví dụ: làm đường kính từ nước mía, tinh chế benzoic acid.",
+        "Sắc kí cột: Dựa vào sự khác nhau về tốc độ di chuyển của các chất trên pha tĩnh (chất hấp phụ rắn như silica gel, Al_{2}O_{3}) khi được pha động (dung môi hữu cơ) đẩy qua. Chất bị hấp phụ yếu ra trước, hấp phụ mạnh ra sau."
+      ],
+      "giai_thich_ban_chat": "Tách biệt và tinh chế là bước đầu tiên trước khi phân tích cấu trúc: không phá vỡ liên kết hóa học của chất cần thu mà khai thác sự chênh lệch về hằng số vật lí (nhiệt độ sôi, độ tan theo nhiệt độ, hệ số phân bố giữa hai dung môi, hoặc khả năng hấp phụ lên bề mặt chất rắn).",
+      "vi_du": {
+        "de_bai": "Để thu được tinh dầu bưởi từ vỏ bưởi tươi và tách lớp tinh dầu nổi trên bề mặt nước thu được, người ta phối hợp những phương pháp nào?",
+        "huong_dan": "Bước 1: Đun sôi vỏ bưởi với nước -> áp dụng phương pháp chưng cất lôi cuốn hơi nước để hơi nước cuốn theo tinh dầu ngưng tụ.\nBước 2: Hỗn hợp ngưng tụ tách thành 2 lớp không tan vào nhau (lớp tinh dầu nhẹ hơn nổi ở trên, lớp nước ở dưới) -> dùng phễu chiết (chiết lỏng-lỏng) để mở khóa cho lớp nước chảy xuống dưới và thu lấy lớp tinh dầu phía trên."
+      }
+    },
+    {
+      "muc_so": "3",
+      "chu_de": "Công thức phân tử hợp chất hữu cơ và phổ khối lượng (MS)",
+      "cot_loi": [
+        "Công thức tổng quát (CTTQ): Cho biết thành phần định tính các nguyên tố (ví dụ C_{x}H_{y}O_{z}).",
+        "Công thức đơn giản nhất (CTĐGN): Biểu diễn tỉ lệ tối giản về số nguyên tử của các nguyên tố (C_{p}H_{q}O_{r} với p:q:r tối giản).",
+        "Công thức phân tử (CTPT): Cho biết số lượng nguyên tử chính xác của mỗi nguyên tố trong phân tử: C_{x}H_{y}O_{z} = (C_{p}H_{q}O_{r})_{n}.",
+        "Phổ khối lượng (MS): Trên phổ MS của hợp chất hữu cơ đơn giản, mảnh ion phân tử [M^{+}] (peak có giá trị m/z lớn nhất, bỏ qua các peak đồng vị rất nhỏ) có giá trị m/z bằng phân tử khối M của chất."
+      ],
+      "giai_thich_ban_chat": "Khi xác định CTĐGN từ phần trăm khối lượng (%C, %H, %O, %N), ta tính tỉ lệ số mol nguyên tử p : q : r : t = (%C/12) : (%H/1) : (%O/16) : (%N/14). Tuy nhiên nhiều chất khác nhau có cùng CTĐGN (ví dụ C_{2}H_{2} và C_{6}H_{6} cùng có CTĐGN là CH), nên cần biết thêm phân tử khối M (qua phổ MS) để tìm n = M / M_{CTĐGN}.",
+      "vi_du": {
+        "de_bai": "Menthol (có trong tinh dầu bạc hà) chứa 76,92% C; 12,82% H; còn lại là O về khối lượng. Phổ khối lượng MS cho peak ion phân tử [M^{+}] tại m/z = 156. Lập công thức phân tử của menthol.",
+        "huong_dan": "Bước 1: Tính %O = 100% - 76,92% - 12,82% = 10,26%.\nBước 2: Lập tỉ lệ số mol nguyên tử C : H : O = (76,92 / 12) : (12,82 / 1) : (10,26 / 16) = 6,41 : 12,82 : 0,64125 = 10 : 20 : 1 -> CTĐGN là C_{10}H_{20}O.\nBước 3: Từ phổ MS có M = 156. Mặt khác M_{CTĐGN} = 10*12 + 20*1 + 16 = 156 -> n = 156 / 156 = 1 -> CTPT của menthol là C_{10}H_{20}O."
+      }
+    },
+    {
+      "muc_so": "4",
+      "chu_de": "Thuyết cấu tạo hóa học, đồng phân và đồng đẳng",
+      "cot_loi": [
+        "Thuyết cấu tạo hóa học (Butlerov, 1861): (1) Các nguyên tử liên kết đúng hóa trị và theo thứ tự nhất định; (2) Carbon có hóa trị IV và liên kết với nhau tạo mạch không phân nhánh, phân nhánh hoặc mạch vòng; (3) Tính chất phụ thuộc vào thành phần phân tử và cấu tạo hóa học, các nguyên tử ảnh hưởng qua lại lẫn nhau.",
+        "Công thức cấu tạo: gồm dạng đầy đủ, thu gọn (viết gộp H vào C) và khung phân tử (mỗi đầu đoạn thẳng/gấp khúc là 1 C, ẩn H gắn với C).",
+        "Đồng phân: Các chất khác nhau có cùng CTPT. Đồng phân cấu tạo gồm: đồng phân mạch carbon, đồng phân loại nhóm chức, đồng phân vị trí nhóm chức/liên kết bội. Ngoài ra còn có đồng phân lập thể (như đồng phân hình học cis-/trans-).",
+        "Đồng đẳng: Các chất có tính chất hóa học tương tự nhau và thành phần phân tử hơn kém nhau một hay nhiều nhóm CH_{2}, hợp thành dãy đồng đẳng (ví dụ alkane C_{n}H_{2n+2}, alcohol no đơn chức mạch hở C_{n}H_{2n+2}O)."
+      ],
+      "giai_thich_ban_chat": "Sự kết hợp giữa hóa trị IV của carbon, khả năng tạo mạch đa dạng và sự thay đổi vị trí/loại nhóm chức giải thích vì sao số lượng hợp chất hữu cơ lên tới hàng chục triệu chất, trong khi các chất có cùng cấu trúc khung và nhóm chức lại lặp lại quy luật tính chất hóa học theo từng dãy đồng đẳng.",
+      "hinh_anh": {
+        "path": "data/assets/bai13_hoa11_kntt/hinh1_cau_tao_2d.png",
+        "caption": "Hình 2. Minh họa công thức cấu tạo 2D (dạng khung phân tử) của một số đồng phân và mạch carbon tiêu biểu.",
+        "source": "Tạo bằng RDKit (chem-vis)",
+        "width_cm": 15.0
+      },
+      "vi_du": {
+        "de_bai": "Viết các công thức cấu tạo mạch hở ứng với công thức phân tử C_{3}H_{8}O và phân loại mối quan hệ đồng phân giữa chúng.",
+        "huong_dan": "Bước 1: Kiểm tra độ bão hòa: với 3C, số H tối đa là 2*3 + 2 = 8 -> phân tử chỉ chứa liên kết đơn.\nBước 2: Viết 3 công thức cấu tạo: (1) CH_{3}-CH_{2}-CH_{2}-OH; (2) CH_{3}-CH(OH)-CH_{3}; (3) CH_{3}-O-CH_{2}-CH_{3}.\nBước 3: Phân loại: (1) và (2) là đồng phân vị trí nhóm chức (-OH ở C1 và C2); (1) hoặc (2) với (3) là đồng phân loại nhóm chức (alcohol và ether)."
+      }
+    }
+  ],
+  "bang_tong_hop_lien_he": {
+    "tieu_de": "Bảng tổng hợp các phương pháp tách & phân tích cấu trúc hợp chất hữu cơ",
+    "headers": [
+      "Phương pháp / Khái niệm",
+      "Cơ sở khoa học",
+      "Thông tin thu được / Ứng dụng",
+      "Ví dụ minh họa"
+    ],
+    "rows": [
+      [
+        "Chưng cất",
+        "Khác biệt nhiệt độ sôi",
+        "Tách hỗn hợp lỏng - lỏng hoặc lỏng - rắn bay hơi",
+        "Chưng cất rượu ethanol - nước; lọc hóa dầu"
+      ],
+      [
+        "Chiết",
+        "Khác biệt độ hòa tan trong 2 pha không trộn lẫn",
+        "Tách chất tan trong nước sang dung môi hữu cơ hoặc ngâm chiết dược liệu",
+        "Chiết tinh dầu; ngâm rượu thuốc; pha trà"
+      ],
+      [
+        "Kết tinh",
+        "Độ tan chất rắn thay đổi theo nhiệt độ",
+        "Tinh chế chất rắn từ dung dịch",
+        "Làm đường kính từ mía; tinh chế muối, benzoic acid"
+      ],
+      [
+        "Sắc kí cột",
+        "Khác biệt tốc độ di chuyển (hấp phụ pha tĩnh / hòa tan pha động)",
+        "Tách các chất có tính chất rất gần nhau với lượng nhỏ",
+        "Tách sắc tố thực vật (carotenoid, chlorophyll)"
+      ],
+      [
+        "Phổ hồng ngoại (IR)",
+        "Hấp thụ bức xạ hồng ngoại theo tần số dao động liên kết",
+        "Nhận biết nhóm chức (-OH, >C=O, -NH_{2},...)",
+        "Peak tù 3600–3200 cm^{-1} nhận ra nhóm -OH"
+      ],
+      [
+        "Phổ khối lượng (MS)",
+        "Phân tách ion theo tỉ lệ m/z",
+        "Xác định phân tử khối M qua peak ion phân tử [M^{+}]",
+        "Camphor có m/z [M^{+}] = 152 -> M = 152"
+      ]
+    ]
+  },
+  "vi_du_tong_hop": [
+    {
+      "tieu_de": "Kết hợp phân tích nguyên tố, phổ MS và phổ IR xác định cấu tạo chất hữu cơ",
+      "de_bai": "Hợp chất hữu cơ X (là dung môi phổ biến trong tẩy sơn móng tay, nước hoa) có thành phần phần trăm khối lượng: 54,55% C; 9,09% H; 36,36% O. Trên phổ MS của X thấy peak ion phân tử [M^{+}] ở m/z = 88. Trên phổ IR của X có tín hiệu hấp thụ mạnh ở 1740 cm^{-1} (nhóm C=O) và không có tín hiệu tù rộng ở vùng 3600–2500 cm^{-1}. Xác định công thức phân tử và công thức cấu tạo phù hợp của X (biết X có nhóm -COO-).",
+      "huong_dan": "Bước 1: Tìm CTĐGN: C : H : O = (54,55/12) : (9,09/1) : (36,36/16) = 4,546 : 9,09 : 2,2725 = 2 : 4 : 1 -> CTĐGN là C_{2}H_{4}O (M = 44).\nBước 2: Từ phổ MS có M_{X} = 88 -> n = 88 / 44 = 2 -> CTPT của X là C_{4}H_{8}O_{2}.\nBước 3: Từ phổ IR không có peak -OH (3600–2500 cm^{-1}) nên loại alcohol và carboxylic acid; có peak C=O (1740 cm^{-1}) và nhóm ester -COO- -> X có thể là CH_{3}-COO-CH_{2}-CH_{3} (ethyl acetate), HCOOC_{3}H_{7} hoặc C_{2}H_{5}COOCH_{3}."
+    },
+    {
+      "tieu_de": "Xác định đồng phân, đồng đẳng và cách viết công thức khung phân tử",
+      "de_bai": "Cho các chất: (1) CH_{3}-CH_{2}-CH_{2}-CH_{3}; (2) CH_{3}-CH(CH_{3})-CH_{3}; (3) CH_{3}-CH_{2}-CH_{3}; (4) CH_{2}=CH-CH_{2}-CH_{3}. Hãy chỉ ra cặp chất đồng phân, cặp chất đồng đẳng và cho biết chất nào có thể biểu diễn bằng đường gấp khúc 3 đoạn liên tiếp không phân nhánh.",
+      "huong_dan": "Bước 1: Xác định CTPT từng chất: (1) C_{4}H_{10}; (2) C_{4}H_{10}; (3) C_{3}H_{8}; (4) C_{4}H_{8}.\nBước 2: Cặp (1) và (2) cùng CTPT C_{4}H_{10}, khác cấu tạo mạch C -> là đồng phân mạch carbon.\nBước 3: Chất (3) C_{3}H_{8} với (1) hoặc (2) C_{4}H_{10} đều thuộc dãy alkane C_{n}H_{2n+2}, hơn kém nhau 1 nhóm CH_{2} -> là đồng đẳng của nhau. Chất (1) là mạch 4C liên kết đơn không phân nhánh nên biểu diễn bằng đường gấp khúc 3 đoạn liên tiếp."
+    }
+  ],
+  "cac_dang_bai_tap": [
+    {
+      "ten_dang": "Dạng 1: Lựa chọn phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+      "phuong_phap": "Xác định trạng thái tập hợp (rắn, lỏng, khí), tính tan trong nước/dung môi hữu cơ và chênh lệch nhiệt độ sôi của các cấu tử trong hỗn hợp để chọn đúng: Chưng cất (lỏng tan lẫn, khác nhiệt độ sôi), Chiết (không trộn lẫn/khác độ tan), Kết tinh (chất rắn hòa tan), Sắc kí cột (tách lượng nhỏ chất có tính chất gần nhau).",
+      "vi_du_minh_hoa": "Để tách nước (t_{s} = 100 °C) và ethanol (t_{s} = 78,3 °C) dùng chưng cất phân đoạn; để tách hỗn hợp dầu ăn và nước dùng phễu chiết (chiết lỏng-lỏng)."
+    },
+    {
+      "ten_dang": "Dạng 2: Đọc phổ hồng ngoại (IR) nhận biết nhóm chức",
+      "phuong_phap": "Tìm vùng số sóng đặc trưng: ~3600–3200 cm^{-1} (tù) -> -OH alcohol; ~3300–2500 cm^{-1} (rất rộng) + ~1710 cm^{-1} -> -COOH; ~1750–1700 cm^{-1} (nhọn, mạnh) không có -OH -> aldehyde, ketone hoặc ester.",
+      "vi_du_minh_hoa": "Phổ IR của acetic acid (CH_{3}COOH) có cả peak rất rộng ở 3300–2500 cm^{-1} (-OH acid) và peak mạnh ở ~1715 cm^{-1} (C=O)."
+    },
+    {
+      "ten_dang": "Dạng 3: Lập công thức phân tử từ % khối lượng nguyên tố và phổ khối lượng (MS)",
+      "phuong_phap": "Tìm tỉ lệ p : q : r = (%C/12) : (%H/1) : (%O/16) -> CTĐGN -> lấy M từ peak ion phân tử [M^{+}] trên phổ MS -> tìm n = M / M_{CTĐGN} -> CTPT.",
+      "vi_du_minh_hoa": "Camphor có 78,94% C; 10,53% H; 10,53% O và m/z [M^{+}] = 152 -> tỉ lệ C:H:O = 10:16:1 -> CTĐGN C_{10}H_{16}O (M=152) -> CTPT C_{10}H_{16}O."
+    },
+    {
+      "ten_dang": "Dạng 4: Viết đồng phân cấu tạo và nhận biết chất đồng đẳng",
+      "phuong_phap": "Viết mạch C dài nhất -> rút dần 1C làm nhánh (tránh đối xứng) -> thay đổi vị trí nhóm chức/liên kết bội hoặc đổi loại nhóm chức. Kiểm tra đồng đẳng bằng cả 2 điều kiện: hơn kém k nhóm CH_{2} VÀ cùng loại nhóm chức/dãy chất.",
+      "vi_du_minh_hoa": "C_{4}H_{10} có 2 đồng phân mạch C; C_{5}H_{12} có 3 đồng phân mạch C; CH_{3}OH và C_{2}H_{5}OH là đồng đẳng."
+    }
+  ],
+  "cau_hoi_tu_kiem_tra": {
+    "mcq": [
+      {
+        "cau_so": 1,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Chất nào sau đây là hợp chất hữu cơ?",
+        "lua_chon": {
+          "A": "CO_{2}.",
+          "B": "Na_{2}CO_{3}.",
+          "C": "CH_{3}COOH.",
+          "D": "CaC_{2}."
+        },
+        "dap_an": "C",
+        "giai_thich": "Hợp chất hữu cơ là hợp chất của carbon trừ CO, CO_{2}, muối carbonate, carbide,... nên CH_{3}COOH là hợp chất hữu cơ."
+      },
+      {
+        "cau_so": 2,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Nhóm chức nào sau đây gây ra tín hiệu hấp thụ mạnh ở vùng số sóng khoảng 1750–1700 cm^{-1} trên phổ hồng ngoại (IR)?",
+        "lua_chon": {
+          "A": "Nhóm -OH.",
+          "B": "Liên kết C=O.",
+          "C": "Liên kết C-H.",
+          "D": "Nhóm -NH_{2}."
+        },
+        "dap_an": "B",
+        "giai_thich": "Liên kết đôi C=O trong aldehyde, ketone, carboxylic acid, ester có dao động đặc trưng hấp thụ mạnh ở vùng 1750–1700 cm^{-1}."
+      },
+      {
+        "cau_so": 3,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Phương pháp nào sau đây thường dùng để tách hỗn hợp hai chất lỏng tan lẫn vào nhau có nhiệt độ sôi khác nhau (ví dụ ethanol và nước)?",
+        "lua_chon": {
+          "A": "Chiết lỏng - lỏng.",
+          "B": "Kết tinh.",
+          "C": "Chưng cất.",
+          "D": "Lọc."
+        },
+        "dap_an": "C",
+        "giai_thich": "Chưng cất là phương pháp tách các chất lỏng dựa vào sự khác nhau về nhiệt độ sôi."
+      },
+      {
+        "cau_so": 4,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Trên phổ khối lượng (MS) của hợp chất hữu cơ đơn giản, giá trị m/z của peak ion phân tử [M^{+}] cho biết đại lượng nào sau đây?",
+        "lua_chon": {
+          "A": "Số nguyên tử carbon.",
+          "B": "Phân tử khối của chất.",
+          "C": "Số liên kết đôi trong phân tử.",
+          "D": "Nhiệt độ sôi của chất."
+        },
+        "dap_an": "B",
+        "giai_thich": "Ion phân tử [M^{+}] mang điện tích +1 có khối lượng xấp xỉ phân tử khối M, nên giá trị m/z của peak [M^{+}] chính bằng phân tử khối của chất."
+      },
+      {
+        "cau_so": 5,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Để làm đường kính trắng từ nước mía, người ta cô đặc nước mía rồi để nguội cho đường tách ra ở dạng tinh thể. Quá trình này dựa trên phương pháp nào?",
+        "lua_chon": {
+          "A": "Chưng cất phân đoạn.",
+          "B": "Sắc kí cột.",
+          "C": "Chiết lỏng - rắn.",
+          "D": "Kết tinh."
+        },
+        "dap_an": "D",
+        "giai_thich": "Làm đường từ nước mía dựa vào độ tan của saccharose tăng khi nóng và giảm mạnh khi làm lạnh để tách chất rắn kết tinh."
+      },
+      {
+        "cau_so": 6,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Cho các chất: (1) CH_{4}; (2) C_{2}H_{4}; (3) CH_{3}Cl; (4) C_{6}H_{6}; (5) CH_{3}NH_{2}. Những chất nào thuộc loại hydrocarbon?",
+        "lua_chon": {
+          "A": "(1), (2), (4).",
+          "B": "(1), (3), (5).",
+          "C": "(2), (3), (4).",
+          "D": "(1), (2), (3)."
+        },
+        "dap_an": "A",
+        "giai_thich": "Hydrocarbon chỉ chứa 2 nguyên tố là C và H gồm CH_{4} (1), C_{2}H_{4} (2) và C_{6}H_{6} (4). Các chất (3) và (5) là dẫn xuất hydrocarbon."
+      },
+      {
+        "cau_so": 7,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Trong phương pháp sắc kí cột để tách hỗn hợp các chất màu thực vật, chất nào sẽ đi ra khỏi cột sắc kí trước?",
+        "lua_chon": {
+          "A": "Chất có khối lượng phân tử lớn nhất.",
+          "B": "Chất bị pha tĩnh hấp phụ mạnh nhất.",
+          "C": "Chất bị pha tĩnh hấp phụ yếu nhất và tan tốt trong pha động.",
+          "D": "Chất có nhiệt độ sôi thấp nhất."
+        },
+        "dap_an": "C",
+        "giai_thich": "Trong sắc kí cột, chất ít bị pha tĩnh hấp phụ và hòa tan tốt trong pha động sẽ di chuyển nhanh hơn nên ra khỏi cột trước."
+      },
+      {
+        "cau_so": 8,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Hợp chất hữu cơ nào sau đây có công thức đơn giản nhất là CH_{2}O?",
+        "lua_chon": {
+          "A": "C_{2}H_{5}OH.",
+          "B": "CH_{3}COOH.",
+          "C": "CH_{3}CHO.",
+          "D": "HCOOCH_{3} và CH_{3}COOH đều không đúng."
+        },
+        "dap_an": "B",
+        "giai_thich": "CH_{3}COOH có CTPT C_{2}H_{4}O_{2}; chia tỉ lệ C:H:O = 2:4:2 cho 2 được CTĐGN là CH_{2}O."
+      },
+      {
+        "cau_so": 9,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Cặp chất nào sau đây là đồng phân cấu tạo của nhau?",
+        "lua_chon": {
+          "A": "CH_{3}-CH_{2}-OH và CH_{3}-CH_{2}-CH_{2}-OH.",
+          "B": "CH_{3}-O-CH_{3} và CH_{3}-CH_{2}-OH.",
+          "C": "CH_{3}-CHO và CH_{3}-CH_{2}-OH.",
+          "D": "CH_{4} và C_{2}H_{6}."
+        },
+        "dap_an": "B",
+        "giai_thich": "CH_{3}-O-CH_{3} và CH_{3}-CH_{2}-OH có cùng CTPT C_{2}H_{6}O nhưng khác nhau về cấu tạo hóa học nên là đồng phân loại nhóm chức."
+      },
+      {
+        "cau_so": 10,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Dãy chất nào sau đây gồm các chất thuộc cùng một dãy đồng đẳng?",
+        "lua_chon": {
+          "A": "CH_{4}, C_{2}H_{4}, C_{3}H_{6}.",
+          "B": "CH_{3}OH, CH_{3}-O-CH_{3}, C_{2}H_{5}OH.",
+          "C": "HCHO, CH_{3}CHO, C_{2}H_{5}CHO.",
+          "D": "C_{2}H_{2}, C_{2}H_{4}, C_{2}H_{6}."
+        },
+        "dap_an": "C",
+        "giai_thich": "HCHO, CH_{3}CHO, C_{2}H_{5}CHO đều thuộc dãy đồng đẳng aldehyde no, đơn chức, mạch hở (công thức chung C_{n}H_{2n}O, hơn kém nhau nhóm CH_{2} và tính chất tương tự nhau)."
+      },
+      {
+        "cau_so": 11,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Số đồng phân cấu tạo mạch hở ứng với công thức phân tử C_{5}H_{12} là",
+        "lua_chon": {
+          "A": "2.",
+          "B": "3.",
+          "C": "4.",
+          "D": "5."
+        },
+        "dap_an": "B",
+        "giai_thich": "C_{5}H_{12} có 3 đồng phân mạch carbon: pentane (mạch thẳng), 2-methylbutane (1 nhánh) và 2,2-dimethylpropane (2 nhánh)."
+      },
+      {
+        "cau_so": 12,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Eugenol (thành phần chính trong tinh dầu đinh hương) chứa 73,17% C; 7,31% H; còn lại là O về khối lượng. Phổ MS cho biết phân tử khối của eugenol là 164. Công thức phân tử của eugenol là",
+        "lua_chon": {
+          "A": "C_{9}H_{8}O_{3}.",
+          "B": "C_{10}H_{10}O_{2}.",
+          "C": "C_{10}H_{12}O_{2}.",
+          "D": "C_{11}H_{16}O."
+        },
+        "dap_an": "C",
+        "giai_thich": "Số nguyên tử C = 164*73,17% / 12 = 10; H = 164*7,31% / 1 = 12; O = 164*19,52% / 16 = 2. Vậy CTPT của eugenol là C_{10}H_{12}O_{2} (M = 164)."
+      },
+      {
+        "cau_so": 13,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Đốt cháy hoàn toàn 4,4 g hợp chất hữu cơ X (chứa C, H, O) thu được 8,8 g CO_{2} và 3,6 g H_{2}O. Phổ MS của X có peak ion phân tử [M^{+}] ở m/z = 88. Công thức phân tử của X là",
+        "lua_chon": {
+          "A": "C_{2}H_{4}O.",
+          "B": "C_{4}H_{8}O_{2}.",
+          "C": "C_{3}H_{6}O_{2}.",
+          "D": "C_{5}H_{12}O."
+        },
+        "dap_an": "B",
+        "giai_thich": "n_{CO2} = 8,8/44 = 0,2 mol -> n_{C} = 0,2 mol; n_{H2O} = 3,6/18 = 0,2 mol -> n_{H} = 0,4 mol. m_{O} = 4,4 - 0,2*12 - 0,4*1 = 1,6 g -> n_{O} = 0,1 mol. Tỉ lệ C:H:O = 2:4:1 -> CTĐGN C_{2}H_{4}O (M=44). Với M_{X} = 88 -> n = 2 -> C_{4}H_{8}O_{2}."
+      },
+      {
+        "cau_so": 14,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Hợp chất hữu cơ Y có CTPT C_{3}H_{8}O. Số đồng phân cấu tạo mạch hở của Y tác dụng được với kim loại Na giải phóng khí H_{2} là",
+        "lua_chon": {
+          "A": "1.",
+          "B": "2.",
+          "C": "3.",
+          "D": "4."
+        },
+        "dap_an": "B",
+        "giai_thich": "C_{3}H_{8}O có 3 đồng phân cấu tạo gồm 2 alcohol (CH_{3}-CH_{2}-CH_{2}-OH và CH_{3}-CH(OH)-CH_{3}) và 1 ether (CH_{3}-O-CH_{2}-CH_{3}). Chỉ 2 alcohol có nhóm -OH tác dụng được với Na."
+      },
+      {
+        "cau_so": 15,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Trên phổ IR của hợp chất hữu cơ Z (CTPT C_{3}H_{6}O_{2}) có peak rộng đặc trưng ở 3300–2500 cm^{-1} và peak nhọn mạnh ở 1715 cm^{-1}. Công thức cấu tạo phù hợp của Z là",
+        "lua_chon": {
+          "A": "CH_{3}-COO-CH_{3}.",
+          "B": "H-COO-CH_{2}-CH_{3}.",
+          "C": "CH_{3}-CH_{2}-COOH.",
+          "D": "HO-CH_{2}-CO-CH_{3}."
+        },
+        "dap_an": "C",
+        "giai_thich": "Vùng 3300–2500 cm^{-1} rất rộng đặc trưng cho liên kết O-H của nhóm -COOH, kết hợp peak C=O ở 1715 cm^{-1} khẳng định Z là carboxylic acid CH_{3}-CH_{2}-COOH."
+      }
+    ],
+    "dung_sai": [
+      {
+        "cau_so": 1,
+        "dan_nhap": "Trong phòng thí nghiệm, để tách tinh dầu cam (không tan trong nước, nhẹ hơn nước) và tinh chế benzoic acid lẫn tạp chất không tan trong nước (biết benzoic acid tan nhiều trong nước nóng, ít tan trong nước lạnh), học sinh thực hiện các thao tác tách biệt và tinh chế.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Có thể dùng phương pháp chưng cất lôi cuốn hơi nước để tách tinh dầu cam từ vỏ cam tươi.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Tinh dầu thực vật bay hơi cùng hơi nước và không tan trong nước nên dùng chưng cất lôi cuốn hơi nước rất hiệu quả."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Để tách lớp tinh dầu cam nổi trên bề mặt nước ngưng tụ, ta dùng phễu chiết cho lớp tinh dầu ở trên chảy ra khỏi phễu trước.",
+            "dap_an": false,
+            "giai_thich": "Sai. Khi chiết lỏng-lỏng bằng phễu chiết, phải mở khóa cho lớp chất lỏng nặng hơn ở phía dưới (lớp nước) chảy ra trước, sau đó mới thu lớp tinh dầu ở phía trên."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Để tinh chế benzoic acid, ta hòa tan vào nước nóng, lọc nóng loại tạp chất không tan rồi làm lạnh dung dịch để benzoic acid kết tinh.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Đây chính là quy trình chuẩn của phương pháp kết tinh."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Cơ sở của phương pháp kết tinh là sự khác nhau về nhiệt độ sôi giữa chất cần tinh chế và dung môi.",
+            "dap_an": false,
+            "giai_thich": "Sai. Cơ sở của phương pháp kết tinh là sự thay đổi độ tan của chất rắn theo nhiệt độ (không phải nhiệt độ sôi)."
+          }
+        ]
+      },
+      {
+        "cau_so": 2,
+        "dan_nhap": "Cho hai chất hữu cơ A và B có cùng công thức phân tử C_{3}H_{6}O. Trên phổ hồng ngoại (IR): chất A có peak nhọn mạnh ở 1720 cm^{-1}, không có peak ở vùng 3600–3200 cm^{-1}; chất B có peak tù rộng ở 3350 cm^{-1}, không có peak ở vùng 1750–1700 cm^{-1}.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Chất A có chứa liên kết C=O trong phân tử.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Peak nhọn mạnh ở 1720 cm^{-1} nằm trong vùng đặc trưng 1750–1700 cm^{-1} của nhóm C=O."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Chất B có chứa nhóm chức -OH của alcohol.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Peak tù rộng ở 3350 cm^{-1} (3600–3200 cm^{-1}) đặc trưng cho nhóm -OH alcohol (ví dụ CH_{2}=CH-CH_{2}-OH)."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "A và B là hai chất đồng đẳng của nhau.",
+            "dap_an": false,
+            "giai_thich": "Sai. A và B có cùng CTPT C_{3}H_{6}O nhưng khác nhóm chức nên là đồng phân loại nhóm chức, không phải đồng đẳng."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Chất A có thể là acetone (CH_{3}-CO-CH_{3}) hoặc propanal (CH_{3}-CH_{2}-CHO).",
+            "dap_an": true,
+            "giai_thich": "Đúng. Cả acetone (ketone) và propanal (aldehyde) đều có CTPT C_{3}H_{6}O và chứa nhóm >C=O."
+          }
+        ]
+      },
+      {
+        "cau_so": 3,
+        "dan_nhap": "Phân tích camphor (chất rắn màu trắng có trong cây long não) thu được 78,94% C; 10,53% H và 10,53% O về khối lượng. Phổ khối lượng (MS) của camphor cho peak ion phân tử [M^{+}] có giá trị m/z = 152.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Phân tử khối của camphor là 152.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Giá trị m/z của peak ion phân tử [M^{+}] bằng phân tử khối M = 152."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Công thức đơn giản nhất của camphor là C_{10}H_{16}O.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Tỉ lệ C:H:O = (78,94/12) : (10,53/1) : (10,53/16) = 6,578 : 10,53 : 0,658 = 10 : 16 : 1."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Công thức phân tử của camphor trùng với công thức đơn giản nhất là C_{10}H_{16}O.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Vì M_{C10H16O} = 10*12 + 16 + 16 = 152 bằng M từ phổ MS nên n = 1."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Camphor thuộc loại hợp chất hydrocarbon vì phần trăm khối lượng carbon rất lớn.",
+            "dap_an": false,
+            "giai_thich": "Sai. Trong phân tử camphor có chứa nguyên tố oxygen (O) nên camphor là dẫn xuất của hydrocarbon."
+          }
+        ]
+      },
+      {
+        "cau_so": 4,
+        "dan_nhap": "Xét thuyết cấu tạo hóa học của Butlerov và ứng dụng vào các hợp chất có công thức phân tử C_{4}H_{10} và C_{4}H_{8}.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Trong mọi hợp chất hữu cơ bền, nguyên tử carbon đều có hóa trị IV.",
+            "dap_an": true,
+            "giai_thich": "Đúng theo luận điểm 2 của thuyết cấu tạo hóa học."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Ứng với công thức phân tử C_{4}H_{10} có 2 đồng phân cấu tạo là butane (mạch không phân nhánh) và isobutane (mạch phân nhánh).",
+            "dap_an": true,
+            "giai_thich": "Đúng. C_{4}H_{10} là alkane chỉ có 2 đồng phân mạch carbon."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Hai công thức CH_{3}-CH_{2}-CH_{2}-CH_{3} và CH_{3}-CH(CH_{3})-CH_{3} là đồng phân vị trí nhóm chức.",
+            "dap_an": false,
+            "giai_thich": "Sai. Hai chất này không có nhóm chức, chúng là đồng phân mạch carbon của nhau."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Các chất C_{4}H_{8} mạch vòng (như cyclobutane) và mạch hở (như but-1-ene) là đồng phân cấu tạo của nhau.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Chúng có cùng CTPT C_{4}H_{8} nhưng khác cấu tạo hóa học (mạch vòng vs mạch hở có nối đôi)."
+          }
+        ]
+      },
+      {
+        "cau_so": 5,
+        "dan_nhap": "Cho dãy các hợp chất hữu cơ: (1) CH_{3}-OH; (2) CH_{3}-CH_{2}-OH; (3) CH_{3}-CH_{2}-CH_{2}-OH; (4) CH_{3}-O-CH_{3}.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Các chất (1), (2), (3) hợp thành một phần của dãy đồng đẳng alcohol no, đơn chức, mạch hở (C_{n}H_{2n+2}O).",
+            "dap_an": true,
+            "giai_thich": "Đúng. Ba chất đều có nhóm -OH gắn vào gốc alkyl no và hơn kém nhau liên tiếp 1 nhóm CH_{2}."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Chất (1) CH_{3}-OH và chất (4) CH_{3}-O-CH_{3} là đồng đẳng của nhau vì hơn kém nhau 1 nhóm CH_{2}.",
+            "dap_an": false,
+            "giai_thich": "Sai. Tuy hơn kém nhau 1 nhóm CH_{2}, nhưng (1) là alcohol (-OH) còn (4) là ether (-O-), tính chất hóa học hoàn toàn khác nhau nên không phải đồng đẳng."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Chất (2) và chất (4) là đồng phân loại nhóm chức của nhau.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Cả hai đều có CTPT C_{2}H_{6}O nhưng (2) là alcohol, (4) là ether."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Trong dãy đồng đẳng (1), (2), (3), khi số nguyên tử carbon tăng lên thì khối lượng phân tử tăng dần.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Mỗi chất kế tiếp hơn chất trước 1 nhóm CH_{2} (tăng 14 đvC)."
+          }
+        ]
+      }
+    ]
+  }
+}

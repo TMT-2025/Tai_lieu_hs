@@ -39,9 +39,11 @@ def validate_lesson(data: dict) -> list[str]:
         return errors
 
     for i, item in enumerate(data.get("y_nghia_thuc_tien", []), 1):
-        for f in ["hien_tuong", "cau_hoi", "giai_thich_hoa_hoc", "y_nghia_ung_dung", "lien_ket_muc_c"]:
+        for f in ["hien_tuong", "cau_hoi", "y_nghia_ung_dung", "lien_ket_muc_c"]:
             if not item.get(f):
                 errors.append(f"Mục B.{i} thiếu trường '{f}'.")
+        if not (item.get("giai_thich_hoa_hoc") or item.get("giai_thich_khoa_hoc")):
+            errors.append(f"Mục B.{i} thiếu trường 'giai_thich_khoa_hoc' hoặc 'giai_thich_hoa_hoc'.")
 
     for i, sec in enumerate(data.get("kien_thuc_trong_tam", []), 1):
         if not sec.get("giai_thich_ban_chat"):

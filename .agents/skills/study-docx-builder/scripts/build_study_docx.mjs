@@ -293,11 +293,12 @@ function appendImageBlock(children, imgObj) {
   );
 }
 
-function appendPracticalSection(children, items) {
+function appendPracticalSection(children, items, monHoc = 'Hóa học') {
+  const explainLabel = /h[oó]a/i.test(monHoc || '') ? 'Giải thích Hóa học' : 'Giải thích khoa học';
   items.forEach((item, idx) => {
     children.push(makeHeading(`${idx + 1}. ${item.hien_tuong}`, HeadingLevel.HEADING_2));
     children.push(makeParagraph(`- **Vấn đề đặt ra:** ${item.cau_hoi}`, { spacingAfter: 40 }));
-    children.push(makeParagraph(`- **Giải thích Hóa học:** ${item.giai_thich_hoa_hoc}`, { spacingAfter: 40 }));
+    children.push(makeParagraph(`- **${explainLabel}:** ${item.giai_thich_khoa_hoc || item.giai_thich_hoa_hoc || ''}`, { spacingAfter: 40 }));
     children.push(makeParagraph(`- **Ý nghĩa & Ứng dụng:** ${item.y_nghia_ung_dung}`, { spacingAfter: 40 }));
     children.push(makeParagraph(`- **Kết nối kiến thức:** ${item.lien_ket_muc_c}`, { spacingAfter: 80 }));
   });
@@ -399,7 +400,7 @@ function buildLessonChildren(data) {
 
   // B
   children.push(makeHeading('B. Ý NGHĨA THỰC TIỄN', HeadingLevel.HEADING_1));
-  appendPracticalSection(children, y_nghia_thuc_tien);
+  appendPracticalSection(children, y_nghia_thuc_tien, meta.mon_hoc);
 
   // C
   children.push(makeHeading('C. KIẾN THỨC TRỌNG TÂM', HeadingLevel.HEADING_1));
@@ -505,7 +506,7 @@ function buildChapterChildren(data) {
   muc_tieu_chuong.ky_nang.forEach((i) => children.push(makeParagraph(i, { bullet: true, spacingAfter: 40 })));
 
   children.push(makeHeading('B. Ý NGHĨA THỰC TIỄN CỦA KIẾN THỨC TRONG CHƯƠNG', HeadingLevel.HEADING_1));
-  appendPracticalSection(children, y_nghia_thuc_tien);
+  appendPracticalSection(children, y_nghia_thuc_tien, meta.mon_hoc);
 
   children.push(makeHeading('C. HỆ THỐNG KIẾN THỨC TRỌNG TÂM THEO CHỦ ĐỀ', HeadingLevel.HEADING_1));
   he_thong_kien_thuc.forEach((sec) => {
