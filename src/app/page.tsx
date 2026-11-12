@@ -34,7 +34,7 @@ export default function HomePage() {
 
   const [apiKey, setApiKey] = useState<string>('');
   const [showApiKey, setShowApiKey] = useState<boolean>(false);
-  const [model, setModel] = useState<string>('gemini-2.5-flash');
+  const [model, setModel] = useState<string>('gemini-3.8-flash');
 
   const [loadingMode, setLoadingMode] = useState<'lesson' | 'chapter' | null>(null);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
@@ -354,7 +354,7 @@ export default function HomePage() {
               onChange={(e) => setModel(e.target.value)}
               disabled={loadingMode !== null}
             >
-              <option value="gemini-2.5-flash">gemini-2.5-flash (Nhanh, khuyên dùng)</option>
+              <option value="gemini-3.8-flash">gemini-3.8-flash (Nhanh, khuyên dùng)</option>
               <option value="gemini-2.5-pro">gemini-2.5-pro (Chuyên sâu, chi tiết hơn)</option>
             </select>
           </div>

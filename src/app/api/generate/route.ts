@@ -11,7 +11,7 @@ export async function POST(req: NextRequest) {
     const body = await req.json();
     const {
       apiKey,
-      model = 'gemini-2.5-flash',
+      model = 'gemini-3.8-flash',
       mode = 'lesson',
       khoiLop,
       boSach,
