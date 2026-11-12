@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "mon_hoc": "Hóa học",
+    "khoi_lop": "Lớp 11",
+    "bo_sach": "Kết nối tri thức với cuộc sống (KNTT)",
+    "chuong": "Chương 3: Đại cương về hóa học hữu cơ",
+    "ten_bai": "Bài 13: Cấu tạo hóa học hợp chất hữu cơ",
+    "is_demo": false,
+    "nguon_sgk": "SGK Hóa học 11 - Kết nối tri thức với cuộc sống (trang 74–79)"
+  },
+  "muc_tieu": {
+    "kien_thuc": [
+      "Trình bày được nội dung thuyết cấu tạo hóa học trong hóa học hữu cơ (Butlerov, 1861).",
+      "Giải thích được hiện tượng đồng phân trong hóa học hữu cơ và phân biệt được các loại đồng phân cấu tạo.",
+      "Nêu được khái niệm chất đồng đẳng và dãy đồng đẳng; viết được công thức chung của một số dãy đồng đẳng tiêu biểu."
+    ],
+    "ky_nang": [
+      "Viết được công thức cấu tạo của một số hợp chất hữu cơ đơn giản dưới dạng công thức cấu tạo đầy đủ và công thức cấu tạo thu gọn (kể cả dạng khung phân tử).",
+      "Xác định và phân biệt được cặp chất đồng đẳng, cặp chất đồng phân dựa vào công thức cấu tạo cụ thể của các hợp chất hữu cơ."
+    ]
+  },
+  "y_nghia_thuc_tien": [
+    {
+      "hien_tuong": "Cồn y tế (ethanol) là chất lỏng sôi ở 78,3 °C, tan vô hạn trong nước và tác dụng với sodium giải phóng khí hydrogen; trong khi dimethyl ether có cùng công thức phân tử C_{2}H_{6}O lại là chất khí ở điều kiện thường (sôi ở -24,9 °C), ít tan trong nước và không tác dụng với sodium.",
+      "cau_hoi": "Vì sao hai chất có thành phần nguyên tố và số lượng nguyên tử giống hệt nhau (cùng C_{2}H_{6}O) lại có trạng thái tồn tại, nhiệt độ sôi và tính chất hóa học trái ngược nhau như vậy?",
+      "giai_thich_hoa_hoc": "Do thứ tự liên kết giữa các nguyên tử trong phân tử khác nhau: ethanol có nhóm -OH phân cực (CH_{3}-CH_{2}-OH) tạo được liên kết hydrogen liên phân tử và với nước, nên có nhiệt độ sôi cao và tan vô hạn trong nước; còn dimethyl ether (CH_{3}-O-CH_{3}) không có nguyên tử H linh động gắn với O nên không tạo liên kết hydrogen giữa các phân tử.",
+      "y_nghia_ung_dung": "Giải thích cơ sở khoa học của việc thay đổi cấu tạo hóa học sẽ tạo ra chất mới có tính chất và ứng dụng khác nhau (ethanol dùng làm dung môi, sát khuẩn, nhiên liệu sinh học E5; dimethyl ether dùng làm chất đẩy khí dung, nhiên liệu).",
+      "lien_ket_muc_c": "Xem Mục C.1 (Luận điểm 1 & 3 của Thuyết cấu tạo hóa học) và Mục C.3 (Đồng phân loại nhóm chức)."
+    },
+    {
+      "hien_tuong": "Tinh dầu thông (chứa pinene), tinh dầu lá húng quế (chứa ocimene) và hương thơm của quả xoài, cỏ xạ hương (chứa myrcene) đều do các hợp chất hữu cơ có cùng công thức phân tử C_{10}H_{16} tạo nên nhưng có mùi hương đặc trưng khác hẳn nhau.",
+      "cau_hoi": "Tại sao trong tự nhiên cùng một công thức phân tử C_{10}H_{16} lại tạo ra nhiều hợp chất có mùi thơm và tính chất sinh học khác nhau?",
+      "giai_thich_hoa_hoc": "Pinene (mạch vòng), ocimene và myrcene (mạch hở có hệ liên kết đôi khác nhau) là các chất đồng phân cấu tạo của nhau. Sự khác nhau về kiểu mạch carbon và vị trí liên kết đôi dẫn đến hình dạng phân tử khác nhau, tương tác khác nhau với thụ thể khứu giác.",
+      "y_nghia_ung_dung": "Giúp hiểu được sự đa dạng phong phú của hợp chất hữu cơ trong tự nhiên và ứng dụng trong công nghiệp hương liệu, mỹ phẩm, dược phẩm.",
+      "lien_ket_muc_c": "Xem Mục C.3 (Hiện tượng đồng phân cấu tạo)."
+    },
+    {
+      "hien_tuong": "Trong quá trình chế biến dầu mỏ, người ta thu được hỗn hợp các khí như ethylene (C_{2}H_{4}), propylene (C_{3}H_{6}) và butylene (C_{4}H_{8}). Cả ba chất này đều có phản ứng đặc trưng làm mất màu dung dịch nước bromine.",
+      "cau_hoi": "Điểm giống nhau nào về thành phần và cấu tạo khiến các hợp chất trên có cùng phản ứng hóa học đặc trưng như vậy?",
+      "giai_thich_hoa_hoc": "Các phân tử trên đều chứa một liên kết đôi C=C kém bền và thành phần phân tử hơn kém nhau một hay nhiều nhóm -CH_{2}- (thuộc cùng dãy đồng đẳng alkene có công thức chung C_{n}H_{2n}, n >= 2). Vì có cấu tạo hóa học tương tự nhau nên chúng có tính chất hóa học tương tự nhau.",
+      "y_nghia_ung_dung": "Cho phép dự đoán nhanh tính chất hóa học và điều kiện phản ứng của cả một dãy chất hữu cơ chỉ từ một chất đại diện, giúp tối ưu hóa quy trình sản xuất nhựa (PE, PP) từ dầu mỏ.",
+      "lien_ket_muc_c": "Xem Mục C.4 (Chất đồng đẳng và dãy đồng đẳng)."
+    }
+  ],
+  "kien_thuc_trong_tam": [
+    {
+      "muc_so": "1.",
+      "tieu_de": "Thuyết cấu tạo hóa học",
+      "cot_loi": [
+        "Năm 1861, nhà hóa học Nga Aleksander Butlerov (1828–1886) đưa ra khái niệm cấu tạo hóa học và xây dựng thuyết cấu tạo hóa học gồm 3 luận điểm chính:",
+        "Luận điểm 1: Trong phân tử chất hữu cơ, các nguyên tử liên kết với nhau theo đúng hóa trị và theo một thứ tự nhất định. Thứ tự liên kết đó được gọi là cấu tạo hóa học. Sự thay đổi thứ tự liên kết đó sẽ tạo ra chất khác.",
+        "Luận điểm 2: Trong phân tử chất hữu cơ, carbon có hóa trị IV. Các nguyên tử carbon không những liên kết với nguyên tử của các nguyên tố khác mà còn có thể liên kết trực tiếp với nhau tạo thành mạch carbon (mạch hở không phân nhánh, mạch hở phân nhánh hoặc mạch vòng).",
+        "Luận điểm 3: Tính chất của các chất phụ thuộc vào thành phần phân tử (bản chất và số lượng các nguyên tử) và cấu tạo hóa học. Các nguyên tử trong phân tử có ảnh hưởng qua lại lẫn nhau."
+      ],
+      "giai_thich_ban_chat": "Nguyên tử carbon có 4 electron lớp ngoài cùng nên luôn tạo 4 liên kết cộng hóa trị (hóa trị IV) trong hầu hết hợp chất hữu cơ bền. Khả năng tự liên kết C-C (tạo mạch thẳng, nhánh, vòng) kết hợp với hóa trị IV và sự ảnh hưởng qua lại giữa các nhóm nguyên tử (ví dụ vòng benzene làm tăng tính linh động của nguyên tử H trong nhóm -OH của phenol C_{6}H_{5}OH so với cyclohexanol C_{6}H_{11}OH) là nguyên nhân làm số lượng hợp chất hữu cơ lớn hơn rất nhiều so với chất vô cơ.",
+      "cong_thuc_quy_tac": [
+        "Quy tắc hóa trị trong hợp chất hữu cơ phổ biến: C hóa trị IV (4 gạch nối), H hóa trị I (1 gạch nối), O hóa trị II (2 gạch nối), N hóa trị III (3 gạch nối), halogen X hóa trị I.",
+        "Ba dạng mạch carbon: Mạch hở không phân nhánh (ví dụ CH_{3}-CH_{2}-CH_{2}-CH_{3}), Mạch hở phân nhánh (ví dụ CH_{3}-CH(CH_{3})-CH_{3}), Mạch vòng (ví dụ cyclopentane vòng 5 cạnh C_{5}H_{10})."
+      ],
+      "vi_du": {
+        "de_bai": "Viết các công thức cấu tạo mạch hở có thể có ứng với công thức phân tử C_{3}H_{8}O và cho biết chất nào tác dụng được với kim loại Na.",
+        "huong_dan": "Bước 1: Kiểm tra hóa trị: C (IV), H (I), O (II). Tổng số liên kết của C đã bão hòa (3C có tối đa 2*3 + 2 = 8 H, nguyên tử O có hóa trị II xen vào mạch C-C hoặc C-H).\nBước 2: Viết các thứ tự liên kết khác nhau:\n- Nhóm -OH gắn vào mạch 3C ở đầu mạch: CH_{3}-CH_{2}-CH_{2}-OH (propan-1-ol).\n- Nhóm -OH gắn vào C ở giữa mạch: CH_{3}-CH(OH)-CH_{3} (propan-2-ol).\n- Nguyên tử O nối giữa hai gốc hydrocarbon: CH_{3}-O-CH_{2}-CH_{3} (methoxyethane).\nBước 3: Hai chất có nhóm -OH (propan-1-ol và propan-2-ol) tác dụng được với Na giải phóng H_{2}; chất ether CH_{3}-O-CH_{2}-CH_{3} không tác dụng với Na."
+      },
+      "lien_he_thuc_tien": "Xem Mục B.1: Ethanol (CH_{3}-CH_{2}-OH) và dimethyl ether (CH_{3}-O-CH_{3}) minh họa trực tiếp Luận điểm 1 và 3.",
+      "luu_y": [
+        "Khi viết mạch carbon không nên nhầm lẫn giữa việc bẻ gập đoạn mạch (ví dụ viết C ở đầu đi xuống dưới) với mạch phân nhánh: mạch chỉ phân nhánh khi có nguyên tử carbon liên kết trực tiếp với 3 hoặc 4 nguyên tử carbon khác."
+      ]
+    },
+    {
+      "muc_so": "2.",
+      "tieu_de": "Công thức cấu tạo và cách biểu diễn phân tử hợp chất hữu cơ",
+      "cot_loi": [
+        "Công thức biểu diễn cách liên kết và thứ tự liên kết giữa các nguyên tử trong phân tử được gọi là công thức cấu tạo.",
+        "Có 3 cách biểu diễn thường dùng: (1) Công thức cấu tạo đầy đủ (biểu diễn tất cả các nguyên tử và liên kết giữa chúng); (2) Công thức cấu tạo thu gọn dạng 1 (viết gộp các nguyên tử H vào nguyên tử C tương ứng, ví dụ CH_{3}-CH_{2}-CH_{2}-CH_{3}); (3) Công thức cấu tạo thu gọn dạng 2 hay công thức khung phân tử (chỉ vẽ đường gấp khúc biểu diễn mạch C và nhóm chức, mỗi đầu đoạn thẳng hoặc điểm gấp khúc ứng với 1 nguyên tử C)."
+      ],
+      "giai_thich_ban_chat": "Công thức cấu tạo đầy đủ giúp nhìn rõ từng cặp electron dùng chung (liên kết đơn, đôi, ba) để kiểm tra đúng hóa trị, nhưng dài dòng với phân tử lớn. Công thức khung phân tử giúp vẽ nhanh và thể hiện rõ cấu trúc không gian của các phân tử hữu cơ phức tạp (như pinene, camphor, ester, dược phẩm).",
+      "cong_thuc_quy_tac": [
+        "Cách đọc công thức khung phân tử: Mỗi đỉnh (điểm gấp khúc) hoặc đầu mút không ghi ký hiệu nguyên tố là 1 nguyên tử C; số nguyên tử H gắn vào mỗi C được tự hiểu sao cho tổng hóa trị của C bằng IV (tức số H = 4 - số gạch nối quanh C đó)."
+      ],
+      "vi_du": {
+        "de_bai": "Từ công thức phân tử C_{4}H_{8} (mạch hở không nhánh, liên kết đôi ở C số 2), hãy viết công thức cấu tạo thu gọn dạng 1 và công thức khung phân tử tương ứng.",
+        "huong_dan": "Bước 1: Xác định mạch 4 carbon nối đôi ở giữa: C-C=C-C.\nBước 2: Điền H cho đủ hóa trị IV của mỗi C -> Công thức cấu tạo thu gọn dạng 1: CH_{3}-CH=CH-CH_{3} (but-2-ene).\nBước 3: Vẽ khung phân tử gồm 3 đoạn thẳng nối tiếp tạo 4 đỉnh carbon, đoạn ở giữa vẽ 2 gạch song song biểu diễn liên kết đôi C=C."
+      },
+      "hinh_anh": {
+        "path": "data/assets/bai13_hoa11_kntt/hinh1_cau_tao_2d.png",
+        "caption": "Hình 1. Minh họa công thức cấu tạo 2D (dạng khung phân tử) của một số hợp chất hữu cơ tiêu biểu bằng RDKit.",
+        "source": "Tạo bằng RDKit (chem-vis)",
+        "width_cm": 15.0
+      },
+      "luu_y": [
+        "Trong công thức khung phân tử, nguyên tử H gắn trên các dị tố như O, N (ví dụ nhóm -OH, -NH_{2}, -CHO) bắt buộc phải viết rõ, không được ẩn đi như H gắn trên C."
+      ]
+    },
+    {
+      "muc_so": "3.",
+      "tieu_de": "Hiện tượng đồng phân",
+      "cot_loi": [
+        "Những hợp chất hữu cơ khác nhau nhưng có cùng công thức phân tử được gọi là các chất đồng phân của nhau.",
+        "Nguyên nhân: Do chúng có cấu tạo hóa học khác nhau (hoặc sự sắp xếp không gian khác nhau) dẫn đến tính chất vật lí và tính chất hóa học khác nhau.",
+        "Phân loại đồng phân cấu tạo gồm 3 loại chính: Đồng phân về mạch carbon (ví dụ pentane và isopentane cùng C_{5}H_{12}); Đồng phân về loại nhóm chức (ví dụ propan-1-ol CH_{3}-CH_{2}-CH_{2}-OH và methoxyethane CH_{3}-O-CH_{2}-CH_{3} cùng C_{3}H_{8}O); Đồng phân về vị trí nhóm chức hoặc liên kết bội (ví dụ propan-1-ol và propan-2-ol)."
+      ],
+      "giai_thich_ban_chat": "Ngoài đồng phân cấu tạo, hợp chất hữu cơ còn có đồng phân lập thể (như đồng phân hình học cis-/trans- và đồng phân quang học). Đồng phân hình học xuất hiện ở hợp chất có liên kết đôi C=C (bộ phận cứng nhắc cản trở sự quay tự do) khi mỗi nguyên tử C mang nối đôi liên kết với 2 nguyên tử hoặc nhóm nguyên tử khác nhau (ví dụ but-2-ene có dạng cis- và trans-).",
+      "cong_thuc_quy_tac": [
+        "Điều kiện nhận biết hai chất là đồng phân: (1) Phải có cùng công thức phân tử; (2) Phải là hai chất khác nhau (công thức cấu tạo hoặc cấu hình không gian khác nhau)."
+      ],
+      "vi_du": {
+        "de_bai": "Viết tất cả các công thức cấu tạo của các chất đồng phân ứng với công thức phân tử C_{5}H_{12}.",
+        "huong_dan": "Bước 1: Xác định đây là alkane no, mạch hở (5C có 2*5 + 2 = 12 H -> chỉ có liên kết đơn, không có vòng).\nBước 2: Thay đổi mạch carbon:\n(1) Mạch thẳng 5C: CH_{3}-CH_{2}-CH_{2}-CH_{2}-CH_{3} (pentane).\n(2) Mạch chính 4C, 1 nhánh -CH_{3} ở C số 2: CH_{3}-CH(CH_{3})-CH_{2}-CH_{3} (isopentane / 2-methylbutane).\n(3) Mạch chính 3C, 2 nhánh -CH_{3} cùng ở C số 2: C(CH_{3})_{4} (neopentane / 2,2-dimethylpropane).\nKết luận: C_{5}H_{12} có đúng 3 đồng phân cấu tạo (thuộc loại đồng phân mạch carbon)."
+      },
+      "lien_he_thuc_tien": "Xem Mục B.2: Ba chất pinene, ocimene và myrcene trong tinh dầu tự nhiên đều có CTPT C_{10}H_{16} là đồng phân cấu tạo của nhau."
+    },
+    {
+      "muc_so": "4.",
+      "tieu_de": "Chất đồng đẳng và dãy đồng đẳng",
+      "cot_loi": [
+        "Các chất hữu cơ có tính chất hóa học tương tự nhau và thành phần phân tử hơn kém nhau một hay nhiều nhóm CH_{2} được gọi là các chất đồng đẳng của nhau, chúng hợp thành một dãy đồng đẳng.",
+        "Một số dãy đồng đẳng tiêu biểu: Dãy alkane (C_{n}H_{2n+2}, n >= 1: CH_{4}, C_{2}H_{6}, C_{3}H_{8},...); Dãy alcohol no, đơn chức, mạch hở (C_{n}H_{2n+2}O, n >= 1: CH_{3}OH, C_{2}H_{5}OH,...); Dãy aldehyde no, đơn chức, mạch hở (C_{n}H_{2n}O, n >= 1: HCHO, CH_{3}CHO,...)."
+      ],
+      "giai_thich_ban_chat": "Sở dĩ các chất trong cùng dãy đồng đẳng có tính chất hóa học tương tự nhau là vì chúng có cùng kiểu cấu tạo hóa học (cùng loại nhóm chức hoặc cùng kiểu khung mạch đặc trưng), chỉ khác nhau về độ dài mạch carbon (hơn kém k nhóm -CH_{2}-). Khi khối lượng phân tử tăng dần trong dãy đồng đẳng, nhiệt độ nóng chảy và nhiệt độ sôi thường tăng dần.",
+      "cong_thuc_quy_tac": [
+        "Điều kiện đủ để 2 chất là đồng đẳng của nhau: Phải thỏa mãn ĐỒNG THỜI 2 yếu tố: (1) Thành phần hơn kém nhau k nhóm CH_{2} (k >= 1); (2) Có cấu tạo tương tự nhau (cùng nhóm chức/loại mạch) dẫn đến tính chất hóa học tương tự nhau."
+      ],
+      "vi_du": {
+        "de_bai": "Trong các cặp chất sau, cặp nào là đồng đẳng của nhau, cặp nào không phải? Giải thích.\na) CH_{3}-CH_{2}-OH và CH_{3}-CH_{2}-CH_{2}-OH\nb) CH_{3}-O-CH_{3} và CH_{3}-CH_{2}-OH\nc) CH_{4} và C_{3}H_{6}",
+        "huong_dan": "- Cặp a): Là đồng đẳng của nhau vì cùng có nhóm chức alcohol -OH gắn vào gốc alkyl no (tính chất hóa học tương tự nhau) và hơn kém nhau 1 nhóm CH_{2}.\n- Cặp b): Không phải đồng đẳng (mà là đồng phân) vì có cùng công thức phân tử C_{2}H_{6}O, không hơn kém nhóm CH_{2} và thuộc 2 loại nhóm chức khác nhau (ether và alcohol).\n- Cặp c): Không phải đồng đẳng vì C_{3}H_{6} hơn CH_{4} một phần tử C_{2}H_{2} (không phải bội số nguyên của nhóm CH_{2}), đồng thời CH_{4} là alkane còn C_{3}H_{6} là alkene/cycloalkane."
+      },
+      "lien_he_thuc_tien": "Xem Mục B.3: Các khí C_{2}H_{4}, C_{3}H_{6}, C_{4}H_{8} thu được từ chế biến dầu mỏ thuộc cùng dãy đồng đẳng alkene."
+    }
+  ],
+  "he_thong_hoa": {
+    "bang_so_sanh": {
+      "tieu_de": "Bảng so sánh Đồng phân và Đồng đẳng trong Hóa học hữu cơ",
+      "headers": [
+        "Tiêu chí so sánh",
+        "Chất đồng phân",
+        "Chất đồng đẳng"
+      ],
+      "rows": [
+        [
+          "Công thức phân tử (CTPT)",
+          "Giống hệt nhau (cùng CTPT)",
+          "Khác nhau, hơn kém nhau một hay nhiều nhóm CH_{2}"
+        ],
+        [
+          "Cấu tạo hóa học",
+          "Khác nhau (về mạch C, loại nhóm chức hoặc vị trí nhóm chức/nối bội)",
+          "Tương tự nhau (cùng loại nhóm chức, cùng kiểu mạch đặc trưng)"
+        ],
+        [
+          "Tính chất hóa học",
+          "Có thể tương tự (nếu cùng nhóm chức) hoặc khác hẳn nhau (nếu khác nhóm chức)",
+          "Tương tự nhau (có phản ứng hóa học đặc trưng giống nhau)"
+        ],
+        [
+          "Ví dụ tiêu biểu",
+          "CH_{3}-CH_{2}-OH và CH_{3}-O-CH_{3} (cùng C_{2}H_{6}O)",
+          "CH_{4}, C_{2}H_{6}, C_{3}H_{8} (dãy alkane C_{n}H_{2n+2})"
+        ]
+      ]
+    },
+    "so_do_tong_hop": {
+      "path": "data/assets/bai13_hoa11_kntt/hinh2_so_do_phan_loai.png",
+      "caption": "Hình 2. Sơ đồ hệ thống hóa kiến thức Bài 13: Thuyết cấu tạo hóa học, Đồng phân và Đồng đẳng.",
+      "source": "Biên soạn chuẩn GDPT 2018",
+      "width_cm": 15.5
+    },
+    "quy_tac_ghi_nho": [
+      "Luôn kiểm tra hóa trị IV của C, II của O, I của H trước khi chốt công thức cấu tạo.",
+      "Đồng phân = CÙNG công thức phân tử, KHÁC cấu tạo; Đồng đẳng = HƠN KÉM k nhóm CH_{2}, TƯƠNG TỰ tính chất hóa học.",
+      "Thứ tự viết đồng phân an toàn: viết từ mạch không phân nhánh -> giảm dần 1C làm nhánh -> di chuyển vị trí nhánh và vị trí nhóm chức/liên kết bội (tránh trùng lặp do đối xứng)."
+    ],
+    "loi_thuong_gap": [
+      "Nhầm lẫn CH_{3}-CH_{2}-CH_{2}-CH_{3} với CH_{3}-CH_{2}-CH(CH_{3}) viết bẻ góc là 2 đồng phân khác nhau (thực chất là 1 chất).",
+      "Chỉ nhìn thấy hai chất hơn kém nhau n nhóm CH_{2} đã vội kết luận là đồng đẳng mà quên kiểm tra cấu tạo tương tự nhau (ví dụ CH_{3}-O-CH_{3} và C_{3}H_{7}OH hơn kém 1 nhóm CH_{2} nhưng KHÔNG phải đồng đẳng vì khác nhóm chức).",
+      "Quên đếm nhóm -CH_{3} hoặc điền thiếu/thừa nguyên tử H ở nguyên tử C tại điểm phân nhánh."
+    ]
+  },
+  "cau_hoi_tu_kiem_tra": {
+    "mcq": [
+      {
+        "cau_so": 1,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Theo thuyết cấu tạo hóa học của Butlerov, trong phân tử hợp chất hữu cơ, nguyên tử carbon luôn có hóa trị là bao nhiêu?",
+        "lua_chon": {
+          "A": "II.",
+          "B": "III.",
+          "C": "IV.",
+          "D": "I."
+        },
+        "dap_an": "C",
+        "giai_thich": "Theo luận điểm 2 của thuyết cấu tạo hóa học, trong phân tử hợp chất hữu cơ, nguyên tử carbon có hóa trị IV."
+      },
+      {
+        "cau_so": 2,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Những hợp chất hữu cơ khác nhau nhưng có cùng công thức phân tử được gọi là",
+        "lua_chon": {
+          "A": "các chất đồng đẳng của nhau.",
+          "B": "các chất đồng phân của nhau.",
+          "C": "các chất đồng vị của nhau.",
+          "D": "các hợp chất vô cơ tương ứng."
+        },
+        "dap_an": "B",
+        "giai_thich": "Định nghĩa đồng phân: Những hợp chất hữu cơ khác nhau nhưng có cùng công thức phân tử được gọi là các chất đồng phân của nhau."
+      },
+      {
+        "cau_so": 3,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Cặp chất nào sau đây là chất đồng đẳng của nhau?",
+        "lua_chon": {
+          "A": "CH_{3}-CH_{2}-OH và CH_{3}-O-CH_{3}.",
+          "B": "CH_{3}-O-CH_{3} và CH_{3}-CH_{2}-CH_{2}-OH.",
+          "C": "CH_{3}-OH và CH_{3}-CH_{2}-OH.",
+          "D": "CH_{4} và C_{2}H_{4}."
+        },
+        "dap_an": "C",
+        "giai_thich": "CH_{3}-OH và CH_{3}-CH_{2}-OH đều là alcohol no, đơn chức, mạch hở (cùng nhóm chức -OH, tính chất hóa học tương tự nhau) và hơn kém nhau 1 nhóm CH_{2}. Cặp A là đồng phân; cặp B khác loại nhóm chức; cặp D hơn kém nhau C_{2}H_{4} - CH_{4} không phải k nhóm CH_{2}."
+      },
+      {
+        "cau_so": 4,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Số lượng công thức cấu tạo mạch hở ứng với công thức phân tử C_{4}H_{10} là",
+        "lua_chon": {
+          "A": "1.",
+          "B": "2.",
+          "C": "3.",
+          "D": "4."
+        },
+        "dap_an": "B",
+        "giai_thich": "C_{4}H_{10} có 2 đồng phân cấu tạo mạch carbon: (1) CH_{3}-CH_{2}-CH_{2}-CH_{3} (butane, mạch không phân nhánh) và (2) CH_{3}-CH(CH_{3})-CH_{3} (isobutane, mạch phân nhánh)."
+      },
+      {
+        "cau_so": 5,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Cho các hợp chất hữu cơ: (1) CH_{3}-CH_{2}-CH_{2}-OH; (2) CH_{3}-CH(OH)-CH_{3}; (3) CH_{3}-O-CH_{2}-CH_{3}; (4) CH_{3}-CH_{2}-OH. Phát biểu nào sau đây đúng?",
+        "lua_chon": {
+          "A": "Cả 4 chất đều là đồng phân của nhau.",
+          "B": "Chất (1), (2), (3) là đồng phân cấu tạo của nhau; chất (1) và (4) là đồng đẳng của nhau.",
+          "C": "Chất (3) và (4) là đồng đẳng của nhau.",
+          "D": "Chỉ có (1) và (2) là đồng phân của nhau."
+        },
+        "dap_an": "B",
+        "giai_thich": "Chất (1), (2) và (3) đều có cùng công thức phân tử C_{3}H_{8}O nhưng khác cấu tạo nên là đồng phân cấu tạo của nhau ((1) và (2) đồng phân vị trí nhóm chức; (1), (2) với (3) đồng phân loại nhóm chức). Chất (1) CH_{3}-CH_{2}-CH_{2}-OH và chất (4) CH_{3}-CH_{2}-OH cùng là alcohol no đơn chức mạch hở, hơn kém nhau 1 nhóm CH_{2} nên là đồng đẳng của nhau."
+      }
+    ],
+    "dung_sai": [
+      {
+        "cau_so": 1,
+        "dan_nhap": "Cho hai hợp chất hữu cơ X và Y có cùng công thức phân tử C_{2}H_{6}O. Biết X tác dụng được với kim loại Na sinh ra khí H_{2} và có nhiệt độ sôi 78,3 °C; Y không tác dụng với kim loại Na và có nhiệt độ sôi -24,9 °C.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "X là ethanol có công thức cấu tạo thu gọn CH_{3}-CH_{2}-OH.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Chất X có nhóm -OH nên phản ứng được với Na giải phóng H_{2} và có nhiệt độ sôi cao (78,3 °C) do liên kết hydrogen."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Y là dimethyl ether có công thức cấu tạo thu gọn CH_{3}-O-CH_{3}.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Với CTPT C_{2}H_{6}O chỉ có 2 đồng phân cấu tạo là ethanol và dimethyl ether."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "X và Y là hai chất đồng đẳng của nhau.",
+            "dap_an": false,
+            "giai_thich": "Sai. X và Y có cùng CTPT C_{2}H_{6}O và khác cấu tạo nên là đồng phân loại nhóm chức của nhau, không phải đồng đẳng."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Sự khác nhau về nhiệt độ sôi và tính chất hóa học giữa X và Y chứng tỏ tính chất của chất phụ thuộc vào cấu tạo hóa học.",
+            "dap_an": true,
+            "giai_thich": "Đúng. Đây là nội dung cốt lõi của luận điểm 1 và 3 trong thuyết cấu tạo hóa học của Butlerov."
+          }
+        ]
+      },
+      {
+        "cau_so": 2,
+        "dan_nhap": "Xét các hợp chất thuộc dãy đồng đẳng alkane có công thức chung C_{n}H_{2n+2} (n >= 1) gồm methane (CH_{4}), ethane (C_{2}H_{6}), propane (C_{3}H_{8}), butane (C_{4}H_{10}) và pentane (C_{5}H_{12}).",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Các chất trong dãy trên hơn kém nhau một hay nhiều nhóm CH_{2} và có tính chất hóa học tương tự nhau.",
+            "dap_an": true,
+            "giai_thich": "Đúng theo định nghĩa chất đồng đẳng và dãy đồng đẳng."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Butane (C_{4}H_{10}) chỉ có duy nhất một dạng mạch carbon không phân nhánh.",
+            "dap_an": false,
+            "giai_thich": "Sai. C_{4}H_{10} có 2 đồng phân mạch carbon: mạch không phân nhánh (butane) và mạch phân nhánh (isobutane)."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Trong phân tử pentane (C_{5}H_{12}), tất cả các nguyên tử carbon đều có hóa trị IV.",
+            "dap_an": true,
+            "giai_thich": "Đúng theo thuyết cấu tạo hóa học, carbon luôn có hóa trị IV trong các hợp chất hữu cơ bền."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Ứng với công thức phân tử C_{5}H_{12} viết được 3 công thức cấu tạo mạch hở khác nhau.",
+            "dap_an": true,
+            "giai_thich": "Đúng: pentane (mạch thẳng), 2-methylbutane (1 nhánh), 2,2-dimethylpropane (2 nhánh)."
+          }
+        ]
+      }
+    ]
+  }
+}

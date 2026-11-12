@@ -65,15 +65,45 @@ function parseRichRuns(text: string, baseOpts: Record<string, unknown> = {}): Te
   return runs.length ? runs : [new TextRun({ text: '', font: FONT_NAME, ...baseOpts })];
 }
 
-function makeParagraph(text: string, opts: { alignment?: (typeof AlignmentType)[keyof typeof AlignmentType]; spacingAfter?: number; spacingBefore?: number; runOpts?: Record<string, unknown>; bullet?: boolean; keepNext?: boolean } = {}) {
-  const { alignment = AlignmentType.JUSTIFIED, spacingAfter = 90, spacingBefore = 0, runOpts = {}, bullet = false, keepNext = false } = opts;
+function makeParagraph(text: string, opts: { alignment?: (typeof AlignmentType)[keyof typeof AlignmentType]; spacingAfter?: number; spacingBefore?: number; runOpts?: Record<string, unknown>; bullet?: boolean; keepNext?: boolean; indentLeft?: number } = {}) {
+  const { alignment = AlignmentType.JUSTIFIED, spacingAfter = 90, spacingBefore = 0, runOpts = {}, bullet = false, keepNext = false, indentLeft = 0 } = opts;
   return new Paragraph({
     alignment,
     keepNext,
     ...(bullet ? { numbering: { reference: 'bullet-list', level: 0 } } : {}),
+    ...(indentLeft ? { indent: { left: indentLeft } } : {}),
     spacing: { before: spacingBefore, after: spacingAfter, line: 276 },
     children: parseRichRuns(text, { size: 24, color: COLOR_TEXT, ...runOpts }),
   });
+}
+
+function appendSolutionParagraphs(children: (Paragraph | Table)[], label: string, text: string, spacingAfter = 55) {
+  const normalized = String(text || '')
+    .replace(/\r\n/g, '\n')
+    .replace(/[ \t]+(?=(?:Bước\s+\d+[:.]))/gi, '\n')
+    .trim();
+  const lines = normalized
+    .split('\n')
+    .map((l) => l.trim().replace(/^(Bước\s+\d+[:.])(?!\*\*)/i, '**$1**'))
+    .filter(Boolean);
+  if (lines.length <= 1) {
+    children.push(makeParagraph(`**${label}:** ${lines[0] || ''}`, { spacingAfter }));
+    return;
+  }
+  const startsWithStep = /^\*{0,2}Bước\s+\d+[:.]/i.test(lines[0]);
+  if (startsWithStep) {
+    children.push(makeParagraph(`**${label}:**`, { spacingAfter: 25, keepNext: true }));
+    lines.forEach((line, idx) => {
+      const isLast = idx === lines.length - 1;
+      children.push(makeParagraph(line, { indentLeft: 320, spacingAfter: isLast ? spacingAfter : 30 }));
+    });
+  } else {
+    children.push(makeParagraph(`**${label}:** ${lines[0]}`, { spacingAfter: 30 }));
+    lines.slice(1).forEach((line, idx) => {
+      const isLast = idx === lines.length - 2;
+      children.push(makeParagraph(line, { indentLeft: 320, spacingAfter: isLast ? spacingAfter : 30 }));
+    });
+  }
 }
 
 function makeHeading(text: string, level: (typeof HeadingLevel)[keyof typeof HeadingLevel]) {
@@ -281,7 +311,7 @@ export async function buildStudyDocxBuffer(data: any, mode: 'lesson' | 'chapter'
       }
       children.push(makeHeading('4. Ví dụ minh họa', HeadingLevel.HEADING_3));
       children.push(makeParagraph(`**Đề bài:** ${sec.vi_du.de_bai}`, { spacingAfter: 35 }));
-      children.push(makeParagraph(`**Hướng dẫn giải:** ${sec.vi_du.huong_dan}`, { spacingAfter: 55 }));
+      appendSolutionParagraphs(children, 'Hướng dẫn giải', sec.vi_du.huong_dan, 55);
       if (sec.lien_he_thuc_tien) {
         children.push(makeCalloutBox('Liên hệ thực tiễn', sec.lien_he_thuc_tien));
         children.push(makeParagraph('', { spacingAfter: 60 }));
@@ -340,7 +370,7 @@ export async function buildStudyDocxBuffer(data: any, mode: 'lesson' | 'chapter'
       sec.cot_loi.forEach((p: string) => children.push(makeParagraph(p, { bullet: true, spacingAfter: 45 })));
       children.push(makeParagraph(`**Giải thích bản chất:** ${sec.giai_thich_ban_chat}`, { spacingAfter: 55 }));
       children.push(makeParagraph(`**Ví dụ:** ${sec.vi_du.de_bai}`, { spacingAfter: 35 }));
-      children.push(makeParagraph(`**Hướng dẫn:** ${sec.vi_du.huong_dan}`, { spacingAfter: 55 }));
+      appendSolutionParagraphs(children, 'Hướng dẫn', sec.vi_du.huong_dan, 55);
     });
 
     children.push(makeHeading('D. BẢNG TỔNG HỢP VÀ LIÊN HỆ GIỮA CÁC BÀI', HeadingLevel.HEADING_1));
@@ -353,7 +383,7 @@ export async function buildStudyDocxBuffer(data: any, mode: 'lesson' | 'chapter'
     data.vi_du_tong_hop.forEach((vd: any, idx: number) => {
       children.push(makeHeading(`Ví dụ ${idx + 1}. ${vd.tieu_de}`, HeadingLevel.HEADING_2));
       children.push(makeParagraph(`**Đề bài:** ${vd.de_bai}`, { spacingAfter: 35 }));
-      children.push(makeParagraph(`**Hướng dẫn giải:** ${vd.huong_dan}`, { spacingAfter: 60 }));
+      appendSolutionParagraphs(children, 'Hướng dẫn giải', vd.huong_dan, 60);
     });
 
     children.push(makeHeading('F. CÁC DẠNG BÀI TẬP VÀ PHƯƠNG PHÁP GIẢI', HeadingLevel.HEADING_1));

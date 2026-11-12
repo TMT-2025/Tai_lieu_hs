@@ -106,15 +106,46 @@ function makeParagraph(text, opts = {}) {
     runOpts = {},
     bullet = false,
     keepNext = false,
+    indentLeft = 0,
   } = opts;
 
   return new Paragraph({
     alignment,
     keepNext,
     ...(bullet ? { numbering: { reference: 'bullet-list', level: 0 } } : {}),
+    ...(indentLeft ? { indent: { left: indentLeft } } : {}),
     spacing: { before: spacingBefore, after: spacingAfter, line: 276 },
     children: parseRichRuns(text, { size: 24, color: COLOR_TEXT, ...runOpts }),
   });
+}
+
+function appendSolutionParagraphs(children, label, text, spacingAfter = 55) {
+  const normalized = String(text || '')
+    .replace(/\r\n/g, '\n')
+    .replace(/[ \t]+(?=(?:Bước\s+\d+[:.]))/gi, '\n')
+    .trim();
+  const lines = normalized
+    .split('\n')
+    .map((l) => l.trim().replace(/^(Bước\s+\d+[:.])(?!\*\*)/i, '**$1**'))
+    .filter(Boolean);
+  if (lines.length <= 1) {
+    children.push(makeParagraph(`**${label}:** ${lines[0] || ''}`, { spacingAfter }));
+    return;
+  }
+  const startsWithStep = /^\*{0,2}Bước\s+\d+[:.]/i.test(lines[0]);
+  if (startsWithStep) {
+    children.push(makeParagraph(`**${label}:**`, { spacingAfter: 25, keepNext: true }));
+    lines.forEach((line, idx) => {
+      const isLast = idx === lines.length - 1;
+      children.push(makeParagraph(line, { indentLeft: 320, spacingAfter: isLast ? spacingAfter : 30 }));
+    });
+  } else {
+    children.push(makeParagraph(`**${label}:** ${lines[0]}`, { spacingAfter: 30 }));
+    lines.slice(1).forEach((line, idx) => {
+      const isLast = idx === lines.length - 2;
+      children.push(makeParagraph(line, { indentLeft: 320, spacingAfter: isLast ? spacingAfter : 30 }));
+    });
+  }
 }
 
 function makeHeading(text, level) {
@@ -388,7 +419,7 @@ function buildLessonChildren(data) {
 
     children.push(makeHeading('4. Ví dụ minh họa', HeadingLevel.HEADING_3));
     children.push(makeParagraph(`**Đề bài:** ${sec.vi_du.de_bai}`, { spacingAfter: 35 }));
-    children.push(makeParagraph(`**Hướng dẫn giải:** ${sec.vi_du.huong_dan}`, { spacingAfter: 55 }));
+    appendSolutionParagraphs(children, 'Hướng dẫn giải', sec.vi_du.huong_dan, 55);
 
     if (sec.hinh_anh) {
       appendImageBlock(children, sec.hinh_anh);
@@ -483,7 +514,7 @@ function buildChapterChildren(data) {
     children.push(makeParagraph(`**Giải thích bản chất:** ${sec.giai_thich_ban_chat}`, { spacingAfter: 55 }));
     if (sec.hinh_anh) appendImageBlock(children, sec.hinh_anh);
     children.push(makeParagraph(`**Ví dụ:** ${sec.vi_du.de_bai}`, { spacingAfter: 35 }));
-    children.push(makeParagraph(`**Hướng dẫn:** ${sec.vi_du.huong_dan}`, { spacingAfter: 55 }));
+    appendSolutionParagraphs(children, 'Hướng dẫn', sec.vi_du.huong_dan, 55);
   });
 
   children.push(makeHeading('D. BẢNG TỔNG HỢP VÀ LIÊN HỆ GIỮA CÁC BÀI', HeadingLevel.HEADING_1));
@@ -495,7 +526,7 @@ function buildChapterChildren(data) {
   vi_du_tong_hop.forEach((vd, idx) => {
     children.push(makeHeading(`Ví dụ ${idx + 1}. ${vd.tieu_de}`, HeadingLevel.HEADING_2));
     children.push(makeParagraph(`**Đề bài:** ${vd.de_bai}`, { spacingAfter: 35 }));
-    children.push(makeParagraph(`**Hướng dẫn giải:** ${vd.huong_dan}`, { spacingAfter: 60 }));
+    appendSolutionParagraphs(children, 'Hướng dẫn giải', vd.huong_dan, 60);
   });
 
   children.push(makeHeading('F. CÁC DẠNG BÀI TẬP VÀ PHƯƠNG PHÁP GIẢI', HeadingLevel.HEADING_1));
