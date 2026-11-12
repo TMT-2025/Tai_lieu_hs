@@ -1,0 +1,11 @@
+SGK/
+node_modules/
+.next/
+output/
+data/cache_pages/
+.git/
+.env*
+__pycache__/
+*.pdf
+*.docx
+*.log
