@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "mon_hoc": "Hóa học",
+    "khoi_lop": "Lớp 10",
+    "bo_sach": "Chuẩn GDPT 2018 (Bản DEMO — dùng chung KNTT / CTST / Cánh Diều)",
+    "chuong": "Chương 3. Liên kết hóa học",
+    "ten_bai": "Chủ đề: Liên kết hóa học",
+    "is_demo": true,
+    "ghi_chu_nguon": "Bản DEMO biên soạn từ kiến thức chuẩn GDPT 2018 (chưa đối chiếu file SGK cụ thể trong workspace)"
+  },
+  "muc_tieu": {
+    "kien_thuc": [
+      "Trình bày và vận dụng được quy tắc octet để giải thích sự hình thành liên kết hóa học của các nguyên tố nhóm A.",
+      "Nêu được khái niệm, bản chất và sự hình thành liên kết ion, liên kết cộng hóa trị (không cực, phân cực, cho - nhận).",
+      "Trình bày được khái niệm liên kết hydrogen và tương tác van der Waals; giải thích được ảnh hưởng của chúng đến nhiệt độ sôi, nhiệt độ nóng chảy và tính tan của chất."
+    ],
+    "ky_nang": [
+      "Viết được công thức electron, công thức Lewis và công thức cấu tạo của một số phân tử đơn giản (H_{2}, Cl_{2}, HCl, H_{2}O, NH_{3}, CO_{2}, N_{2}...).",
+      "Sử dụng hiệu độ âm điện (Δχ) để dự đoán loại liên kết hóa học trong phân tử.",
+      "Giải thích được một số hiện tượng thực tiễn liên quan đến liên kết hóa học (nước đá nổi, độ tan của muối ăn, nhiệt độ sôi của nước)."
+    ]
+  },
+  "y_nghia_thuc_tien": [
+    {
+      "tieu_de": "Bảo quản thực phẩm và muối ăn (NaCl) trong gia đình",
+      "noi_dung": "Muối ăn là hợp chất ion gồm các ion Na^{+} và Cl^{-} hút nhau bằng lực tĩnh điện bền vững nên có nhiệt độ nóng chảy rất cao (801 °C) và dễ tan trong nước (dung môi phân cực) tạo dung dịch dẫn điện, ứng dụng làm gia vị, nước muối sinh lí NaCl 0,9% và ướp bảo quản thực phẩm."
+    },
+    {
+      "tieu_de": "Nước đá nổi trên mặt nước và sự sống dưới băng vào mùa đông",
+      "noi_dung": "Nhờ liên kết hydrogen, khi nước đóng băng tạo cấu trúc mạng tinh thể rỗng có khối lượng riêng nhỏ hơn nước lỏng. Do đó nước đá nổi lên trên mặt hồ, tạo lớp cách nhiệt giúp sinh vật thủy sinh vẫn sống được bên dưới."
+    },
+    {
+      "tieu_de": "Khả năng bám tường kính của thạch sùng (tắc kè)",
+      "noi_dung": "Dưới bàn chân thạch sùng có hàng triệu sợi lông siêu nhỏ tiếp xúc sát bề mặt tường hoặc kính, tạo ra tổng lực tương tác van der Waals đủ lớn để nâng đỡ toàn bộ cơ thể khi di chuyển thẳng đứng."
+    }
+  ],
+  "kien_thuc_trong_tam": [
+    {
+      "muc_so": "I",
+      "tieu_de": "Quy tắc Octet",
+      "cot_loi": [
+        "Trong phản ứng hóa học, nguyên tử các nguyên tố nhóm A có xu hướng nhường, nhận hoặc góp chung electron để đạt cấu hình electron bền vững của khí hiếm gần nhất: **8 electron** ở lớp ngoài cùng (hoặc **2 electron** đối với He, H, Li, Be)."
+      ],
+      "giai_thich": "Khí hiếm (nhóm VIIIA) rất bền về mặt hóa học vì có lớp vỏ ngoài cùng bão hòa (ns^{2}np^{6}, riêng He là 1s^{2}). Các nguyên tử khác liên kết với nhau chính là để đạt trạng thái bền vững giống khí hiếm này.",
+      "cong_thuc_quy_tac": [
+        "Kim loại điển hình (1, 2, 3 e lớp ngoài cùng): dễ **nhường** electron tạo cation (+).",
+        "Phi kim điển hình (5, 6, 7 e lớp ngoài cùng): dễ **nhận** hoặc **góp chung** electron."
+      ],
+      "vi_du": {
+        "de_bai": "Giải thích xu hướng đạt cấu hình bền vững theo quy tắc octet của nguyên tử K (Z = 19) và O (Z = 8).",
+        "huong_dan": "K (Z = 19): cấu hình 1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}4s^{1} có 1e lớp ngoài cùng -> dễ nhường 1e tạo ion K^{+} (giống khí hiếm Ar: 8e ngoài cùng). O (Z = 8): cấu hình 1s^{2}2s^{2}2p^{4} có 6e lớp ngoài cùng -> dễ nhận 2e tạo ion O^{2-} hoặc góp chung 2e để đạt 8e ngoài cùng (giống khí hiếm Ne)."
+      },
+      "luu_y": [
+        "Quy tắc octet có một số ngoại lệ với nguyên tố chu kì 3 trở đi hoặc phân tử có số e lẻ (như NO, PCl_{5}, SF_{6})."
+      ]
+    },
+    {
+      "muc_so": "II",
+      "tieu_de": "Liên kết ion",
+      "cot_loi": [
+        "**Định nghĩa:** Liên kết ion là liên kết được hình thành bởi **lực hút tĩnh điện** giữa các ion mang điện tích trái dấu (cation và anion).",
+        "Thường hình thành giữa kim loại điển hình và phi kim điển hình."
+      ],
+      "giai_thich": "Khi kim loại nhường electron cho phi kim, kim loại trở thành ion dương (cation) và phi kim trở thành ion âm (anion). Hai ion trái dấu hút nhau tạo thành tinh thể ion rất bền.",
+      "cong_thuc_quy_tac": [
+        "Phương trình tổng quát tạo NaCl: Na -> Na^{+} + 1e; Cl + 1e -> Cl^{-}; Na^{+} + Cl^{-} -> NaCl.",
+        "Hiệu độ âm điện thường gặp: **Δχ ≥ 1,7** (tính theo thang Pauling)."
+      ],
+      "vi_du": {
+        "de_bai": "Trình bày sự hình thành liên kết ion trong phân tử calcium chloride (CaCl_{2}), biết Z(Ca) = 20, Z(Cl) = 17.",
+        "huong_dan": "Ca (2e ngoài cùng) nhường 2e tạo Ca^{2+}: Ca -> Ca^{2+} + 2e. Mỗi nguyên tử Cl (7e ngoài cùng) nhận 1e tạo Cl^{-}: 2Cl + 2e -> 2Cl^{-}. Lực hút tĩnh điện giữa 1 ion Ca^{2+} và 2 ion Cl^{-} tạo thành tinh thể CaCl_{2}: Ca^{2+} + 2Cl^{-} -> CaCl_{2}."
+      },
+      "luu_y": [
+        "Hợp chất ion ở điều kiện thường là chất rắn kết tinh, nhiệt độ nóng chảy và nhiệt độ sôi cao, tan tốt trong nước và dẫn điện khi nóng chảy hoặc trong dung dịch."
+      ]
+    },
+    {
+      "muc_so": "III",
+      "tieu_de": "Liên kết cộng hóa trị",
+      "cot_loi": [
+        "**Định nghĩa:** Liên kết cộng hóa trị là liên kết được hình thành giữa hai nguyên tử bằng **một hay nhiều cặp electron dùng chung**.",
+        "Phân loại theo độ phân cực: **Không cực** (0 ≤ Δχ < 0,4) và **Phân cực** (0,4 ≤ Δχ < 1,7).",
+        "**Liên kết cho - nhận:** Cặp electron dùng chung chỉ do một nguyên tử đóng góp (ví dụ trong NH_{4}^{+})."
+      ],
+      "giai_thich": "Thường hình thành giữa các nguyên tử phi kim có độ âm điện gần nhau. Nếu hai nguyên tử giống nhau (như H_{2}, Cl_{2}), cặp electron nằm chính giữa (không cực). Nếu khác nhau (như HCl), cặp electron lệch về phía nguyên tử có độ âm điện lớn hơn (phân cực).",
+      "cong_thuc_quy_tac": [
+        "1 cặp e chung -> liên kết đơn (—); 2 cặp e chung -> liên kết đôi (=); 3 cặp e chung -> liên kết ba (≡).",
+        "Dự đoán nhanh theo hiệu độ âm điện: Δχ = |χ_{A} - χ_{B}|."
+      ],
+      "vi_du": {
+        "de_bai": "Viết công thức Lewis của phân tử CO_{2} (Z_{C} = 6, Z_{O} = 8) và xác định loại liên kết C=O biết χ(C) = 2,55; χ(O) = 3,44.",
+        "huong_dan": "C có 4e hóa trị, mỗi O có 6e hóa trị. C góp chung với mỗi nguyên tử O 2 cặp electron tạo cấu trúc thẳng O=C=O (mỗi O còn 2 cặp e riêng). Hiệu độ âm điện Δχ = 3,44 - 2,55 = 0,89 (thuộc khoảng 0,4 đến < 1,7) -> Liên kết C=O là liên kết cộng hóa trị phân cực (nhưng cả phân tử CO_{2} đối xứng nên phân tử không phân cực)."
+      },
+      "luu_y": [
+        "Phân biệt **độ phân cực của liên kết** với **độ phân cực của cả phân tử** (như CO_{2} có liên kết phân cực nhưng phân tử thẳng đối xứng nên không phân cực)."
+      ]
+    },
+    {
+      "muc_so": "IV",
+      "tieu_de": "Liên kết hydrogen và tương tác van der Waals",
+      "cot_loi": [
+        "**Liên kết hydrogen:** Lực hút tĩnh điện yếu giữa nguyên tử H (mang một phần điện tích dương δ^{+} khi liên kết với F, O, N) với nguyên tử có độ âm điện lớn (F, O, N) còn cặp e riêng ở phân tử khác hoặc phần khác của cùng phân tử.",
+        "**Tương tác van der Waals:** Lực hút tĩnh điện yếu giữa các cực tạm thời/cảm ứng của mọi phân tử; tăng khi **kích thước phân tử và số electron tăng**."
+      ],
+      "giai_thich": "Tuy yếu hơn nhiều so với liên kết ion và cộng hóa trị, nhưng liên kết hydrogen và tương tác van der Waals quyết định trạng thái tồn tại (rắn, lỏng, khí), nhiệt độ sôi và độ tan trong nước của nhiều chất.",
+      "cong_thuc_quy_tac": [
+        "Điều kiện có liên kết hydrogen: phân tử chứa nhóm **-OH**, **-NH-**, hoặc **HF**.",
+        "Độ bền liên kết: Liên kết ion / Cộng hóa trị >> Liên kết hydrogen > Tương tác van der Waals."
+      ],
+      "vi_du": {
+        "de_bai": "Giải thích vì sao nhiệt độ sôi của H_{2}O (100 °C) cao hơn rất nhiều so với H_{2}S (-60 °C) dù phân tử khối của H_{2}O (18) nhỏ hơn H_{2}S (34).",
+        "huong_dan": "Nguyên tử O có độ âm điện lớn (3,44) và bán kính nhỏ nên giữa các phân tử H_{2}O hình thành được **liên kết hydrogen** liên phân tử, làm các phân tử hút nhau chặt hơn, cần nhiều nhiệt năng để bay hơi. Trong khi đó, S có độ âm điện nhỏ hơn (2,58) nên H_{2}S không tạo được liên kết hydrogen."
+      },
+      "luu_y": [
+        "Khi sắp xếp nhiệt độ sôi các chất không có liên kết hydrogen (như F_{2}, Cl_{2}, Br_{2}, I_{2}), chất có phân tử khối và số electron càng lớn thì tương tác van der Waals càng mạnh -> nhiệt độ sôi càng cao."
+      ]
+    }
+  ],
+  "he_thong_hoa": {
+    "bang_so_sanh": {
+      "tieu_de": "Bảng so sánh các loại liên kết hóa học chính",
+      "headers": ["Tiêu chí", "Liên kết ion", "Liên kết cộng hóa trị", "Liên kết hydrogen"],
+      "rows": [
+        ["Bản chất", "Lực hút tĩnh điện giữa cation (+) và anion (-)", "Dùng chung các cặp electron giữa hai nguyên tử", "Tương tác tĩnh điện yếu giữa H(δ^{+}) và F, O, N(δ^{-})"],
+        ["Đối tượng thường gặp", "Kim loại điển hình + Phi kim điển hình", "Phi kim + Phi kim", "Phân tử chứa H liên kết với F, O, N (như H_{2}O, NH_{3}, HF)"],
+        ["Hiệu độ âm điện (Δχ)", "Thường Δχ ≥ 1,7", "0 ≤ Δχ < 1,7 (không cực < 0,4; phân cực 0,4 – 1,7)", "Không xét theo Δχ phân tử; là liên kết liên phân tử"],
+        ["Ví dụ tiêu biểu", "NaCl, CaCl_{2}, K_{2}O, MgO", "H_{2}, Cl_{2}, HCl, H_{2}O, CO_{2}, N_{2}", "Giữa các phân tử H_{2}O với nhau hoặc C_{2}H_{5}OH với H_{2}O"]
+      ]
+    },
+    "quy_tac_ghi_nho": [
+      "Mẹo hiệu độ âm điện (Pauling): **0 – 0,4** (không cực) → **0,4 – 1,7** (phân cực) → **≥ 1,7** (ion).",
+      "Điều kiện có liên kết hydrogen: **F – O – N** gắn trực tiếp với **H**."
+    ],
+    "loi_thuong_gap": [
+      "Nhầm lẫn NH_{4}Cl chỉ có liên kết cộng hóa trị (thực tế vừa có liên kết ion giữa NH_{4}^{+} và Cl^{-}, vừa có liên kết cộng hóa trị và cho - nhận trong NH_{4}^{+}).",
+      "Cho rằng mọi phân tử có liên kết phân cực đều là phân tử phân cực (quên xét tính đối xứng hình học như CO_{2}, CH_{4})."
+    ]
+  },
+  "cau_hoi_tu_kiem_tra": {
+    "mcq": [
+      {
+        "cau_so": 1,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Theo quy tắc octet, khi tham gia liên kết hóa học, nguyên tử của nguyên tố nào sau đây có xu hướng đạt cấu hình electron bền vững với 2 electron ở lớp ngoài cùng?",
+        "lua_chon": {
+          "A": "Oxygen (Z = 8)",
+          "B": "Chlorine (Z = 17)",
+          "C": "Hydrogen (Z = 1)",
+          "D": "Nitrogen (Z = 7)"
+        },
+        "dap_an": "C",
+        "giai_thich": "Hydrogen (Z = 1) có 1 electron ở lớp thứ nhất, khi góp chung 1 electron sẽ đạt 2 electron ở lớp ngoài cùng giống khí hiếm Helium (He)."
+      },
+      {
+        "cau_so": 2,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Liên kết được hình thành bởi lực hút tĩnh điện giữa các ion mang điện tích trái dấu được gọi là",
+        "lua_chon": {
+          "A": "liên kết cộng hóa trị không cực.",
+          "B": "liên kết ion.",
+          "C": "liên kết hydrogen.",
+          "D": "tương tác van der Waals."
+        },
+        "dap_an": "B",
+        "giai_thich": "Theo định nghĩa, liên kết ion hình thành do lực hút tĩnh điện giữa cation (+) và anion (-)."
+      },
+      {
+        "cau_so": 3,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Cho giá trị độ âm điện của các nguyên tố: Na (0,93), H (2,20), Cl (3,16), O (3,44). Dựa vào hiệu độ âm điện, chất nào sau đây có liên kết cộng hóa trị phân cực?",
+        "lua_chon": {
+          "A": "NaCl",
+          "B": "Cl_{2}",
+          "C": "HCl",
+          "D": "Na_{2}O"
+        },
+        "dap_an": "C",
+        "giai_thich": "Trong HCl, Δχ = 3,16 - 2,20 = 0,96 (nằm trong khoảng 0,4 ≤ Δχ < 1,7) nên là liên kết cộng hóa trị phân cực. Cl_{2} có Δχ = 0 (không cực); NaCl (Δχ = 2,23) và Na_{2}O (Δχ = 2,51) đều ≥ 1,7 nên là liên kết ion."
+      },
+      {
+        "cau_so": 4,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Nhiệt độ sôi của nước (H_{2}O, 100 °C) cao hơn rất nhiều so với hydrogen sulfide (H_{2}S, -60 °C) mặc dù khối lượng phân tử của H_{2}O nhỏ hơn H_{2}S. Nguyên nhân chính của hiện tượng này là do giữa các phân tử nước có",
+        "lua_chon": {
+          "A": "liên kết ion rất bền.",
+          "B": "liên kết cộng hóa trị đôi.",
+          "C": "tương tác van der Waals lớn hơn H_{2}S.",
+          "D": "liên kết hydrogen liên phân tử."
+        },
+        "dap_an": "D",
+        "giai_thich": "O có độ âm điện lớn và bán kính nhỏ nên giữa các phân tử H_{2}O tạo được liên kết hydrogen liên phân tử làm tăng mạnh nhiệt độ sôi; H_{2}S không có liên kết hydrogen."
+      },
+      {
+        "cau_so": 5,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Nguyên tử Mg (Z = 12) kết hợp với nguyên tử Cl (Z = 17) tạo thành hợp chất ion magnesium chloride (MgCl_{2}). Tổng số electron của các ion tạo nên một đơn vị công thức MgCl_{2} là",
+        "lua_chon": {
+          "A": "44",
+          "B": "46",
+          "C": "28",
+          "D": "48"
+        },
+        "dap_an": "B",
+        "giai_thich": "Mg (12e) nhường 2e tạo ion Mg^{2+} có 12 - 2 = 10 electron. Mỗi nguyên tử Cl (17e) nhận 1e tạo ion Cl^{-} có 17 + 1 = 18 electron. Một đơn vị công thức MgCl_{2} gồm 1 ion Mg^{2+} và 2 ion Cl^{-} -> Tổng số electron = 10 + 2 × 18 = 46 electron."
+      }
+    ],
+    "dung_sai": [
+      {
+        "cau_so": 1,
+        "dan_nhap": "Xét cấu tạo và tính chất của phân tử ammonia (NH_{3}, biết Z_{N} = 7, Z_{H} = 1) và tinh thể muối ăn (NaCl, biết χ(Na) = 0,93; χ(Cl) = 3,16).",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Trong phân tử NH_{3}, nguyên tử N góp chung 3 electron với 3 nguyên tử H để tạo 3 liên kết đơn.",
+            "dap_an": true,
+            "giai_thich": "N có 5e lớp ngoài cùng, góp chung 3e với 3 nguyên tử H tạo 3 liên kết đơn N-H và còn 1 cặp electron chưa liên kết."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Nguyên tử N trong phân tử NH_{3} không thỏa mãn quy tắc octet vì xung quanh chỉ có 6 electron.",
+            "dap_an": false,
+            "giai_thich": "Xung quanh N có 3 cặp electron dùng chung (6e) và 1 cặp electron riêng (2e), tổng cộng 8 electron nên vẫn thỏa mãn quy tắc octet."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Liên kết trong tinh thể NaCl là liên kết cộng hóa trị phân cực mạnh.",
+            "dap_an": false,
+            "giai_thich": "Hiệu độ âm điện Δχ = 3,16 - 0,93 = 2,23 ≥ 1,7, đồng thời được tạo thành từ lực hút tĩnh điện giữa cation Na^{+} và anion Cl^{-} nên là liên kết ion."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Tinh thể NaCl có nhiệt độ nóng chảy cao và dẫn được điện khi nóng chảy hoặc tan trong nước.",
+            "dap_an": true,
+            "giai_thich": "Đây là tính chất đặc trưng của hợp chất ion do các ion chuyển động tự do khi nóng chảy hoặc trong dung dịch."
+          }
+        ]
+      },
+      {
+        "cau_so": 2,
+        "dan_nhap": "Liên kết hydrogen và tương tác van der Waals là các tương tác yếu giữa các phân tử nhưng có vai trò quan trọng đối với tính chất vật lí của chất trong tự nhiên.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Liên kết hydrogen chỉ hình thành khi nguyên tử H liên kết với nguyên tử có độ âm điện lớn (F, O, N) tương tác với nguyên tử F, O, N khác còn cặp electron riêng.",
+            "dap_an": true,
+            "giai_thich": "Đúng với bản chất hình thành liên kết hydrogen."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Nước đá nổi trên mặt nước lỏng vì cấu trúc tinh thể nước đá có nhiều khoảng trống do liên kết hydrogen tạo nên, làm khối lượng riêng của nước đá nhỏ hơn nước lỏng.",
+            "dap_an": true,
+            "giai_thich": "Khi đông đặc, các phân tử H_{2}O sắp xếp theo mạng tứ diện mở rộng qua liên kết hydrogen, làm thể tích tăng và khối lượng riêng giảm."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Tương tác van der Waals tăng lên khi kích thước phân tử và số lượng electron trong phân tử giảm.",
+            "dap_an": false,
+            "giai_thich": "Tương tác van der Waals tăng khi số lượng electron và kích thước phân tử tăng (do dễ bị phân cực tạm thời hơn)."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Khả năng bám và di chuyển trên bề mặt kính thẳng đứng của thạch sùng liên quan đến tổng lực tương tác van der Waals rất lớn từ hàng triệu lông siêu nhỏ ở bàn chân.",
+            "dap_an": true,
+            "giai_thich": "Diện tích tiếp xúc vi mô cực lớn giúp tổng hợp hàng triệu lực van der Waals nhỏ đủ giữ cơ thể thạch sùng."
+          }
+        ]
+      }
+    ]
+  }
+}

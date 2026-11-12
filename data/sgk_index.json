@@ -1,0 +1,2320 @@
+{
+  "total_files": 36,
+  "files": [
+    {
+      "filename": "BAI TAP HOA 10 CANH DIEU.pdf",
+      "path": "SGK/BAI TAP HOA 10 CANH DIEU.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Cánh Diều",
+      "loai": "Sách bài tập",
+      "pages": 99,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "BAI TAP HOA 10 CTST.pdf",
+      "path": "SGK/BAI TAP HOA 10 CTST.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Sách bài tập",
+      "pages": 150,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "BAI TAP HOA 10 KNTT.pdf",
+      "path": "SGK/BAI TAP HOA 10 KNTT.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách bài tập",
+      "pages": 130,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "BAI TAP HOA 11 CANH DIEU.pdf",
+      "path": "SGK/BAI TAP HOA 11 CANH DIEU.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Cánh Diều",
+      "loai": "Sách bài tập",
+      "pages": 98,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "BAI TAP HOA 11 CTST.pdf",
+      "path": "SGK/BAI TAP HOA 11 CTST.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Sách bài tập",
+      "pages": 98,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "BAI TAP HOA 11 KNTT.pdf",
+      "path": "SGK/BAI TAP HOA 11 KNTT.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách bài tập",
+      "pages": 138,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "BAI TAP HOA 12 CANH DIEU.pdf",
+      "path": "SGK/BAI TAP HOA 12 CANH DIEU.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Cánh Diều",
+      "loai": "Sách bài tập",
+      "pages": 106,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "BAI TAP HOA 12 CTST.pdf",
+      "path": "SGK/BAI TAP HOA 12 CTST.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Sách bài tập",
+      "pages": 270,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "BAI TAP HOA 12 KNTT.pdf",
+      "path": "SGK/BAI TAP HOA 12 KNTT.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách bài tập",
+      "pages": 150,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "CHUYEN DE  HOA 10 CANH DIEU.pdf",
+      "path": "SGK/CHUYEN DE  HOA 10 CANH DIEU.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Cánh Diều",
+      "loai": "Chuyên đề học tập",
+      "pages": 74,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "CHUYEN DE HOA 10 CTST.pdf",
+      "path": "SGK/CHUYEN DE HOA 10 CTST.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Chuyên đề học tập",
+      "pages": 74,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "CHUYEN DE HOA 11 CANH DIEU.pdf",
+      "path": "SGK/CHUYEN DE HOA 11 CANH DIEU.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Cánh Diều",
+      "loai": "Chuyên đề học tập",
+      "pages": 71,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "CHUYEN DE HOA 11 CTST.pdf",
+      "path": "SGK/CHUYEN DE HOA 11 CTST.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Chuyên đề học tập",
+      "pages": 64,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "CHUYEN DE HOA 12 CANH DIEU.pdf",
+      "path": "SGK/CHUYEN DE HOA 12 CANH DIEU.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Cánh Diều",
+      "loai": "Chuyên đề học tập",
+      "pages": 56,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "CHUYEN DE HOA 12 CTST.pdf",
+      "path": "SGK/CHUYEN DE HOA 12 CTST.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Chuyên đề học tập",
+      "pages": 51,
+      "has_text_layer": true,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SACH CHUYEN DE HOA 10-KNTT.pdf",
+      "path": "SGK/SACH CHUYEN DE HOA 10-KNTT.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Chuyên đề học tập",
+      "pages": 78,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SACH CHUYEN DE HOA 11-KNTT.pdf",
+      "path": "SGK/SACH CHUYEN DE HOA 11-KNTT.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Chuyên đề học tập",
+      "pages": 59,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SACH CHUYEN DE HOA 12-KNTT.pdf",
+      "path": "SGK/SACH CHUYEN DE HOA 12-KNTT.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Chuyên đề học tập",
+      "pages": 55,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGK HOA 10 CANH DIEU.pdf",
+      "path": "SGK/SGK HOA 10 CANH DIEU.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Cánh Diều",
+      "loai": "Sách giáo khoa",
+      "pages": 121,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGK HOA 10 CTST.pdf",
+      "path": "SGK/SGK HOA 10 CTST.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Sách giáo khoa",
+      "pages": 123,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGK HOA 10 KNTT.pdf",
+      "path": "SGK/SGK HOA 10 KNTT.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách giáo khoa",
+      "pages": 122,
+      "has_text_layer": true,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": "\n--- Page 5 ---\n7UDQJ\n+ѭӟQJ\u0003GүQ\u0003Vӱ\u0003GөQJ\u0003ViFK\n\u0015\n/ӡL\u0003QyL\u0003ÿҫX\n\u0016\n0ӣ\u0003ÿҫX\n6\nChương 1. Cấu tạo nguyên tử\n\u0014\u0015\nBài 1\n7KjQK\u0003SKҫQ\u0003FӫD\u0003QJX\\rQ\u0003Wӱ\n\u0014\u0016\nBài 2\n1JX\\rQ\u0003Wӕ\u0003KRi\u0003KӑF\n\u0014\u001a\nBài 3\n&ҩX\u0003WU~F\u0003OӟS\u0003Yӓ\u0003HOHFWURQ\u0003QJX\\rQ\u0003Wӱ\n\u0015\u0014\nBài 4\nÐQ\u0003WұS\u0003FKѭѫQJ\u0003\u0014\n\u0015\u0019\nChương 2. Bảng tuần hoàn các nguyên tố hoá học \nvà định luật tuần hoàn\n\u0015\u001b\nBài 5\n&ҩX\u0003WҥR\u0003FӫD\u0003EҧQJ\u0003WXҫQ\u0003KRjQ\u0003FiF\u0003QJX\\rQ\u0003Wӕ\u0003KRi\u0003KӑF\n\u0016\u0013\nBài 6\n;X\u0003KѭӟQJ\u0003ELӃQ\u0003ÿәL\u0003PӝW\u0003Vӕ\u0003WtQK\u0003FKҩW\u0003FӫD\u0003QJX\\rQ\u0003Wӱ\u0003FiF\u0003QJX\\rQ\u0003Wӕ\u0003WURQJ\u0003\nPӝW\u0003FKX\u0003Nu\u0003Yj\u0003WURQJ\u0003PӝW\u0003QKyP\n\u0016\u0017\nBài 7\n;X\u0003KѭӟQJ\u0003ELӃQ\u0003ÿәL\u0003WKjQK\u0003SKҫQ\u0003Yj\u0003PӝW\u0003Vӕ\u0003WtQK\u0003FKҩW\u0003FӫD\u0003KӧS\u0003FKҩW\u0003WURQJ\u0003\nPӝW\u0003FKX\u0003Nu\n\u0017\u0013\nBài 8\nĈӏQK\u0003OXұW\u0003WXҫQ\u0003KRjQ\u0011\u0003é\u0003QJKƭD\u0003FӫD\u0003EҧQJ\u0003WXҫQ\u0003KRjQ\u0003FiF\u0003QJX\\rQ\u0003Wӕ\u0003KRi\u0003KӑF\n\u0017\u0016\nBài 9\nÐQ\u0003WұS\u0003FKѭѫQJ\u0003\u0015\n\u0017\u0018\nChương 3. Liên kết hoá học\n\u0017\u001b\nBài 10\n4X\\\u0003WҳF\u0003RFWHW\n\u0017\u001c\nBài 11\n/LrQ\u0003NӃW\u0003LRQ\n\u0018\u0014\nBài 12\n/LrQ\u0003NӃW\u0003FӝQJ\u0003KRi\u0003WUӏ\n\u0018\u0018\nBài 13\n/LrQ\u0003NӃW\u0003K\\GURJHQ\u0003Yj\u0003WѭѫQJ\u0003WiF\u0003YDQ\u0003GHU\u0003:DDOV\n\u0019\u0017\nBài 14\nÐQ\u0003WұS\u0003FKѭѫQJ\u0003\u0016\n\u0019\u001b\nMỤC LỤC\n4\n\n--- Page 6 ---\n7UDQJ\nChương 4. Phản ứng oxi hoá – khử\n\u001a\u0013\nBài 15\n3KҧQ\u0003ӭQJ\u0003R[L\u0003KRi\u0003±\u0003NKӱ\n\u001a\u0014\nBài 16\nÐQ\u0003WұS\u0003FKѭѫQJ\u0003\u0017\n\u001a\u001b\nChương 5. Năng lượng hoá học\n\u001b\u0013\nBài 17\n%LӃQ\u0003WKLrQ\u0003HQWKDOS\\\u0003WURQJ\u0003FiF\u0003SKҧQ\u0003ӭQJ\u0003KRi\u0003KӑF\n\u001b\u0014\nBài 18\nÐQ\u0003WұS\u0003FKѭѫQJ\u0003\u0018\n\u001b\u001c\nChương 6. Tốc độ phản ứng  \n\u001c\u0014\nBài 19\n7ӕF\u0003ÿӝ\u0003SKҧQ\u0003ӭQJ\n\u001c\u0015\nBài 20\nÐQ\u0003WұS\u0003FKѭѫQJ\u0003\u0019\n\u0014\u0013\u0014\nChương 7. Nguyên tố nhóm halogen\n\u0014\u0013\u0016\nBài 21\n1KyP\u0003KDORJHQ\n\u0014\u0013\u0017\nBài 22\n+\\GURJHQ\u0003KDOLGH\u0003\u0011\u00030XӕL\u0003KDOLGH\n\u0014\u0014\u0015\nBài 23\nÐQ\u0003WұS\u0003FKѭѫQJ\u0003\u001a\n\u0014\u0014\u001a\nGiải thích một số thuật ngữ dùng trong sách\n\u0014\u0014\u001c\n5\n"
+    },
+    {
+      "filename": "SGK HOA 11 CANH DIEU.pdf",
+      "path": "SGK/SGK HOA 11 CANH DIEU.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Cánh Diều",
+      "loai": "Sách giáo khoa",
+      "pages": 146,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGK HOA 11 CTST.pdf",
+      "path": "SGK/SGK HOA 11 CTST.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Sách giáo khoa",
+      "pages": 139,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGK HOA 11 KNTT.pdf",
+      "path": "SGK/SGK HOA 11 KNTT.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách giáo khoa",
+      "pages": 158,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGK HOA 12 - KNTT .pdf",
+      "path": "SGK/SGK HOA 12 - KNTT .pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách giáo khoa",
+      "pages": 148,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGK HOA 12 CANH DIEU.pdf",
+      "path": "SGK/SGK HOA 12 CANH DIEU.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Cánh Diều",
+      "loai": "Sách giáo khoa",
+      "pages": 155,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGK HOA 12 CTST.pdf",
+      "path": "SGK/SGK HOA 12 CTST.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Sách giáo khoa",
+      "pages": 123,
+      "has_text_layer": true,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGV HOA 10 CTST.pdf",
+      "path": "SGK/SGV HOA 10 CTST.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Sách giáo viên",
+      "pages": 194,
+      "has_text_layer": false,
+      "toc_count": 194,
+      "toc": [
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-1.jpg‎",
+          "page": 1
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-2 copy.jpg‎",
+          "page": 2
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-3.jpg‎",
+          "page": 3
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-4.jpg‎",
+          "page": 4
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-5.jpg‎",
+          "page": 5
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-6.jpg‎",
+          "page": 6
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-7 copy.jpg‎",
+          "page": 7
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-8.jpg‎",
+          "page": 8
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-9.jpg‎",
+          "page": 9
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-10.jpg‎",
+          "page": 10
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-11.jpg‎",
+          "page": 11
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-12.jpg‎",
+          "page": 12
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-13.jpg‎",
+          "page": 13
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-14.jpg‎",
+          "page": 14
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-15 copy.jpg‎",
+          "page": 15
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-16.jpg‎",
+          "page": 16
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-17.jpg‎",
+          "page": 17
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-18.jpg‎",
+          "page": 18
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-19.jpg‎",
+          "page": 19
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-20.jpg‎",
+          "page": 20
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-21.jpg‎",
+          "page": 21
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-22.jpg‎",
+          "page": 22
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-23 copy.jpg‎",
+          "page": 23
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-24.jpg‎",
+          "page": 24
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-25.jpg‎",
+          "page": 25
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-26.jpg‎",
+          "page": 26
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-27.jpg‎",
+          "page": 27
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-28.jpg‎",
+          "page": 28
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-29.jpg‎",
+          "page": 29
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-30 copy.jpg‎",
+          "page": 30
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-31.jpg‎",
+          "page": 31
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-32.jpg‎",
+          "page": 32
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-33.jpg‎",
+          "page": 33
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-34.jpg‎",
+          "page": 34
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-35 copy.jpg‎",
+          "page": 35
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-36.jpg‎",
+          "page": 36
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-37.jpg‎",
+          "page": 37
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-38.jpg‎",
+          "page": 38
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-39.jpg‎",
+          "page": 39
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-40.jpg‎",
+          "page": 40
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-41.jpg‎",
+          "page": 41
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-42 copy.jpg‎",
+          "page": 42
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-43.jpg‎",
+          "page": 43
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-44.jpg‎",
+          "page": 44
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-45.jpg‎",
+          "page": 45
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-46.jpg‎",
+          "page": 46
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-47.jpg‎",
+          "page": 47
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-48.jpg‎",
+          "page": 48
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-49.jpg‎",
+          "page": 49
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-50 copy.jpg‎",
+          "page": 50
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-51.jpg‎",
+          "page": 51
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-52.jpg‎",
+          "page": 52
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-53.jpg‎",
+          "page": 53
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-54.jpg‎",
+          "page": 54
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-55 copy.jpg‎",
+          "page": 55
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-56.jpg‎",
+          "page": 56
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-57.jpg‎",
+          "page": 57
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-58.jpg‎",
+          "page": 58
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-59.jpg‎",
+          "page": 59
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-60.jpg‎",
+          "page": 60
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-61 copy.jpg‎",
+          "page": 61
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-62.jpg‎",
+          "page": 62
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-63.jpg‎",
+          "page": 63
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-64.jpg‎",
+          "page": 64
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-65.jpg‎",
+          "page": 65
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-66.jpg‎",
+          "page": 66
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-67.jpg‎",
+          "page": 67
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-68.jpg‎",
+          "page": 68
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-69 copy.jpg‎",
+          "page": 69
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-70.jpg‎",
+          "page": 70
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-71.jpg‎",
+          "page": 71
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-72.jpg‎",
+          "page": 72
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-73.jpg‎",
+          "page": 73
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-74.jpg‎",
+          "page": 74
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-75.jpg‎",
+          "page": 75
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-76 copy.jpg‎",
+          "page": 76
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-77.jpg‎",
+          "page": 77
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-78.jpg‎",
+          "page": 78
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-79.jpg‎",
+          "page": 79
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-80.jpg‎",
+          "page": 80
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-81.jpg‎",
+          "page": 81
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-82.jpg‎",
+          "page": 82
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-83.jpg‎",
+          "page": 83
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-84.jpg‎",
+          "page": 84
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-85.jpg‎",
+          "page": 85
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-86 copy.jpg‎",
+          "page": 86
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-87.jpg‎",
+          "page": 87
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-88.jpg‎",
+          "page": 88
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-89.jpg‎",
+          "page": 89
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-90.jpg‎",
+          "page": 90
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-91.jpg‎",
+          "page": 91
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-92.jpg‎",
+          "page": 92
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-93.jpg‎",
+          "page": 93
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-94.jpg‎",
+          "page": 94
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-95.jpg‎",
+          "page": 95
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-96.jpg‎",
+          "page": 96
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-97 copy.jpg‎",
+          "page": 97
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-98.jpg‎",
+          "page": 98
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-99.jpg‎",
+          "page": 99
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-100.jpg‎",
+          "page": 100
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-101.jpg‎",
+          "page": 101
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-102.jpg‎",
+          "page": 102
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-103.jpg‎",
+          "page": 103
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-104 copy.jpg‎",
+          "page": 104
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-105.jpg‎",
+          "page": 105
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-106.jpg‎",
+          "page": 106
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-107.jpg‎",
+          "page": 107
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-108.jpg‎",
+          "page": 108
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-109.jpg‎",
+          "page": 109
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-110.jpg‎",
+          "page": 110
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-111.jpg‎",
+          "page": 111
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-112 copy.jpg‎",
+          "page": 112
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-113.jpg‎",
+          "page": 113
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-114.jpg‎",
+          "page": 114
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-115.jpg‎",
+          "page": 115
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-116.jpg‎",
+          "page": 116
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-117.jpg‎",
+          "page": 117
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-118.jpg‎",
+          "page": 118
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-119 copy.jpg‎",
+          "page": 119
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-120.jpg‎",
+          "page": 120
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-121.jpg‎",
+          "page": 121
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-122.jpg‎",
+          "page": 122
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-123.jpg‎",
+          "page": 123
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-124.jpg‎",
+          "page": 124
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-125.jpg‎",
+          "page": 125
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-126 copy.jpg‎",
+          "page": 126
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-127.jpg‎",
+          "page": 127
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-128.jpg‎",
+          "page": 128
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-129.jpg‎",
+          "page": 129
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-130.jpg‎",
+          "page": 130
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-131.jpg‎",
+          "page": 131
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-132 copy.jpg‎",
+          "page": 132
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-133.jpg‎",
+          "page": 133
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-134.jpg‎",
+          "page": 134
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-135.jpg‎",
+          "page": 135
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-136.jpg‎",
+          "page": 136
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-137.jpg‎",
+          "page": 137
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-138 copy.jpg‎",
+          "page": 138
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-139.jpg‎",
+          "page": 139
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-140.jpg‎",
+          "page": 140
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-141.jpg‎",
+          "page": 141
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-142.jpg‎",
+          "page": 142
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-143.jpg‎",
+          "page": 143
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-144.jpg‎",
+          "page": 144
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-145.jpg‎",
+          "page": 145
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-146 copy.jpg‎",
+          "page": 146
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-147.jpg‎",
+          "page": 147
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-148.jpg‎",
+          "page": 148
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-149.jpg‎",
+          "page": 149
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-150.jpg‎",
+          "page": 150
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-151.jpg‎",
+          "page": 151
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-152 copy.jpg‎",
+          "page": 152
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-153.jpg‎",
+          "page": 153
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-154.jpg‎",
+          "page": 154
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-155.jpg‎",
+          "page": 155
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-156.jpg‎",
+          "page": 156
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-157.jpg‎",
+          "page": 157
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-158.jpg‎",
+          "page": 158
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-159 copy.jpg‎",
+          "page": 159
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-160.jpg‎",
+          "page": 160
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-161.jpg‎",
+          "page": 161
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-162.jpg‎",
+          "page": 162
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-163.jpg‎",
+          "page": 163
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-164.jpg‎",
+          "page": 164
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-165 copy.jpg‎",
+          "page": 165
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-166.jpg‎",
+          "page": 166
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-167.jpg‎",
+          "page": 167
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-168.jpg‎",
+          "page": 168
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-169.jpg‎",
+          "page": 169
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-170.jpg‎",
+          "page": 170
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-171.jpg‎",
+          "page": 171
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-172 copy.jpg‎",
+          "page": 172
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-173.jpg‎",
+          "page": 173
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-174.jpg‎",
+          "page": 174
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-175.jpg‎",
+          "page": 175
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-176.jpg‎",
+          "page": 176
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-177.jpg‎",
+          "page": 177
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-178 copy.jpg‎",
+          "page": 178
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-179.jpg‎",
+          "page": 179
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-180.jpg‎",
+          "page": 180
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-181.jpg‎",
+          "page": 181
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-182.jpg‎",
+          "page": 182
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-183.jpg‎",
+          "page": 183
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-184 copy.jpg‎",
+          "page": 184
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-185.jpg‎",
+          "page": 185
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-186.jpg‎",
+          "page": 186
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-187.jpg‎",
+          "page": 187
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-188.jpg‎",
+          "page": 188
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-189.jpg‎",
+          "page": 189
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-190.jpg‎",
+          "page": 190
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-191.jpg‎",
+          "page": 191
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-192.jpg‎",
+          "page": 192
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-193 copy.jpg‎",
+          "page": 193
+        },
+        {
+          "level": 1,
+          "title": "‎C:\\Users\\Duc Dung\\Desktop\\SGV Lop 10 CTST\\Sach giao vien\\SGV Hoa hoc 10 CTST\\Chen chu\\20220606051914_wm_sgv-hoa-hoc-10-194.jpg‎",
+          "page": 194
+        }
+      ],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGV HOA 10 KNTT.pdf",
+      "path": "SGK/SGV HOA 10 KNTT.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách giáo viên",
+      "pages": 154,
+      "has_text_layer": false,
+      "toc_count": 36,
+      "toc": [
+        {
+          "level": 1,
+          "title": "Quy ước viết tắt trong sách",
+          "page": 3
+        },
+        {
+          "level": 1,
+          "title": "Lời nói đầu",
+          "page": 4
+        },
+        {
+          "level": 1,
+          "title": "Mục lục",
+          "page": 5
+        },
+        {
+          "level": 1,
+          "title": "PHẦN MỘT. HƯỚNG DẪN CHUNG",
+          "page": 7
+        },
+        {
+          "level": 1,
+          "title": "PHẦN HAI. HƯỚNG DẪN DẠY HỌC",
+          "page": 14
+        },
+        {
+          "level": 2,
+          "title": "Mở đầu",
+          "page": 14
+        },
+        {
+          "level": 1,
+          "title": "Chương 1. Cấu tạo nguyên tử",
+          "page": 20
+        },
+        {
+          "level": 2,
+          "title": "1. Thành phần của nguyên tử",
+          "page": 20
+        },
+        {
+          "level": 2,
+          "title": "2. Nguyên tố hoá học",
+          "page": 29
+        },
+        {
+          "level": 2,
+          "title": "3. Cấu trúc lớp vỏ electron nguyên tử",
+          "page": 37
+        },
+        {
+          "level": 2,
+          "title": "4. Ôn tập chương 1",
+          "page": 47
+        },
+        {
+          "level": 1,
+          "title": "Chương 2. Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+          "page": 49
+        },
+        {
+          "level": 2,
+          "title": "5. Cấu tạo của bảng tuần hoàn các nguyên tố hoá học",
+          "page": 49
+        },
+        {
+          "level": 2,
+          "title": "6. Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+          "page": 56
+        },
+        {
+          "level": 2,
+          "title": "7. Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì",
+          "page": 64
+        },
+        {
+          "level": 2,
+          "title": "8. Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học",
+          "page": 69
+        },
+        {
+          "level": 2,
+          "title": "9. Ôn tập chương 2",
+          "page": 73
+        },
+        {
+          "level": 1,
+          "title": "Chương 3. Liên kết hoá học",
+          "page": 76
+        },
+        {
+          "level": 2,
+          "title": "10. Quy tắc octet",
+          "page": 76
+        },
+        {
+          "level": 2,
+          "title": "11. Liên kết ion",
+          "page": 81
+        },
+        {
+          "level": 2,
+          "title": "12. Liên kết cộng hoá trị",
+          "page": 87
+        },
+        {
+          "level": 2,
+          "title": "13. Liên kết hydrogen và tương tác van der Waals | 98",
+          "page": 99
+        },
+        {
+          "level": 2,
+          "title": "14. Ôn tập chương 3",
+          "page": 108
+        },
+        {
+          "level": 1,
+          "title": "Chương 4. Phản ứng oxi hoá – khử",
+          "page": 110
+        },
+        {
+          "level": 2,
+          "title": "15. Phản ứng oxi hoá – khử",
+          "page": 110
+        },
+        {
+          "level": 2,
+          "title": "16. Ôn tập chương 4",
+          "page": 117
+        },
+        {
+          "level": 1,
+          "title": "Chương 5. Năng lượng hoá học",
+          "page": 119
+        },
+        {
+          "level": 2,
+          "title": "17. Biến thiên enthalpy trong các phản ứng hoá học",
+          "page": 119
+        },
+        {
+          "level": 2,
+          "title": "18. Ôn tập chương 5",
+          "page": 123
+        },
+        {
+          "level": 1,
+          "title": "Chương 6. Tốc độ phản ứng",
+          "page": 125
+        },
+        {
+          "level": 2,
+          "title": "19. Tốc độ phản ứng",
+          "page": 125
+        },
+        {
+          "level": 2,
+          "title": "20. Ôn tập chương 6",
+          "page": 135
+        },
+        {
+          "level": 1,
+          "title": "Chương 7. Nguyên tố nhóm halogen",
+          "page": 137
+        },
+        {
+          "level": 2,
+          "title": "21. Nhóm halogen",
+          "page": 137
+        },
+        {
+          "level": 2,
+          "title": "22. Hydrogen halide - Muối halide",
+          "page": 145
+        },
+        {
+          "level": 2,
+          "title": "23. Ôn tập chương 7",
+          "page": 152
+        }
+      ],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGV HOA 11 KNTT.pdf",
+      "path": "SGK/SGV HOA 11 KNTT.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách giáo viên",
+      "pages": 194,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGV HOA 12 CANH DIEU.pdf",
+      "path": "SGK/SGV HOA 12 CANH DIEU.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Cánh Diều",
+      "loai": "Sách giáo viên",
+      "pages": 228,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGV HOA 12 CTST.pdf",
+      "path": "SGK/SGV HOA 12 CTST.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Chân trời sáng tạo",
+      "loai": "Sách giáo viên",
+      "pages": 289,
+      "has_text_layer": false,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "SGV HOA 12 KNTT.pdf",
+      "path": "SGK/SGV HOA 12 KNTT.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Kết nối tri thức",
+      "loai": "Sách giáo viên",
+      "pages": 146,
+      "has_text_layer": false,
+      "toc_count": 146,
+      "toc": [
+        {
+          "level": 1,
+          "title": "Bia 1 SGV_ Hoa hoc 12 (12.04.2024)",
+          "page": 1
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_001",
+          "page": 2
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_002",
+          "page": 3
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_003",
+          "page": 4
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_004",
+          "page": 5
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_005",
+          "page": 6
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_006",
+          "page": 7
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_007",
+          "page": 8
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_008",
+          "page": 9
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_009",
+          "page": 10
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_010",
+          "page": 11
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_011",
+          "page": 12
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_012",
+          "page": 13
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_013",
+          "page": 14
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_014",
+          "page": 15
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_015",
+          "page": 16
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_016",
+          "page": 17
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_017",
+          "page": 18
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_018",
+          "page": 19
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_019",
+          "page": 20
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_020",
+          "page": 21
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_021",
+          "page": 22
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_022",
+          "page": 23
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_023",
+          "page": 24
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_024",
+          "page": 25
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_025",
+          "page": 26
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_026",
+          "page": 27
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_027",
+          "page": 28
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_028",
+          "page": 29
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_029",
+          "page": 30
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_030",
+          "page": 31
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_031",
+          "page": 32
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_032",
+          "page": 33
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_033",
+          "page": 34
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_034",
+          "page": 35
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_035",
+          "page": 36
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_036",
+          "page": 37
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_037",
+          "page": 38
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_038",
+          "page": 39
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_039",
+          "page": 40
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_040",
+          "page": 41
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_041",
+          "page": 42
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_042",
+          "page": 43
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_043",
+          "page": 44
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_044",
+          "page": 45
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_045",
+          "page": 46
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_046",
+          "page": 47
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_047",
+          "page": 48
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_048",
+          "page": 49
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_049",
+          "page": 50
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_050",
+          "page": 51
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_051",
+          "page": 52
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_052",
+          "page": 53
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_053",
+          "page": 54
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_054",
+          "page": 55
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_055",
+          "page": 56
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_056",
+          "page": 57
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_057",
+          "page": 58
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_058",
+          "page": 59
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_059",
+          "page": 60
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_060",
+          "page": 61
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_061",
+          "page": 62
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_062",
+          "page": 63
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_063",
+          "page": 64
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_064",
+          "page": 65
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_065",
+          "page": 66
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_066",
+          "page": 67
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_067",
+          "page": 68
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_068",
+          "page": 69
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_069",
+          "page": 70
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_070",
+          "page": 71
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_071",
+          "page": 72
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_072",
+          "page": 73
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_073",
+          "page": 74
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_074",
+          "page": 75
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_075",
+          "page": 76
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_076",
+          "page": 77
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_077",
+          "page": 78
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_078",
+          "page": 79
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_079",
+          "page": 80
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_080",
+          "page": 81
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_081",
+          "page": 82
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_082",
+          "page": 83
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_083",
+          "page": 84
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_084",
+          "page": 85
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_085",
+          "page": 86
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_086",
+          "page": 87
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_087",
+          "page": 88
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_088",
+          "page": 89
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_089",
+          "page": 90
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_090",
+          "page": 91
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_091",
+          "page": 92
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_092",
+          "page": 93
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_093",
+          "page": 94
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_094",
+          "page": 95
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_095",
+          "page": 96
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_096",
+          "page": 97
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_097",
+          "page": 98
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_098",
+          "page": 99
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_099",
+          "page": 100
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_100",
+          "page": 101
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_101",
+          "page": 102
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_102",
+          "page": 103
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_103",
+          "page": 104
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_104",
+          "page": 105
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_105",
+          "page": 106
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_106",
+          "page": 107
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_107",
+          "page": 108
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_108",
+          "page": 109
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_109",
+          "page": 110
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_110",
+          "page": 111
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_111",
+          "page": 112
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_112",
+          "page": 113
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_113",
+          "page": 114
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_114",
+          "page": 115
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_115",
+          "page": 116
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_116",
+          "page": 117
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_117",
+          "page": 118
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_118",
+          "page": 119
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_119",
+          "page": 120
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_120",
+          "page": 121
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_121",
+          "page": 122
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_122",
+          "page": 123
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_123",
+          "page": 124
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_124",
+          "page": 125
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_125",
+          "page": 126
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_126",
+          "page": 127
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_127",
+          "page": 128
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_128",
+          "page": 129
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_129",
+          "page": 130
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_130",
+          "page": 131
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_131",
+          "page": 132
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_132",
+          "page": 133
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_133",
+          "page": 134
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_134",
+          "page": 135
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_135",
+          "page": 136
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_136",
+          "page": 137
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_137",
+          "page": 138
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_138",
+          "page": 139
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_139",
+          "page": 140
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_140",
+          "page": 141
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_141",
+          "page": 142
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_142",
+          "page": 143
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_143",
+          "page": 144
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_144",
+          "page": 145
+        },
+        {
+          "level": 1,
+          "title": "Hoa hoc 12 SGV (Ruot IDT 17.5.2024)_Page_145",
+          "page": 146
+        }
+      ],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "YEU CAU CAN DAT HOA 10.pdf",
+      "path": "SGK/YEU CAU CAN DAT HOA 10.pdf",
+      "khoi_lop": "10",
+      "bo_sach": "Chung (GDPT 2018)",
+      "loai": "Yêu cầu cần đạt",
+      "pages": 10,
+      "has_text_layer": true,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "YEU CAU CAN DAT HOA 11.pdf",
+      "path": "SGK/YEU CAU CAN DAT HOA 11.pdf",
+      "khoi_lop": "11",
+      "bo_sach": "Chung (GDPT 2018)",
+      "loai": "Yêu cầu cần đạt",
+      "pages": 13,
+      "has_text_layer": true,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    },
+    {
+      "filename": "YEU CAU CAN DAT HOA 12.pdf",
+      "path": "SGK/YEU CAU CAN DAT HOA 12.pdf",
+      "khoi_lop": "12",
+      "bo_sach": "Chung (GDPT 2018)",
+      "loai": "Yêu cầu cần đạt",
+      "pages": 13,
+      "has_text_layer": true,
+      "toc_count": 0,
+      "toc": [],
+      "toc_text_preview": ""
+    }
+  ]
+}

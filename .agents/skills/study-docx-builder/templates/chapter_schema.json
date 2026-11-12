@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StudyDocumentChapterSchema",
+  "type": "object",
+  "required": [
+    "meta",
+    "muc_tieu_chuong",
+    "y_nghia_thuc_tien",
+    "he_thong_kien_thuc",
+    "bang_tong_hop_lien_he",
+    "vi_du_tong_hop",
+    "cac_dang_bai_tap",
+    "cau_hoi_tu_kiem_tra"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["mon_hoc", "khoi_lop", "bo_sach", "chuong", "is_demo"],
+      "properties": {
+        "mon_hoc": { "type": "string" },
+        "khoi_lop": { "type": "string" },
+        "bo_sach": { "type": "string" },
+        "chuong": { "type": "string" },
+        "is_demo": { "type": "boolean" },
+        "nguon_sgk": { "type": "string" }
+      }
+    },
+    "muc_tieu_chuong": {
+      "type": "object",
+      "required": ["kien_thuc", "ky_nang"],
+      "properties": {
+        "kien_thuc": { "type": "array", "items": { "type": "string" }, "minItems": 2 },
+        "ky_nang": { "type": "array", "items": { "type": "string" }, "minItems": 2 }
+      }
+    },
+    "y_nghia_thuc_tien": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": ["hien_tuong", "cau_hoi", "giai_thich_hoa_hoc", "y_nghia_ung_dung", "lien_ket_muc_c"]
+      }
+    },
+    "he_thong_kien_thuc": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["muc_so", "chu_de", "cot_loi", "giai_thich_ban_chat", "vi_du"]
+      }
+    },
+    "bang_tong_hop_lien_he": {
+      "type": "object",
+      "required": ["tieu_de", "headers", "rows"]
+    },
+    "vi_du_tong_hop": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["tieu_de", "de_bai", "huong_dan"]
+      }
+    },
+    "cac_dang_bai_tap": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["ten_dang", "phuong_phap", "vi_du_minh_hoa"]
+      }
+    },
+    "cau_hoi_tu_kiem_tra": {
+      "type": "object",
+      "required": ["mcq", "dung_sai"],
+      "properties": {
+        "mcq": { "type": "array", "minItems": 5 },
+        "dung_sai": { "type": "array", "minItems": 2 }
+      }
+    }
+  }
+}

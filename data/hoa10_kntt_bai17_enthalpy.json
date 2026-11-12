@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "mon_hoc": "Hóa học",
+    "khoi_lop": "Lớp 10",
+    "bo_sach": "Kết nối tri thức với cuộc sống",
+    "chuong": "Chương 5. Năng lượng hoá học",
+    "ten_bai": "Bài 17. Biến thiên enthalpy trong các phản ứng hoá học",
+    "is_demo": false,
+    "nguon_sgk": "SGK Hóa học 10 KNTT (tr. 81–87) & Yêu cầu cần đạt GDPT 2018"
+  },
+  "muc_tieu": {
+    "kien_thuc": [
+      "Trình bày được khái niệm phản ứng tỏa nhiệt, phản ứng thu nhiệt; điều kiện chuẩn (1 bar, 25 °C hay 298 K); enthalpy tạo thành chuẩn (Δ_{f}H^{o}_{298}) và biến thiên enthalpy chuẩn (Δ_{r}H^{o}_{298}).",
+      "Nêu được ý nghĩa của dấu và giá trị biến thiên enthalpy chuẩn Δ_{r}H^{o}_{298}.",
+      "Tính được biến thiên enthalpy chuẩn của phản ứng theo nhiệt tạo thành chuẩn và theo năng lượng liên kết."
+    ],
+    "ky_nang": [
+      "Viết và đọc được phương trình nhiệt hóa học kèm trạng thái chất (s, l, g, aq) và giá trị Δ_{r}H^{o}_{298}.",
+      "Vận dụng đúng hai công thức tính Δ_{r}H^{o}_{298} từ bảng số liệu cho sẵn và giải thích các hiện tượng nhiệt trong đời sống."
+    ]
+  },
+  "y_nghia_thuc_tien": [
+    {
+      "hien_tuong": "Đốt than, củi để sưởi ấm và nung đá vôi (CaCO_{3}) trong lò vôi",
+      "cau_hoi": "Vì sao khi đốt than, không khí xung quanh ấm lên, còn khi nung đá vôi lại phải cung cấp nhiệt liên tục?",
+      "giai_thich_hoa_hoc": "Phản ứng đốt cháy carbon (C + O_{2} -> CO_{2}) giải phóng nhiệt lượng ra môi trường nên là phản ứng tỏa nhiệt (Δ_{r}H^{o}_{298} < 0). Ngược lại, phản ứng nhiệt phân CaCO_{3} -> CaO + CO_{2} hấp thụ nhiệt từ môi trường mới xảy ra được nên là phản ứng thu nhiệt (Δ_{r}H^{o}_{298} > 0).",
+      "y_nghia_ung_dung": "Trong sản xuất vôi sống và xi măng, người ta tận dụng nhiệt tỏa ra từ phản ứng đốt cháy nhiên liệu (than, khí đốt) để cung cấp năng lượng cho phản ứng phân hủy đá vôi.",
+      "lien_ket_muc_c": "Xem Mục C.I (Phản ứng tỏa nhiệt, thu nhiệt) và Mục C.II (Ý nghĩa dấu của Δ_{r}H^{o}_{298})."
+    },
+    {
+      "hien_tuong": "Pha viên sủi vitamin C vào cốc nước giải khát thấy nước mát hơn",
+      "cau_hoi": "Vì sao không đun nóng mà cốc nước lại tự hạ nhiệt độ khi viên sủi tan?",
+      "giai_thich_hoa_hoc": "Khi viên sủi (chứa acid hữu cơ và NaHCO_{3}) tan trong nước, phản ứng hòa tan và giải phóng khí CO_{2} hấp thụ nhiệt lượng từ chính nước trong cốc, làm nhiệt độ nước giảm xuống.",
+      "y_nghia_ung_dung": "Cơ chế thu nhiệt tương tự được ứng dụng trong túi chườm lạnh y tế tức thời (hòa tan muối NH_{4}NO_{3} vào nước) để giảm sưng, hạ sốt.",
+      "lien_ket_muc_c": "Xem Mục C.I (Phân biệt phản ứng thu nhiệt qua sự thay đổi nhiệt độ môi trường)."
+    },
+    {
+      "hien_tuong": "Chuyển hóa đường glucose khi vận động thể thao và thông tin năng lượng (kcal) trên vỏ hộp thực phẩm",
+      "cau_hoi": "Vì sao sau khi chơi thể thao mệt mỏi, uống nước hoa quả chứa glucose giúp cơ thể hồi phục năng lượng?",
+      "giai_thich_hoa_hoc": "Phản ứng oxi hóa glucose trong cơ thể (C_{6}H_{12}O_{6} + 6O_{2} -> 6CO_{2} + 6H_{2}O) là phản ứng tỏa nhiệt mạnh, giải phóng năng lượng (kJ hoặc kcal) phục vụ hoạt động sống.",
+      "y_nghia_ung_dung": "Nhãn dinh dưỡng trên thực phẩm ghi giá trị năng lượng (kcal/100 ml hoặc 100 g) giúp con người kiểm soát khẩu phần ăn và năng lượng tiêu thụ hằng ngày.",
+      "lien_ket_muc_c": "Xem Mục C.II (Phương trình nhiệt hóa học) và Mục C.III (Tính Δ_{r}H^{o}_{298} theo nhiệt tạo thành)."
+    }
+  ],
+  "kien_thuc_trong_tam": [
+    {
+      "muc_so": "I",
+      "tieu_de": "Phản ứng tỏa nhiệt, phản ứng thu nhiệt",
+      "cot_loi": [
+        "**Phản ứng tỏa nhiệt** là phản ứng hóa học giải phóng năng lượng dưới dạng nhiệt ra môi trường (làm môi trường xung quanh nóng lên).",
+        "**Phản ứng thu nhiệt** là phản ứng hóa học hấp thụ năng lượng dưới dạng nhiệt từ môi trường (làm môi trường xung quanh lạnh đi hoặc cần đun nóng liên tục)."
+      ],
+      "giai_thich_ban_chat": "Trong mọi phản ứng hóa học đều có sự thay đổi năng lượng: nếu tổng năng lượng của các chất sản phẩm nhỏ hơn chất đầu, phần năng lượng dư được giải phóng ra ngoài dưới dạng nhiệt (tỏa nhiệt); ngược lại, hệ phải hấp thụ nhiệt từ bên ngoài (thu nhiệt).",
+      "cong_thuc_quy_tac": [
+        "Kí hiệu trạng thái chất trong phương trình nhiệt hóa học: **(s)** rắn, **(l)** lỏng, **(g)** khí, **(aq)** dung dịch nước."
+      ],
+      "vi_du": {
+        "de_bai": "Phân loại các quá trình sau thành phản ứng tỏa nhiệt hoặc thu nhiệt: (1) Đốt cháy cồn (C_{2}H_{5}OH) trong đèn cồn; (2) Nhiệt phân thuốc tím: 2KMnO_{4}(s) -> K_{2}MnO_{4}(s) + MnO_{2}(s) + O_{2}(g).",
+        "huong_dan": "(1) Đốt cháy cồn giải phóng nhiệt và ánh sáng -> **Phản ứng tỏa nhiệt**. (2) Phải đun nóng liên tục bằng ngọn lửa mới xảy ra phân hủy KMnO_{4} -> **Phản ứng thu nhiệt**."
+      },
+      "hinh_anh": {
+        "path": "output/assets/hoa10_b17_trao_doi_nhiet.png",
+        "caption": "Hình 17.1. Chiều trao đổi nhiệt giữa hệ phản ứng và môi trường đối với phản ứng tỏa nhiệt và thu nhiệt",
+        "source": "Biên soạn dựa theo SGK Hóa học 10 KNTT, tr. 81",
+        "width_cm": 14.5
+      },
+      "lien_he_thuc_tien": "Hiện tượng đốt than sưởi ấm (Mục B.1) là phản ứng tỏa nhiệt ra môi trường; còn pha viên sủi vitamin C thấy cốc nước mát hơn (Mục B.2) là do phản ứng hấp thụ nhiệt từ nước.",
+      "luu_y": [
+        "Một số phản ứng tỏa nhiệt mạnh (như đốt xăng, than) vẫn cần mồi lửa ban đầu để khởi phát, không nhầm lẫn việc 'mồi nhiệt ban đầu' với phản ứng thu nhiệt."
+      ]
+    },
+    {
+      "muc_so": "II",
+      "tieu_de": "Biến thiên enthalpy của phản ứng và ý nghĩa dấu Δ_{r}H^{o}_{298}",
+      "cot_loi": [
+        "**Biến thiên enthalpy của phản ứng (Δ_{r}H)** là nhiệt lượng tỏa ra hay thu vào của phản ứng ở điều kiện áp suất không đổi.",
+        "**Điều kiện chuẩn:** áp suất **1 bar** (đối với chất khí), nồng độ **1 mol/L** (đối với chất tan trong dung dịch) và nhiệt độ thường chọn là **25 °C (298 K)**. Kí hiệu biến thiên enthalpy chuẩn là **Δ_{r}H^{o}_{298}** (đơn vị thường dùng: kJ hoặc kcal).",
+        "**Quy ước dấu:** Δ_{r}H^{o}_{298} **< 0** là phản ứng **tỏa nhiệt**; Δ_{r}H^{o}_{298} **> 0** là phản ứng **thu nhiệt**."
+      ],
+      "giai_thich_ban_chat": "Giá trị |Δ_{r}H^{o}_{298}| càng lớn thì lượng nhiệt tỏa ra hoặc thu vào của phản ứng càng nhiều. Các phản ứng tỏa nhiệt thường diễn ra thuận lợi hơn về mặt năng lượng so với các phản ứng thu nhiệt.",
+      "cong_thuc_quy_tac": [
+        "Phương trình nhiệt hóa học phải ghi rõ trạng thái chất và Δ_{r}H^{o}_{298}. Ví dụ: CaCO_{3}(s) -> CaO(s) + CO_{2}(g)   Δ_{r}H^{o}_{298} = +179,2 kJ."
+      ],
+      "vi_du": {
+        "de_bai": "Cho phương trình nhiệt hóa học: C(s) + O_{2}(g) -> CO_{2}(g) có Δ_{r}H^{o}_{298} = -393,5 kJ. Tính nhiệt lượng tỏa ra khi đốt cháy hoàn toàn 24 gam carbon (M_{C} = 12) ở điều kiện chuẩn.",
+        "huong_dan": "Số mol C: n_{C} = 24 / 12 = 2 mol. Cứ 1 mol C cháy tỏa ra 393,5 kJ -> Khi đốt 2 mol C, nhiệt lượng tỏa ra là: Q = 2 × 393,5 = **787,0 kJ**."
+      },
+      "hinh_anh": {
+        "path": "output/assets/hoa10_b17_gian_do_enthalpy.png",
+        "caption": "Hình 17.2. Giản đồ biến thiên enthalpy chuẩn của phản ứng tỏa nhiệt và phản ứng thu nhiệt",
+        "source": "Minh họa chuẩn kiến thức SGK Hóa học 10 KNTT, tr. 83",
+        "width_cm": 14.5
+      },
+      "lien_he_thuc_tien": "Trong phản ứng oxi hóa glucose cung cấp năng lượng cho cơ thể (Mục B.3), giá trị Δ_{r}H^{o}_{298} rất âm chứng tỏ mỗi mol glucose chuyển hóa giải phóng lượng nhiệt lớn."
+    },
+    {
+      "muc_so": "III",
+      "tieu_de": "Tính biến thiên enthalpy theo nhiệt tạo thành chuẩn (Δ_{f}H^{o}_{298})",
+      "cot_loi": [
+        "**Nhiệt tạo thành chuẩn (Δ_{f}H^{o}_{298})** của một chất là biến thiên enthalpy của phản ứng tạo thành **1 mol** chất đó từ các đơn chất ở dạng bền vững nhất ở điều kiện chuẩn (đơn vị: kJ/mol).",
+        "**Quy ước:** Nhiệt tạo thành chuẩn của mọi **đơn chất ở dạng bền vững nhất bằng 0** (ví dụ: Δ_{f}H^{o}_{298}(O_{2}(g)) = 0; Δ_{f}H^{o}_{298}(C(graphite)) = 0).",
+        "Công thức tính biến thiên enthalpy chuẩn của phản ứng: **Δ_{r}H^{o}_{298} = ∑Δ_{f}H^{o}_{298}(sp) - ∑Δ_{f}H^{o}_{298}(cđ)** (lưu ý nhân với hệ số tỉ lượng trong phương trình)."
+      ],
+      "giai_thich_ban_chat": "Theo định luật Hess, biến thiên enthalpy của phản ứng chỉ phụ thuộc vào trạng thái đầu (chất phản ứng) và trạng thái cuối (sản phẩm), không phụ thuộc vào các giai đoạn trung gian.",
+      "cong_thuc_quy_tac": [
+        "Với phản ứng aA + bB -> mM + nN: Δ_{r}H^{o}_{298} = [m·Δ_{f}H^{o}_{298}(M) + n·Δ_{f}H^{o}_{298}(N)] - [a·Δ_{f}H^{o}_{298}(A) + b·Δ_{f}H^{o}_{298}(B)]."
+      ],
+      "vi_du": {
+        "de_bai": "Xác định biến thiên enthalpy chuẩn của phản ứng đốt cháy quặng pyrite: 4FeS_{2}(s) + 11O_{2}(g) -> 2Fe_{2}O_{3}(s) + 8SO_{2}(g), biết Δ_{f}H^{o}_{298} (kJ/mol) của FeS_{2}(s), Fe_{2}O_{3}(s), SO_{2}(g) lần lượt là -177,9; -825,5; -296,8.",
+        "huong_dan": "Bước 1: ∑Δ_{f}H^{o}_{298}(cđ) = 4×(-177,9) + 11×0 = -711,6 kJ.\nBước 2: ∑Δ_{f}H^{o}_{298}(sp) = 2×(-825,5) + 8×(-296,8) = -1651,0 - 2374,4 = -4025,4 kJ.\nBước 3: Δ_{r}H^{o}_{298} = -4025,4 - (-711,6) = **-3313,8 kJ** (phản ứng tỏa nhiệt mạnh)."
+      },
+      "luu_y": [
+        "Luôn lấy **Sản phẩm trừ Chất đầu** (sp - cđ) và không quên nhân hệ số cân bằng của từng chất."
+      ]
+    },
+    {
+      "muc_so": "IV",
+      "tieu_de": "Tính biến thiên enthalpy theo năng lượng liên kết (E_{b})",
+      "cot_loi": [
+        "**Điều kiện áp dụng:** Chỉ áp dụng chính xác khi **tất cả các chất tham gia và sản phẩm đều ở thể khí (g)**.",
+        "Phản ứng hóa học là quá trình phá vỡ liên kết ở chất đầu (thu năng lượng) và hình thành liên kết mới ở sản phẩm (tỏa năng lượng).",
+        "Công thức: **Δ_{r}H^{o}_{298} = ∑E_{b}(cđ) - ∑E_{b}(sp)**."
+      ],
+      "giai_thich_ban_chat": "Muốn phá vỡ liên kết hóa học cần cung cấp năng lượng (+∑E_{b}(cđ)), còn khi tạo thành liên kết mới sẽ giải phóng năng lượng (-∑E_{b}(sp)). Do đó hiệu số ∑E_{b}(cđ) - ∑E_{b}(sp) chính là biến thiên enthalpy của phản ứng khí.",
+      "cong_thuc_quy_tac": [
+        "Tổng năng lượng liên kết của mỗi phân tử = Tổng E_{b} của tất cả các liên kết có trong công thức cấu tạo phân tử đó."
+      ],
+      "vi_du": {
+        "de_bai": "Tính biến thiên enthalpy chuẩn của phản ứng: H_{2}(g) + Cl_{2}(g) -> 2HCl(g), biết năng lượng liên kết E_{b}(H-H) = 436 kJ/mol, E_{b}(Cl-Cl) = 243 kJ/mol, E_{b}(H-Cl) = 431 kJ/mol.",
+        "huong_dan": "∑E_{b}(cđ) = 1×E_{b}(H-H) + 1×E_{b}(Cl-Cl) = 436 + 243 = 679 kJ.\n∑E_{b}(sp) = 2×E_{b}(H-Cl) = 2 × 431 = 862 kJ.\nVậy Δ_{r}H^{o}_{298} = 679 - 862 = **-183 kJ**."
+      },
+      "luu_y": [
+        "Phân biệt ngược dấu giữa hai công thức: Theo nhiệt tạo thành lấy **(sp - cđ)**, còn theo năng lượng liên kết lấy **(cđ - sp)**."
+      ]
+    }
+  ],
+  "he_thong_hoa": {
+    "bang_so_sanh": {
+      "tieu_de": "Bảng tổng hợp hai phương pháp tính biến thiên enthalpy chuẩn (Δ_{r}H^{o}_{298})",
+      "headers": ["Tiêu chí", "Theo nhiệt tạo thành chuẩn (Δ_{f}H^{o}_{298})", "Theo năng lượng liên kết (E_{b})"],
+      "rows": [
+        ["Công thức tính", "Δ_{r}H^{o}_{298} = ∑Δ_{f}H^{o}_{298}(sp) - ∑Δ_{f}H^{o}_{298}(cđ)", "Δ_{r}H^{o}_{298} = ∑E_{b}(cđ) - ∑E_{b}(sp)"],
+        ["Điều kiện áp dụng", "Áp dụng cho mọi trạng thái chất (s, l, g, aq)", "Chỉ áp dụng khi các chất đều ở thể khí (g)"],
+        ["Giá trị của đơn chất bền", "Δ_{f}H^{o}_{298}(đơn chất bền) = 0", "Phải tính E_{b} của liên kết trong đơn chất (vd: H-H, O=O, N≡N)"],
+        ["Ví dụ điển hình", "Nhiệt phân CaCO_{3}(s), đốt cháy FeS_{2}(s)", "Tổng hợp HCl(g), NH_{3}(g) từ các khí"]
+      ]
+    },
+    "quy_tac_ghi_nho": [
+      "Mẹo nhớ thứ tự trừ: **'Tạo thành: Sau trừ Trước (sp - cđ); Liên kết: Trước trừ Sau (cđ - sp)'**.",
+      "Dấu của Δ_{r}H^{o}_{298}: **Âm (< 0) là Tỏa nhiệt**, **Dương (> 0) là Thu nhiệt**."
+    ],
+    "loi_thuong_gap": [
+      "Quên nhân hệ số cân bằng phương trình khi tính ∑Δ_{f}H^{o}_{298} hoặc ∑E_{b}.",
+      "Nhầm lẫn dấu trừ giữa hai công thức (lấy cđ - sp khi dùng bảng nhiệt tạo thành).",
+      "Đếm thiếu số lượng liên kết trong phân tử (ví dụ CH_{4} có 4 liên kết C-H, CO_{2} có 2 liên kết C=O)."
+    ]
+  },
+  "cau_hoi_tu_kiem_tra": {
+    "mcq": [
+      {
+        "cau_so": 1,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Điều kiện chuẩn đối với chất khí và nhiệt độ thường chọn khi xác định biến thiên enthalpy chuẩn (Δ_{r}H^{o}_{298}) là",
+        "lua_chon": {
+          "A": "áp suất 1 bar và nhiệt độ 25 °C (298 K).",
+          "B": "áp suất 1 atm và nhiệt độ 0 °C (273 K).",
+          "C": "áp suất 1 bar và nhiệt độ 0 °C (273 K).",
+          "D": "áp suất 2 bar và nhiệt độ 25 °C (298 K)."
+        },
+        "dap_an": "A",
+        "giai_thich": "Theo chuẩn IUPAC/GDPT 2018, điều kiện chuẩn gồm áp suất 1 bar (chất khí), nồng độ 1 mol/L (dung dịch) và nhiệt độ thường chọn là 25 °C (298 K)."
+      },
+      {
+        "cau_so": 2,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Đơn chất nào sau đây có nhiệt tạo thành chuẩn (Δ_{f}H^{o}_{298}) bằng 0 kJ/mol?",
+        "lua_chon": {
+          "A": "CO_{2}(g)",
+          "B": "H_{2}O(l)",
+          "C": "O_{2}(g)",
+          "D": "C(kim cương)"
+        },
+        "dap_an": "C",
+        "giai_thich": "Nhiệt tạo thành chuẩn của đơn chất ở dạng bền vững nhất bằng 0; O_{2}(g) là dạng bền vững nhất của oxygen. CO_{2} và H_{2}O là hợp chất; kim cương kém bền hơn graphite ở điều kiện chuẩn."
+      },
+      {
+        "cau_so": 3,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Cho phương trình nhiệt hóa học: N_{2}(g) + O_{2}(g) -> 2NO(g) có Δ_{r}H^{o}_{298} = +180,6 kJ. Phát biểu nào sau đây đúng?",
+        "lua_chon": {
+          "A": "Phản ứng tỏa nhiệt vì có giá trị Δ_{r}H^{o}_{298} lớn.",
+          "B": "Nhiệt tạo thành chuẩn của NO(g) là +180,6 kJ/mol.",
+          "C": "Phản ứng thu nhiệt và cần cung cấp nhiệt để xảy ra.",
+          "D": "Tổng enthalpy của chất đầu lớn hơn tổng enthalpy của sản phẩm."
+        },
+        "dap_an": "C",
+        "giai_thich": "Vì Δ_{r}H^{o}_{298} = +180,6 kJ > 0 nên đây là phản ứng thu nhiệt (H(sp) > H(cđ)). Nhiệt tạo thành của 1 mol NO(g) chỉ bằng 180,6 / 2 = +90,3 kJ/mol."
+      },
+      {
+        "cau_so": 4,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Công thức tính biến thiên enthalpy chuẩn của phản ứng theo năng lượng liên kết (các chất đều ở thể khí) là",
+        "lua_chon": {
+          "A": "Δ_{r}H^{o}_{298} = ∑E_{b}(sp) - ∑E_{b}(cđ).",
+          "B": "Δ_{r}H^{o}_{298} = ∑E_{b}(cđ) - ∑E_{b}(sp).",
+          "C": "Δ_{r}H^{o}_{298} = ∑E_{b}(cđ) + ∑E_{b}(sp).",
+          "D": "Δ_{r}H^{o}_{298} = ∑Δ_{f}H^{o}_{298}(cđ) - ∑Δ_{f}H^{o}_{298}(sp)."
+        },
+        "dap_an": "B",
+        "giai_thich": "Phản ứng phá vỡ liên kết chất đầu (thu ∑E_{b}(cđ)) và tạo liên kết sản phẩm (tỏa ∑E_{b}(sp)), nên Δ_{r}H^{o}_{298} = ∑E_{b}(cđ) - ∑E_{b}(sp)."
+      },
+      {
+        "cau_so": 5,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Cho phản ứng đốt cháy khí CO: 2CO(g) + O_{2}(g) -> 2CO_{2}(g), biết Δ_{f}H^{o}_{298}(CO(g)) = -110,5 kJ/mol và Δ_{f}H^{o}_{298}(CO_{2}(g)) = -393,5 kJ/mol. Ở điều kiện chuẩn, khi đốt cháy hoàn toàn 2,479 lít khí CO (đkc, 0,1 mol) thì nhiệt lượng tỏa ra là",
+        "lua_chon": {
+          "A": "28,30 kJ.",
+          "B": "56,60 kJ.",
+          "C": "283,0 kJ.",
+          "D": "566,0 kJ."
+        },
+        "dap_an": "A",
+        "giai_thich": "Δ_{r}H^{o}_{298} của phản ứng (cho 2 mol CO) = 2×(-393,5) - [2×(-110,5) + 0] = -787,0 + 221,0 = -566,0 kJ. Số mol CO là 2,479 / 24,79 = 0,1 mol -> Nhiệt lượng tỏa ra = (0,1 / 2) × 566,0 = 28,30 kJ."
+      }
+    ],
+    "dung_sai": [
+      {
+        "cau_so": 1,
+        "dan_nhap": "Trong công nghiệp sản xuất vôi, người ta nung đá vôi theo phản ứng: CaCO_{3}(s) -> CaO(s) + CO_{2}(g). Biết nhiệt tạo thành chuẩn Δ_{f}H^{o}_{298} (kJ/mol) của CaCO_{3}(s), CaO(s) và CO_{2}(g) lần lượt là -1207,6; -634,9 và -393,5.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Biến thiên enthalpy chuẩn của phản ứng nhiệt phân 1 mol CaCO_{3}(s) là +179,2 kJ.",
+            "dap_an": true,
+            "giai_thich": "Δ_{r}H^{o}_{298} = (-634,9 - 393,5) - (-1207,6) = -1028,4 + 1207,6 = +179,2 kJ."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Phản ứng nung vôi là phản ứng tỏa nhiệt nên chỉ cần đốt nóng ban đầu rồi tắt bếp, đá vôi vẫn tự phân hủy hết.",
+            "dap_an": false,
+            "giai_thich": "Vì Δ_{r}H^{o}_{298} = +179,2 kJ > 0 nên đây là phản ứng thu nhiệt, cần cung cấp nhiệt liên tục trong quá trình nung."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Trong lò nung vôi, người ta đốt than để lấy nhiệt lượng cung cấp cho phản ứng phân hủy đá vôi.",
+            "dap_an": true,
+            "giai_thich": "Phản ứng đốt than tỏa nhiệt mạnh, bù đắp năng lượng cho phản ứng thu nhiệt phân hủy CaCO_{3}."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Có thể tính chính xác Δ_{r}H^{o}_{298} của phản ứng nung vôi trên bằng công thức hiệu năng lượng liên kết ∑E_{b}(cđ) - ∑E_{b}(sp).",
+            "dap_an": false,
+            "giai_thich": "CaCO_{3}(s) và CaO(s) ở thể rắn (tinh thể ion), không phải thể khí nên không áp dụng công thức năng lượng liên kết."
+          }
+        ]
+      },
+      {
+        "cau_so": 2,
+        "dan_nhap": "Xét phản ứng tổng hợp ammonia trong công nghiệp: N_{2}(g) + 3H_{2}(g) -> 2NH_{3}(g) có Δ_{r}H^{o}_{298} = -91,8 kJ.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Phản ứng tổng hợp NH_{3} là phản ứng tỏa nhiệt.",
+            "dap_an": true,
+            "giai_thich": "Vì Δ_{r}H^{o}_{298} = -91,8 kJ < 0."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Nhiệt tạo thành chuẩn Δ_{f}H^{o}_{298} của NH_{3}(g) là -45,9 kJ/mol.",
+            "dap_an": true,
+            "giai_thich": "Phản ứng tạo 2 mol NH_{3}(g) từ đơn chất bền N_{2}(g) và H_{2}(g) có Δ_{r}H^{o}_{298} = -91,8 kJ -> Δ_{f}H^{o}_{298}(NH_{3}) = -91,8 / 2 = -45,9 kJ/mol."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Tổng năng lượng liên kết trong 1 mol N_{2} và 3 mol H_{2} lớn hơn tổng năng lượng liên kết trong 2 mol NH_{3}.",
+            "dap_an": false,
+            "giai_thich": "Δ_{r}H^{o}_{298} = ∑E_{b}(cđ) - ∑E_{b}(sp) < 0 nên ∑E_{b}(cđ) < ∑E_{b}(sp)."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Nếu thu được 1 mol NH_{3}(g) ở điều kiện chuẩn thì phản ứng đã hấp thụ 45,9 kJ nhiệt lượng từ môi trường.",
+            "dap_an": false,
+            "giai_thich": "Phản ứng tỏa nhiệt (giải phóng 45,9 kJ ra môi trường khi tạo 1 mol NH_{3}), không phải hấp thụ."
+          }
+        ]
+      }
+    ]
+  }
+}

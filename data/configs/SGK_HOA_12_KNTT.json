@@ -1,0 +1,351 @@
+{
+  "id": "SGK_HOA_12_KNTT",
+  "mon_hoc": "Hóa học",
+  "khoi_lop": "Lớp 12",
+  "bo_sach": "Kết nối tri thức với cuộc sống",
+  "sgk_file": "SGK/SGK HOA 12 - KNTT .pdf",
+  "sbt_file": "SGK/BAI TAP HOA 12 KNTT.pdf",
+  "sgv_file": "SGK/SGV HOA 12 KNTT.pdf",
+  "yccd_file": "SGK/YEU CAU CAN DAT HOA 12.pdf",
+  "chuong": [
+    {
+      "so_chuong": 1,
+      "ten_chuong": "Chương 1. Ester – Lipid",
+      "trang_bat_dau": 6,
+      "trang_ket_thuc": 19,
+      "bai_hoc": [
+        {
+          "so_bai": 1,
+          "ten_bai": "Ester – Lipid",
+          "trang": "6-13"
+        },
+        {
+          "so_bai": 2,
+          "ten_bai": "Xà phòng và chất giặt rửa",
+          "trang": "14-17"
+        },
+        {
+          "so_bai": 3,
+          "ten_bai": "Ôn tập chương 1",
+          "trang": "18-19",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Viết được công thức cấu tạo và gọi được tên một số ester đơn giản (số nguyên tử C trong phân tử ≤ 5) và thường gặp. − Trình bày được phương pháp điều chế ester và ứng dụng của một số ester. − Trình bày được đặc điểm về tính chất vật lí và tính chất hoá học cơ bản của ester (phản ứng thuỷ phân) và của chất béo (phản ứng hydrogen hoá chất béo lỏng, phản ứng oxi hoá chất béo bởi oxygen không khí). − Trình bày được ứng dụng của chất béo và acid béo (omega-3 và omega-6). − Nêu được khái niệm, đặc điểm về cấu tạo và tính chất chất giặt rửa của xà phòng và chất giặt rửa tự nhiên, tổng hợp. − Trình bày được một số phương pháp sản xuất xà phòng, phương pháp chủ yếu sản xuất chất giặt rửa tổng hợp. − Thực hiện được (hoặc quan sát video) thí nghiệm về phản ứng xà phòng hoá chất béo. − Trình bày được cách sử dụng  hợp  lí,  an toàn xà phòng và  chất giặt rửa  tổng  hợp trong  đời sống."
+      ]
+    },
+    {
+      "so_chuong": 2,
+      "ten_chuong": "Chương 2. Carbohydrate",
+      "trang_bat_dau": 20,
+      "trang_ket_thuc": 34,
+      "bai_hoc": [
+        {
+          "so_bai": 4,
+          "ten_bai": "Giới thiệu về carbohydrate. Glucose và fructose",
+          "trang": "20-24"
+        },
+        {
+          "so_bai": 5,
+          "ten_bai": "Saccharose và maltose",
+          "trang": "25-27"
+        },
+        {
+          "so_bai": 6,
+          "ten_bai": "Tinh bột và cellulose",
+          "trang": "28-32"
+        },
+        {
+          "so_bai": 7,
+          "ten_bai": "Ôn tập chương 2",
+          "trang": "33-34",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Nêu được khái niệm, cách phân loại carbohydrate, trạng thái tự nhiên của glucose, fructose, saccharose, maltose, tinh bột và cellulose.",
+        "Viết được công thức cấu tạo dạng mạch hở, dạng mạch vòng và gọi được tên của một số carbohydrate: glucose và fructose; saccharose, maltose; tinh bột và cellulose.",
+        "Trình bày được tính chất hoá học cơ bản của glucose và fructose (phản ứng với copper(II) hydroxide, nước bromine, thuốc thử Tollens, phản ứng lên men của glucose, phản ứng riêng của nhóm –OH hemiacetal khi glucose ở dạng mạch vòng).",
+        "Trình bày được tính chất hoá học cơ bản của saccharose (phản ứng với copper(II) hydroxide, phản ứng thuỷ phân).",
+        "Trình bày được tính chất hoá học cơ bản của tinh bột (phản ứng thuỷ phân, phản ứng với iodine); của cellulose (phản ứng thuỷ phân, phản ứng với nitric acid và với nước Schweizer (Svayde).",
+        "Thực hiện được (hoặc quan sát video) thí nghiệm về phản ứng của glucose (với copper(II) hydroxide, nước bromine, thuốc thử Tollens); của saccharose (phản ứng với copper(II) hydroxide); của tinh bột (phản ứng thuỷ phân, phản ứng của hồ tinh bột với iodine); của cellulose (phản ứng thuỷ phân, phản ứng với nitric acid và tan trong nước Schweizer). Mô tả các hiện tượng thí nghiệm và giải thích được tính chất hoá học của glucose, fructose, saccharose, tinh bột và cellulose. − Trình bày được sự chuyển hoá tinh bột trong cơ thể, sự tạo thành tinh bột trong cây xanh và ứng dụng của một số carbohydrate."
+      ]
+    },
+    {
+      "so_chuong": 3,
+      "ten_chuong": "Chương 3. Hợp chất chứa nitrogen",
+      "trang_bat_dau": 35,
+      "trang_ket_thuc": 50,
+      "bai_hoc": [
+        {
+          "so_bai": 8,
+          "ten_bai": "Amine",
+          "trang": "35-40"
+        },
+        {
+          "so_bai": 9,
+          "ten_bai": "Amino acid và peptide",
+          "trang": "41-45"
+        },
+        {
+          "so_bai": 10,
+          "ten_bai": "Protein và enzyme",
+          "trang": "46-48"
+        },
+        {
+          "so_bai": 11,
+          "ten_bai": "Ôn tập chương 3",
+          "trang": "49-50",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "chức (số nguyên tử C trong phân tử ≤ 5), tên thông thường của một số amine hay gặp. − Nêu được đặc điểm về tính chất vật lí của amine (trạng thái, nhiệt độ sôi, nhiệt độ nóng chảy, khả năng hoà tan). − Trình bày được đặc điểm cấu tạo phân tử và hình dạng phân tử methylamine và aniline. − Trình bày được tính chất hoá học đặc trưng của amine: tính chất của nhóm –NH2 (tính base (với quỳ tím, với HCl, với FeCl3), phản ứng với nitrous acid (axit nitrơ), phản ứng thế ở nhân thơm (với nước bromine) của aniline (anilin), phản ứng tạo phức của methylamine (hoặc ethylamine) với Cu(OH)2. − Thực hiện được (hoặc quan sát video) thí nghiệm về phản ứng của dung dịch methylamine (hoặc ethylamine) với quỳ tím (chất chỉ thị), với HCl, với iron(III) chloride (FeCl3), với copper(II) hydroxide (Cu(OH)2); phản ứng của aniline với nước bromine; mô tả được các hiện tượng thí nghiệm và giải thích được tính chất hoá học của amine. − Trình bày được ứng dụng của amine (ứng dụng của diamine và aniline); các phương pháp điều chế amine (khử hợp chất nitro và thế nguyên tử H trong phân tử ammonia). Amino acid (amino axit), peptide (peptit) và protein",
+        "Nêu được khái niệm về amino acid, amino  acid  thiên  nhiên,  amino  acid  trong  cơ thể; gọi được tên một số amino acid thông dụng, đặc điểm cấu tạo phân tử của amino acid.",
+        "Nêu được đặc điểm về tính chất vật lí của amino acid (trạng thái, nhiệt độ sôi, khả năng hoà tan).",
+        "Trình bày được tính chất hoá học đặc trưng của amino acid (tính lưỡng tính, phản ứng ester hoá; phản ứng trùng ngưng của ε- và ω-amino acid).",
+        "Nêu được khả năng di chuyển của amino acid trong điện trường ở các giá trị pH khác nhau (tính chất điện di).",
+        "Nêu được khái niệm peptide và viết được cấu tạo của peptide.",
+        "Trình bày được tính chất hoá học đặc trưng của peptide (phản ứng thuỷ phân, phản ứng màu biuret).",
+        "Thực hiện được thí nghiệm phản ứng màu biuret của peptide. Protein và enzyme (enzim) – Nêu được khái niệm, đặc điểm cấu tạo phân tử, tính chất vật lí của protein.",
+        "Trình bày được tính chất hoá học đặc trưng của protein (phản ứng thuỷ phân, phản ứng màu của protein với nitric acid và copper(II) hydroxide; sự đông tụ bởi nhiệt, bởi acid, kiềm và muối kim loại nặng).",
+        "Thực hiện được thí nghiệm về phản ứng đông tụ của protein: đun nóng lòng trắng trứng hoặc tác dụng của acid, kiềm với lòng trắng trứng; phản ứng của lòng trắng trứng với nitric acid; mô tả các hiện tượng thí nghiệm, giải thích được tính chất hoá học của protein.",
+        "Nêu được vai trò của protein đối với sự sống; vai trò của enzyme trong phản ứng sinh hoá và ứng dụng của enzyme trong công nghệ sinh học."
+      ]
+    },
+    {
+      "so_chuong": 4,
+      "ten_chuong": "Chương 4. Polymer",
+      "trang_bat_dau": 51,
+      "trang_ket_thuc": 66,
+      "bai_hoc": [
+        {
+          "so_bai": 12,
+          "ten_bai": "Đại cương về polymer",
+          "trang": "51-55"
+        },
+        {
+          "so_bai": 13,
+          "ten_bai": "Vật liệu polymer",
+          "trang": "56-64"
+        },
+        {
+          "so_bai": 14,
+          "ten_bai": "Ôn tập chương 4",
+          "trang": "65-66",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Viết được công thức cấu tạo và gọi được tên của một số polymer thường gặp (polyethylene (PE), polypropylene (PP), polystyrene (PS), poly(vinyl chloride) (PVC), polybutadiene, polyisoprene, poly(methyl methacrylate), poly(phenol formaldehyde) (PPF), capron, nylon- 6,6).",
+        "Nêu được đặc điểm về tính chất vật lí (trạng thái, nhiệt độ nóng chảy, tính chất cơ học) và tính chất hoá học (phản ứng cắt mạch (tinh bột, cellulose, polyamide, polystyrene), tăng mạch (lưu hoá cao su), giữ nguyên mạch của một số polymer).",
+        "Trình bày được phương pháp trùng hợp, trùng  ngưng  để  tổng  hợp  một  số  polymer thường gặp. Chất dẻo và vật liệu composite",
+        "Nêu được khái niệm về chất dẻo.",
+        "Trình bày được thành phần phân tử và phản ứng điều chế polyethylene (PE), polypropylene (PP), polystyrene (PS), poly(vinyl chloride) (PVC), polybutadiene, polyisoprene, poly(methyl methacrylate), poly(phenol formaldehyde) (PPF).",
+        "Trình bày được ứng dụng của chất dẻo và tác hại của việc lạm dụng chất dẻo trong đời sống và sản xuất. Nêu được một số biện pháp để hạn chế sử dụng một số loại chất dẻo để giảm thiểu ô nhiễm môi trường, bảo vệ sức khoẻ con người.",
+        "Nêu được khái niệm về composite.",
+        "Trình bày được ứng dụng của một số loại composite. Tơ",
+        "Nêu được khái niệm và phân loại về tơ.",
+        "Trình bày được cấu tạo, tính chất và ứng dụng một số tơ tự nhiên (bông, sợi, len lông cừu, tơ tằm,...), tơ nhân tạo (tơ tổng hợp như nylon-6,6; capron; nitron hay olon,... và tơ bán tổng hợp như visco, cellulose acetate,...). Cao su",
+        "Nêu được khái niệm cao su, cao su thiên nhiên, cao su nhân tạo.",
+        "Trình bày được đặc điểm cấu tạo, tính chất, ứng dụng của cao su tự nhiên và cao su tổng hợp (cao su buna, cao su buna-S, cao su buna-N, chloroprene).",
+        "Trình bày được phản ứng điều chế cao su tổng hợp (cao su buna, cao su buna-S, cao su buna- N, chloroprene).",
+        "Nêu được bản chất và ý nghĩa của quá trình lưu hoá cao su. Keo dán tổng hợp",
+        "Nêu được khái niệm về keo dán.",
+        "Trình bày được thành phần, tính chất, ứng dụng một số keo dán (nhựa vá săm, keo dán epoxy, keo dán poly(urea-formaldehyde))."
+      ]
+    },
+    {
+      "so_chuong": 5,
+      "ten_chuong": "Chương 5. Pin điện và điện phân",
+      "trang_bat_dau": 67,
+      "trang_ket_thuc": 86,
+      "bai_hoc": [
+        {
+          "so_bai": 15,
+          "ten_bai": "Thế điện cực và nguồn điện hoá học",
+          "trang": "67-77"
+        },
+        {
+          "so_bai": 16,
+          "ten_bai": "Điện phân",
+          "trang": "78-84"
+        },
+        {
+          "so_bai": 17,
+          "ten_bai": "Ôn tập chương 5",
+          "trang": "85-86",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Mô tả được cặp oxi hoá – khử kim loại.",
+        "Nêu được giá trị thế điện cực chuẩn là đại lượng đánh giá khả năng khử giữa các dạng khử, khả năng oxi hoá giữa các dạng oxi hoá trong điều kiện chuẩn.",
+        "Sử dụng bảng giá trị thế điện cực chuẩn để: So sánh được tính khử, tính oxi hoá giữa các cặp oxi hoá – khử; Dự đoán được chiều hướng xảy ra phản ứng giữa hai cặp oxi hoá – khử; Tính được sức điện động của pin điện hoá tạo bởi hai cặp oxi hoá – khử.",
+        "Nêu được cấu tạo, nguyên tắc hoạt động của pin Galvani, ưu nhược điểm chính một số loại pin khác như acquy (accu), pin nhiên liệu; pin mặt trời...",
+        "Lắp ráp được pin đơn giản (Pin đơn giản: 2 thanh kim loại khác nhau cắm vào quả chanh, lọ nước muối...) và đo được sức điện động của pin. Điện phân",
+        "Trình bày được nguyên tắc (thứ tự) điện phân dung dịch, điện phân nóng chảy.",
+        "Thực hiện được (hoặc quan sát video) thí nghiệm điện phân dung dịch copper(II) sulfate, dung dịch sodium chloride (tự chế tạo nước Javel để tẩy rửa).",
+        "Nêu được ứng dụng  của một  số hiện tượng điện phân trong thực tiễn (mạ điện, tinh chế kim loại).",
+        "Trình bày được giai đoạn điện phân aluminium oxide trong sản xuất nhôm (aluminium), tinh luyện đồng (copper) bằng phương pháp điện phân, mạ điện."
+      ]
+    },
+    {
+      "so_chuong": 6,
+      "ten_chuong": "Chương 6. Đại cương về kim loại",
+      "trang_bat_dau": 87,
+      "trang_ket_thuc": 107,
+      "bai_hoc": [
+        {
+          "so_bai": 18,
+          "ten_bai": "Cấu tạo và liên kết trong tinh thể kim loại",
+          "trang": "87-88"
+        },
+        {
+          "so_bai": 19,
+          "ten_bai": "Tính chất vật lí và tính chất hoá học của kim loại",
+          "trang": "89-93"
+        },
+        {
+          "so_bai": 20,
+          "ten_bai": "Kim loại trong tự nhiên và phương pháp tách kim loại",
+          "trang": "94-98"
+        },
+        {
+          "so_bai": 21,
+          "ten_bai": "Hợp kim",
+          "trang": "99-101"
+        },
+        {
+          "so_bai": 22,
+          "ten_bai": "Sự ăn mòn kim loại",
+          "trang": "102-105"
+        },
+        {
+          "so_bai": 23,
+          "ten_bai": "Ôn tập chương 6",
+          "trang": "106-107",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Trình bày được đặc điểm cấu tạo của nguyên tử kim loại và tinh thể kim loại.",
+        "Nêu được đặc điểm của liên kết kim loại. Tính chất vật lí và tính chất hoá học của kim loại",
+        "Giải thích được một số tính chất vật lí chung của kim loại (tính dẻo, tính dẫn điện, tính dẫn nhiệt, tính ánh kim).",
+        "Trình bày được ứng dụng từ tính chất vật lí chung và riêng của kim loại.",
+        "Sử dụng bảng giá trị thế điện cực chuẩn của một số cặp oxi hoá – khử phổ biến của ion kim loại/ kim loại (có bổ sung thế điện cực chuẩn các cặp: H2O/OH– + 1/2H2; 2H+/H2; SO2– + 4H+/ 4 SO2 + 2H2O) để giải thích được các trường hợp kim loại phản ứng với dung dịch HCl, H2SO4 loãng và đặc; nước; dung dịch muối.",
+        "Trình bày được phản ứng của kim loại với phi kim (chlorine, oxygen, lưu huỳnh) và viết được các phương trình hoá học.",
+        "Thực hiện được một số thí nghiệm của kim loại tác dụng với phi kim, acid (HCl, H2SO4), muối. Quặng, mỏ kim loại trong tự nhiên và các phương pháp tách kim loại",
+        "Nêu được khái quát trạng thái tự nhiên của kim loại và một số quặng, mỏ kim loại phổ biến.",
+        "Trình bày và giải thích được phương pháp tách kim loại hoạt động mạnh như sodium, magnesium, nhôm (aluminium); Phương pháp tách kim loại hoạt động trung bình như kẽm (zinc), sắt (iron); Phương pháp tách kim loại kém hoạt động như đồng (copper).",
+        "Trình bày được nhu cầu và thực tiễn tái chế kim loại phổ biến sắt, nhôm, đồng... Hợp kim",
+        "Trình bày được khái niệm hợp kim và việc sử dụng phổ biến hợp kim.",
+        "Trình bày được một số tính chất của hợp kim so với kim loại thành phần.",
+        "Nêu được thành phần, tính chất và ứng dụng một số hợp kim quan trọng của sắt và nhôm (gang, thép, dural,...). Sự ăn mòn kim loại",
+        "Nêu được khái niệm ăn mòn kim loại từ sự biến đổi của một số kim loại, hợp kim trong tự nhiên.",
+        "Trình bày được các dạng ăn mòn kim loại và các phương pháp chống ăn mòn kim loại.",
+        "Thực hiện được (hoặc quan sát qua video) thí nghiệm ăn mòn điện hoá đối với sắt và thí nghiệm bảo vệ sắt bằng phương pháp điện hoá, mô tả hiện tượng thí nghiệm, giải thích và nhận xét."
+      ]
+    },
+    {
+      "so_chuong": 7,
+      "ten_chuong": "Chương 7. Nguyên tố nhóm IA và nhóm IIA",
+      "trang_bat_dau": 108,
+      "trang_ket_thuc": 127,
+      "bai_hoc": [
+        {
+          "so_bai": 24,
+          "ten_bai": "Nguyên tố nhóm IA",
+          "trang": "108-115"
+        },
+        {
+          "so_bai": 25,
+          "ten_bai": "Nguyên tố nhóm IIA",
+          "trang": "116-125"
+        },
+        {
+          "so_bai": 26,
+          "ten_bai": "Ôn tập chương 7",
+          "trang": "126-127",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Nêu được trạng thái tự nhiên của nguyên tố nhóm IA.",
+        "Nêu được xu hướng biến đổi nhiệt độ nóng chảy, nhiệt độ sôi của kim loại nhóm IA.",
+        "Giải thích được nguyên nhân khối lượng riêng nhỏ và độ cứng thấp của kim loại nhóm IA.",
+        "Giải thích được nguyên nhân kim loại nhóm IA có tính khử mạnh hơn so với các nhóm kim loại khác.",
+        "Thông qua mô tả thí nghiệm (hoặc quan sát qua video), nêu được mức độ phản ứng tăng dần từ lithium, sodium, potassium khi chúng phản ứng với nước, chlorine và oxygen.",
+        "Trình bày được cách bảo quản kim loại nhóm IA.",
+        "Giải thích được trạng thái tồn tại của nguyên tố nhóm IA trong tự nhiên. Một số ứng dụng và quá trình liên quan đến hợp chất nhóm IA",
+        "Nêu được khả năng tan trong nước của các hợp chất nhóm IA.",
+        "Thực hiện được thí nghiệm (hoặc qua quan sát video thí nghiệm) phân biệt các ion Li+, Na+, K+ bằng màu ngọn lửa.",
+        "Tìm hiểu và trình bày được ứng dụng của sodium chloride.",
+        "Trình bày được quá trình điện phân dung dịch sodium chloride và các sản phẩm cơ bản của công nghiệp chlorine – kiềm.",
+        "Giải thích được các ứng dụng phổ biến của sodium hydrogen carbonate (natri hiđrocacbonat), sodium carbonate (natri cacbonat) và phương pháp Solvay sản xuất soda. Nguyên tố nhóm IIA Đơn chất",
+        "Nêu được trạng thái tự nhiên của nguyên tố nhóm IIA.",
+        "Nêu các đại lượng vật lí cơ bản của kim loại nhóm IIA (bán kính nguyên tử, nhiệt độ nóng chảy, khối lượng riêng).",
+        "Giải thích được nguyên nhân tính kim loại tăng dần từ trên xuống dưới trong cùng nhóm của kim loại nhóm IIA tạo M2+ (dựa vào bán kính nguyên tử, điện tích hạt nhân).",
+        "Trình bày được phản ứng của kim loại IIA với oxygen. Nhận biết được đơn chất và các hợp chất của Ca2+, Sr2+, Ba2+ dựa vào màu ngọn lửa.",
+        "Nêu được mức độ tương tác của kim loại IIA với nước. Chứng minh được xu hướng tăng hoặc giảm dần mức độ các phản ứng dựa vào tính kiềm của dung dịch thu được cùng với độ tan của các hydroxide nhóm IIA. Tính chất cơ bản của một số loại hợp chất nhóm IIA",
+        "Nêu được tương tác giữa muối carbonate với nước và với acid loãng.",
+        "Viết được phương trình hoá học sự phân huỷ nhiệt của muối carbonate và muối nitrate.",
+        "Giải thích được quy luật biến đổi độ bền nhiệt của muối carbonate, muối nitrate theo biến thiên enthalpy phản ứng.",
+        "Nêu được khả năng tan trong nước của các muối carbonate, sulfate, nitrate nhóm IIA.",
+        "Thực hiện được thí nghiệm so sánh định tính độ tan giữa calcium sulfate và barium sulfate từ phản ứng của calcium chloride, barium chloride với dung dịch copper(II) sulfate.",
+        "Sử dụng được bảng tính tan, độ tan của muối và hydroxide.",
+        "Thực hiện được thí nghiệm kiểm tra sự có mặt từng ion riêng biệt Ca2+, Ba2+, SO2– , CO2– 4 3 trong dung dịch. Một số ứng dụng",
+        "Tìm hiểu và trình bày được ứng dụng của kim loại dạng nguyên chất, hợp kim; ứng dụng của đá vôi, vôi, nước vôi, thạch cao, khoáng vật apatite,... dựa trên một số tính chất hoá học và vật lí của chúng; vai trò một số hợp chất của calcium trong cơ thể con người. Nước cứng và làm mềm nước cứng",
+        "Nêu được khái niệm nước cứng, phân loại nước cứng.",
+        "Trình bày được tác hại của nước cứng.",
+        "Đề xuất được cơ sở các phương pháp làm mềm nước cứng."
+      ]
+    },
+    {
+      "so_chuong": 8,
+      "ten_chuong": "Chương 8. Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+      "trang_bat_dau": 128,
+      "trang_ket_thuc": 144,
+      "bai_hoc": [
+        {
+          "so_bai": 27,
+          "ten_bai": "Đại cương về kim loại chuyển tiếp dãy thứ nhất",
+          "trang": "128-133"
+        },
+        {
+          "so_bai": 28,
+          "ten_bai": "Sơ lược về phức chất",
+          "trang": "134-137"
+        },
+        {
+          "so_bai": 29,
+          "ten_bai": "Một số tính chất và ứng dụng của phức chất",
+          "trang": "138-141"
+        },
+        {
+          "so_bai": 30,
+          "ten_bai": "Ôn tập chương 8",
+          "trang": "142-144",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Nêu được đặc điểm cấu hình electron của nguyên tử kim loại chuyển tiếp dãy thứ nhất (từ Sc đến Cu).",
+        "Trình bày được một số tính chất vật lí của kim loại chuyển tiếp (nhiệt độ nóng chảy, khối lượng riêng, độ dẫn điện và dẫn nhiệt, độ cứng) và ứng dụng của kim loại chuyển tiếp ứng từ các tính chất đó.",
+        "Nêu được sự khác biệt các số liệu về nhiệt độ nóng chảy, khối lượng riêng, độ dẫn điện, độ cứng,... giữa một số kim loại chuyển tiếp so với kim loại họ s.",
+        "Nêu được xu hướng có nhiều số oxi hoá của nguyên tố chuyển tiếp.",
+        "Nêu được các trạng thái oxi hoá phổ biến, cấu hình electron, đặc tính có màu của một số ion kim loại chuyển tiếp dãy thứ nhất.",
+        "Thực hiện được (hoặc quan sát video) thí nghiệm xác định hàm lượng muối Fe(II) bằng dung dịch thuốc tím.",
+        "Thực hiện được thí nghiệm kiểm tra sự có mặt từng ion riêng biệt: Cu2+, Fe3+. Sơ lược về phức chất",
+        "Nêu được nguyên tử trung tâm; phối tử; liên kết cho nhận giữa nguyên tử trung tâm và phối và sự hình thành phức chất tử trong phức chất. của ion kim loại chuyển",
+        "Nêu được một số dạng hình học của phức chất (tứ diện, vuông phẳng, bát diện). tiếp trong dung dịch",
+        "Trình bày được một số dấu hiệu của phản ứng tạo phức chất trong dung dịch (đổi màu, kết tủa, hoà tan...).",
+        "Trình bày được sự hình thành phức chất aqua của ion kim loại chuyển tiếp và H2O trong dung dịch nước.",
+        "Mô tả được phản ứng thay thế phối tử của phức chất bởi một số phối tử đơn giản trong dung dịch nước.",
+        "Thực hiện được một số thí nghiệm tạo phức chất của một ion kim loại chuyển tiếp trong dung dịch với một số phối tử đơn giản khác nhau (ví dụ: sự tạo phức của dung dịch Cu(II) với NH3, OH–, Cl- ,...).",
+        "Nêu được một số ứng dụng của phức chất."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StudyDocumentLessonSchemaV2",
+  "type": "object",
+  "required": [
+    "meta",
+    "muc_tieu",
+    "y_nghia_thuc_tien",
+    "kien_thuc_trong_tam",
+    "he_thong_hoa",
+    "cau_hoi_tu_kiem_tra"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["mon_hoc", "khoi_lop", "bo_sach", "chuong", "ten_bai", "is_demo"],
+      "properties": {
+        "mon_hoc": { "type": "string" },
+        "khoi_lop": { "type": "string" },
+        "bo_sach": { "type": "string" },
+        "chuong": { "type": "string" },
+        "ten_bai": { "type": "string" },
+        "is_demo": { "type": "boolean" },
+        "nguon_sgk": { "type": "string" }
+      }
+    },
+    "muc_tieu": {
+      "type": "object",
+      "required": ["kien_thuc", "ky_nang"],
+      "properties": {
+        "kien_thuc": { "type": "array", "items": { "type": "string" }, "minItems": 2 },
+        "ky_nang": { "type": "array", "items": { "type": "string" }, "minItems": 2 }
+      }
+    },
+    "y_nghia_thuc_tien": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "required": ["hien_tuong", "cau_hoi", "giai_thich_hoa_hoc", "y_nghia_ung_dung", "lien_ket_muc_c"],
+        "properties": {
+          "hien_tuong": { "type": "string" },
+          "cau_hoi": { "type": "string" },
+          "giai_thich_hoa_hoc": { "type": "string" },
+          "y_nghia_ung_dung": { "type": "string" },
+          "lien_ket_muc_c": { "type": "string" }
+        }
+      }
+    },
+    "kien_thuc_trong_tam": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": ["muc_so", "tieu_de", "cot_loi", "giai_thich_ban_chat", "vi_du"],
+        "properties": {
+          "muc_so": { "type": "string" },
+          "tieu_de": { "type": "string" },
+          "cot_loi": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "giai_thich_ban_chat": { "type": "string" },
+          "cong_thuc_quy_tac": { "type": "array", "items": { "type": "string" } },
+          "vi_du": {
+            "type": "object",
+            "required": ["de_bai", "huong_dan"],
+            "properties": {
+              "de_bai": { "type": "string" },
+              "huong_dan": { "type": "string" }
+            }
+          },
+          "hinh_anh": {
+            "type": "object",
+            "required": ["path", "caption"],
+            "properties": {
+              "path": { "type": "string" },
+              "caption": { "type": "string" },
+              "source": { "type": "string" },
+              "width_cm": { "type": "number" }
+            }
+          },
+          "lien_he_thuc_tien": { "type": "string" },
+          "luu_y": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "he_thong_hoa": {
+      "type": "object",
+      "required": ["bang_so_sanh", "quy_tac_ghi_nho"],
+      "properties": {
+        "bang_so_sanh": {
+          "type": "object",
+          "required": ["tieu_de", "headers", "rows"],
+          "properties": {
+            "tieu_de": { "type": "string" },
+            "headers": { "type": "array", "items": { "type": "string" }, "minItems": 2 },
+            "rows": {
+              "type": "array",
+              "items": { "type": "array", "items": { "type": "string" } },
+              "minItems": 2
+            }
+          }
+        },
+        "so_do_tong_hop": {
+          "type": "object",
+          "properties": {
+            "path": { "type": "string" },
+            "caption": { "type": "string" },
+            "source": { "type": "string" },
+            "width_cm": { "type": "number" }
+          }
+        },
+        "quy_tac_ghi_nho": { "type": "array", "items": { "type": "string" } },
+        "loi_thuong_gap": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "cau_hoi_tu_kiem_tra": {
+      "type": "object",
+      "required": ["mcq", "dung_sai"],
+      "properties": {
+        "mcq": {
+          "type": "array",
+          "minItems": 5,
+          "maxItems": 5,
+          "items": {
+            "type": "object",
+            "required": ["cau_so", "muc_do", "cau_hoi", "lua_chon", "dap_an", "giai_thich"],
+            "properties": {
+              "cau_so": { "type": "integer" },
+              "muc_do": { "type": "string", "enum": ["Nhận biết", "Thông hiểu", "Vận dụng"] },
+              "cau_hoi": { "type": "string" },
+              "lua_chon": {
+                "type": "object",
+                "required": ["A", "B", "C", "D"],
+                "properties": { "A": { "type": "string" }, "B": { "type": "string" }, "C": { "type": "string" }, "D": { "type": "string" } }
+              },
+              "dap_an": { "type": "string", "enum": ["A", "B", "C", "D"] },
+              "giai_thich": { "type": "string" }
+            }
+          }
+        },
+        "dung_sai": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["cau_so", "dan_nhap", "nhan_dinh"],
+            "properties": {
+              "cau_so": { "type": "integer" },
+              "dan_nhap": { "type": "string" },
+              "nhan_dinh": {
+                "type": "array",
+                "minItems": 4,
+                "maxItems": 4,
+                "items": {
+                  "type": "object",
+                  "required": ["ky_hieu", "noi_dung", "dap_an", "giai_thich"],
+                  "properties": {
+                    "ky_hieu": { "type": "string", "enum": ["a", "b", "c", "d"] },
+                    "noi_dung": { "type": "string" },
+                    "dap_an": { "type": "boolean" },
+                    "giai_thich": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

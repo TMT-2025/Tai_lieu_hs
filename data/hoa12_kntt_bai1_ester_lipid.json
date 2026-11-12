@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "mon_hoc": "Hóa học",
+    "khoi_lop": "Lớp 12",
+    "bo_sach": "Kết nối tri thức với cuộc sống",
+    "chuong": "Chương 1. Ester – Lipid",
+    "ten_bai": "Bài 1. Ester – Lipid",
+    "is_demo": false,
+    "nguon_sgk": "SGK Hóa học 12 KNTT (tr. 6–13) & Yêu cầu cần đạt GDPT 2018"
+  },
+  "muc_tieu": {
+    "kien_thuc": [
+      "Nêu được khái niệm lipid, chất béo, acid béo và đặc điểm cấu tạo phân tử ester.",
+      "Viết được công thức cấu tạo và gọi tên một số ester đơn giản (số nguyên tử C ≤ 5) và thường gặp.",
+      "Trình bày được tính chất vật lí, tính chất hóa học cơ bản của ester (phản ứng thủy phân trong môi trường acid và kiềm) và của chất béo (hydrogen hóa chất béo lỏng, oxi hóa chất béo bởi O_{2} không khí).",
+      "Trình bày được phương pháp điều chế ester, ứng dụng của ester, chất béo và acid béo thiết yếu (omega-3, omega-6)."
+    ],
+    "ky_nang": [
+      "Viết đúng đồng phân cấu tạo ester đơn chức, gọi tên theo danh pháp gốc – chức và cân bằng phương trình thủy phân, xà phòng hóa.",
+      "Giải thích được sự khác biệt nhiệt độ sôi giữa ester với alcohol, carboxylic acid có phân tử khối tương đương và các hiện tượng thực tiễn liên quan đến hương liệu, dầu mỡ."
+    ]
+  },
+  "y_nghia_thuc_tien": [
+    {
+      "hien_tuong": "Mùi thơm đặc trưng của hoa quả chín và hương liệu thực phẩm (isoamyl acetate có mùi chuối chín, benzyl acetate có mùi hoa nhài)",
+      "cau_hoi": "Vì sao nhiều loại quả chín có mùi thơm dễ chịu và dễ bay hơi, còn xà phòng hay dầu ăn lại không bay hơi nhanh như vậy?",
+      "giai_thich_hoa_hoc": "Các ester có phân tử khối nhỏ đến trung bình không tạo được liên kết hydrogen giữa các phân tử nên nhiệt độ sôi thấp, dễ bay hơi và có mùi thơm đặc trưng. Ngược lại, chất béo có phân tử khối rất lớn nên khó bay hơi.",
+      "y_nghia_ung_dung": "Ester được tổng hợp hoặc tách chiết làm hương liệu trong công nghiệp thực phẩm, mĩ phẩm và làm dung môi pha sơn (butyl acetate), tách chiết chất hữu cơ (ethyl acetate).",
+      "lien_ket_muc_c": "Xem Mục C.I (Khái niệm, danh pháp và tính chất vật lí của ester)."
+    },
+    {
+      "hien_tuong": "Dầu thực vật để lâu ngày ngoài không khí có mùi khét (ôi thiu), đồng thời dầu lỏng có thể chuyển thành bơ thực vật (margarine)",
+      "cau_hoi": "Vì sao dầu ăn để hở nắp lâu ngày bị hỏng, và bằng cách nào người ta sản xuất được bơ thực vật rắn từ dầu thực vật lỏng?",
+      "giai_thich_hoa_hoc": "Dầu thực vật chứa nhiều gốc acid béo không no (có liên kết đôi C=C) nên dễ bị oxi hóa chậm bởi oxygen không khí tạo các hợp chất có mùi khó chịu (ôi thiu). Khi cho tác dụng với H_{2} (xúc tác Ni, t^{o}), các liên kết đôi C=C cộng H_{2} tạo gốc acid béo no, chuyển chất béo lỏng thành chất béo rắn.",
+      "y_nghia_ung_dung": "Giúp bảo quản dầu mỡ đúng cách (đậy kín, tránh ánh sáng/nhiệt độ cao) và ứng dụng phản ứng hydrogen hóa để sản xuất bơ thực vật, đồng thời bổ sung omega-3, omega-6 hợp lí cho tim mạch.",
+      "lien_ket_muc_c": "Xem Mục C.II (Khái niệm, trạng thái và tính chất hóa học của chất béo)."
+    },
+    {
+      "hien_tuong": "Nấu xà phòng từ mỡ động vật hoặc dầu thực vật với dung dịch kiềm (NaOH / KOH)",
+      "cau_hoi": "Phản ứng nào biến đổi chất béo không tan trong nước thành xà phòng có khả năng giặt rửa?",
+      "giai_thich_hoa_hoc": "Khi đun nóng chất béo với dung dịch NaOH hoặc KOH, xảy ra phản ứng thủy phân một chiều (phản ứng xà phòng hóa) tạo ra muối sodium/potassium của acid béo (thành phần chính của xà phòng) và glycerol.",
+      "y_nghia_ung_dung": "Là cơ sở của công nghiệp sản xuất xà phòng và glycerol từ nguồn nguyên liệu dầu mỡ tự nhiên hoặc dầu ăn đã qua sử dụng.",
+      "lien_ket_muc_c": "Xem Mục C.I.3 (Phản ứng thủy phân ester) và Mục C.II.2 (Tính chất hóa học chất béo)."
+    }
+  ],
+  "kien_thuc_trong_tam": [
+    {
+      "muc_so": "I",
+      "tieu_de": "Ester: Khái niệm, Danh pháp, Tính chất và Điều chế",
+      "cot_loi": [
+        "**Khái niệm & Công thức:** Khi thay thế nhóm -OH ở nhóm carboxyl (-COOH) của carboxylic acid bằng nhóm -OR' thu được **ester**. Ester đơn chức có công thức chung **R-COO-R'** (với R là H hoặc gốc hydrocarbon; R' là gốc hydrocarbon).",
+        "**Danh pháp:** Tên gốc R' + tên gốc acid RCOO (đổi đuôi *-ic* thành *-ate*). Ví dụ: HCOOCH_{3} (*methyl formate*), CH_{3}COOC_{2}H_{5} (*ethyl acetate*).",
+        "**Tính chất vật lí:** Không tạo liên kết hydrogen giữa các phân tử nên nhiệt độ sôi **thấp hơn** carboxylic acid và alcohol có cùng số C hoặc phân tử khối tương đương; nhẹ hơn nước và ít tan trong nước.",
+        "**Tính chất hóa học (Phản ứng thủy phân):**\n- *Môi trường acid (H^{+}, t^{o}):* Phản ứng **thuận nghịch**, tạo carboxylic acid và alcohol: RCOOR' + H_{2}O <-> RCOOH + R'OH.\n- *Môi trường base (NaOH/KOH, t^{o}):* Phản ứng **một chiều** (*xà phòng hóa*), tạo muối carboxylate và alcohol: RCOOR' + NaOH -> RCOONa + R'OH.",
+        "**Điều chế:** Phản ứng ester hóa giữa carboxylic acid và alcohol (xúc tác H_{2}SO_{4} đặc, đun nóng, thuận nghịch)."
+      ],
+      "giai_thich_ban_chat": "Do không có nguyên tử H linh động gắn trực tiếp với nguyên tử O (như nhóm -OH của alcohol hay -COOH của acid), các phân tử ester không thể tạo liên kết hydrogen với nhau, khiến lực hút liên phân tử yếu và nhiệt độ sôi thấp hơn hẳn. Trong phản ứng thủy phân, môi trường kiềm trung hòa hoàn toàn acid sinh ra thành muối nên phản ứng xảy ra một chiều và hoàn toàn hơn môi trường acid.",
+      "cong_thuc_quy_tac": [
+        "Công thức phân tử ester no, đơn chức, mạch hở: **C_{n}H_{2n}O_{2}** (n ≥ 2).",
+        "Số đồng phân ester đơn chức C_{4}H_{8}O_{2} là **4** (HCOOC_{3}H_{7}: 2 đồng phân; CH_{3}COOC_{2}H_{5}: 1; C_{2}H_{5}COOCH_{3}: 1)."
+      ],
+      "vi_du": {
+        "de_bai": "Sắp xếp các chất sau theo chiều tăng dần nhiệt độ sôi: butan-1-ol (CH_{3}CH_{2}CH_{2}CH_{2}OH), propanoic acid (C_{2}H_{5}COOH) và methyl acetate (CH_{3}COOCH_{3}), biết ba giá trị nhiệt độ sôi là 57 °C, 118 °C và 141 °C.",
+        "huong_dan": "Ba chất có phân tử khối tương đương (74 g/mol). Methyl acetate không có liên kết hydrogen liên phân tử nên sôi thấp nhất (**57 °C**). Butan-1-ol và propanoic acid đều có liên kết hydrogen, nhưng liên kết hydrogen giữa các phân tử acid bền hơn alcohol -> Butan-1-ol (**118 °C**) < Propanoic acid (**141 °C**)."
+      },
+      "hinh_anh": {
+        "path": "output/assets/hoa12_b1_ester_2d.png",
+        "caption": "Hình 1.1. Công thức cấu tạo 2D của một số ester tiêu biểu (tạo bằng RDKit / chem-vis)",
+        "source": "Tái dựng cấu trúc 2D chuẩn IUPAC bằng RDKit",
+        "width_cm": 15.0
+      },
+      "lien_he_thuc_tien": "Do không có liên kết hydrogen liên phân tử và dễ bay hơi, các ester mạch ngắn như isoamyl acetate tạo nên hương thơm hoa quả chín (Mục B.1), còn phản ứng thủy phân ester trong kiềm là nguyên lí sản xuất xà phòng (Mục B.3).",
+      "luu_y": [
+        "Ester của phenol (như CH_{3}COOC_{6}H_{5}) tác dụng với NaOH theo tỉ lệ mol **1 : 2** tạo 2 muối (CH_{3}COONa và C_{6}H_{5}ONa) + H_{2}O, không tạo alcohol."
+      ]
+    },
+    {
+      "muc_so": "II",
+      "tieu_de": "Lipid, Chất béo và Acid béo thiết yếu",
+      "cot_loi": [
+        "**Lipid** là các hợp chất hữu cơ có trong tế bào sống, không tan trong nước nhưng tan trong dung môi hữu cơ không phân cực (gồm chất béo, sáp, steroid, phospholipid...).",
+        "**Chất béo (Triglyceride)** là triester của glycerol (C_{3}H_{5}(OH)_{3}) với các acid béo: **(RCOO)_{3}C_{3}H_{5}**.",
+        "**Acid béo** là carboxylic acid đơn chức, mạch carbon dài không phân nhánh (thường 12–24 C, số C chẵn). Gồm: *Acid béo no* (palmitic acid C_{15}H_{31}COOH, stearic acid C_{17}H_{35}COOH) và *Acid béo không no* (oleic acid C_{17}H_{33}COOH, linoleic acid C_{17}H_{31}COOH).",
+        "**Tính chất vật lí & hóa học chất béo:**\n- Chất béo chứa chủ yếu gốc acid béo no ở trạng thái **rắn** (mỡ động vật); chứa nhiều gốc acid béo không no ở trạng thái **lỏng** (dầu thực vật).\n- Tham gia phản ứng **thủy phân** (acid hoặc kiềm/xà phòng hóa), phản ứng **hydrogen hóa** chất béo lỏng thành chất béo rắn (xúc tác Ni, t^{o}) và phản ứng **oxi hóa** gốc không no bởi O_{2} không khí."
+      ],
+      "giai_thich_ban_chat": "Các gốc acid béo không no có liên kết đôi C=C dạng *cis* làm mạch phân tử bị gập khúc, khó xếp khít vào nhau nên lực tương tác van der Waals yếu, dẫn đến nhiệt độ nóng chảy thấp (trạng thái lỏng). Khi hydrogen hóa, liên kết đôi chuyển thành liên kết đơn làm mạch thẳng hơn, xếp khít và chuyển sang trạng thái rắn.",
+      "cong_thuc_quy_tac": [
+        "Phương trình xà phòng hóa tổng quát: (RCOO)_{3}C_{3}H_{5} + 3NaOH -> 3RCOONa + C_{3}H_{5}(OH)_{3}.",
+        "Hydrogen hóa triolein: (C_{17}H_{33}COO)_{3}C_{3}H_{5} + 3H_{2} -> (C_{17}H_{35}COO)_{3}C_{3}H_{5} (xúc tác Ni, t^{o})."
+      ],
+      "vi_du": {
+        "de_bai": "Tính khối lượng xà phòng chứa 80% sodium stearate (C_{17}H_{35}COONa, M = 306 g/mol) thu được khi xà phòng hóa hoàn toàn 89 kg tristearin ((C_{17}H_{35}COO)_{3}C_{3}H_{5}, M = 890 g/mol) với lượng vừa đủ NaOH (hiệu suất 100%).",
+        "huong_dan": "Số mol tristearin: n = 89000 / 890 = 100 mol.\nTheo phương trình: 1 mol tristearin -> 3 mol C_{17}H_{35}COONa -> n_{muối} = 300 mol.\nKhối lượng muối nguyên chất = 300 × 306 = 91800 g = 91,8 kg.\nKhối lượng xà phòng (80% muối) = 91,8 / 0,8 = **114,75 kg**."
+      },
+      "lien_he_thuc_tien": "Liên kết đôi C=C trong dầu thực vật vừa giải thích hiện tượng ôi thiu dầu mỡ khi tiếp xúc với O_{2} không khí, vừa là cơ sở để hydrogen hóa dầu lỏng thành bơ thực vật (Mục B.2).",
+      "luu_y": [
+        "Omega-3 (như EPA, DHA, α-linolenic acid) và omega-6 (như linoleic acid) là các acid béo không no thiết yếu cơ thể không tự tổng hợp được, cần bổ sung qua dầu cá, dầu thực vật."
+      ]
+    }
+  ],
+  "he_thong_hoa": {
+    "bang_so_sanh": {
+      "tieu_de": "Bảng so sánh Ester đơn chức và Chất béo (Triglyceride)",
+      "headers": ["Tiêu chí", "Ester đơn chức (RCOOR')", "Chất béo ((RCOO)_{3}C_{3}H_{5})"],
+      "rows": [
+        ["Cấu tạo phân tử", "1 nhóm chức -COO- (mono-ester)", "3 nhóm chức -COO- tạo từ glycerol và acid béo mạch dài (triester)"],
+        ["Tỉ lệ mol phản ứng với NaOH", "1 : 1 (trừ ester của phenol 1 : 2)", "1 : 3 (tạo 3 mol muối acid béo + 1 mol glycerol)"],
+        ["Trạng thái & độ tan", "Thường lỏng/rắn, dễ bay hơi (mạch ngắn), ít tan trong nước", "Rắn (mỡ no) hoặc lỏng (dầu không no), không tan trong nước"],
+        ["Phản ứng đặc trưng khác", "Ester có nối đôi C=C tham gia phản ứng cộng, trùng hợp", "Hydrogen hóa chất béo lỏng -> rắn; dễ bị O_{2} oxi hóa gây ôi thiu"]
+      ]
+    },
+    "so_do_tong_hop": {
+      "path": "output/assets/hoa12_b1_phan_loai_ester_lipid.png",
+      "caption": "Hình 1.2. Sơ đồ hệ thống hóa phân loại và tính chất của Ester – Chất béo",
+      "source": "Tổng hợp theo SGK Hóa học 12 KNTT, tr. 6–13",
+      "width_cm": 15.0
+    },
+    "quy_tac_ghi_nho": [
+      "Nhớ tên ester: **Đọc gốc R' trước, gốc acid (đuôi -ate) sau** (ngược với thứ tự viết R-COO-R').",
+      "Thủy phân ester trong **acid -> thuận nghịch**; trong **kiềm -> một chiều (xà phòng hóa)**."
+    ],
+    "loi_thuong_gap": [
+      "Nhầm lẫn 1 mol triolein chỉ cộng 1 mol H_{2} (thực tế có 3 gốc oleate nên cộng **3 mol H_{2}**).",
+      "Quên lấy lượng NaOH dư cộng vào khối lượng chất rắn khan khi cô cạn dung dịch sau phản ứng xà phòng hóa."
+    ]
+  },
+  "cau_hoi_tu_kiem_tra": {
+    "mcq": [
+      {
+        "cau_so": 1,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Công thức cấu tạo thu gọn của ester ethyl acetate là",
+        "lua_chon": {
+          "A": "HCOOC_{2}H_{5}.",
+          "B": "CH_{3}COOCH_{3}.",
+          "C": "CH_{3}COOC_{2}H_{5}.",
+          "D": "C_{2}H_{5}COOCH_{3}."
+        },
+        "dap_an": "C",
+        "giai_thich": "Ethyl là gốc -C_{2}H_{5}, acetate là gốc CH_{3}COO- -> ethyl acetate là CH_{3}COOC_{2}H_{5}."
+      },
+      {
+        "cau_so": 2,
+        "muc_do": "Nhận biết",
+        "cau_hoi": "Chất nào sau đây là chất béo ở trạng thái rắn ở nhiệt độ thường?",
+        "lua_chon": {
+          "A": "Triolein.",
+          "B": "Tristearin.",
+          "C": "Trilinolein.",
+          "D": "Ethyl butyrate."
+        },
+        "dap_an": "B",
+        "giai_thich": "Tristearin ((C_{17}H_{35}COO)_{3}C_{3}H_{5}) chứa gốc acid béo no (stearic acid) nên ở trạng thái rắn ở nhiệt độ thường. Triolein và trilinolein chứa gốc không no (lỏng); ethyl butyrate là ester đơn chức."
+      },
+      {
+        "cau_so": 3,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Nhiệt độ sôi của các chất sau được sắp xếp theo thứ tự tăng dần từ trái sang phải là",
+        "lua_chon": {
+          "A": "CH_{3}COOCH_{3} < CH_{3}CH_{2}CH_{2}CH_{2}OH < C_{2}H_{5}COOH.",
+          "B": "CH_{3}CH_{2}CH_{2}CH_{2}OH < CH_{3}COOCH_{3} < C_{2}H_{5}COOH.",
+          "C": "C_{2}H_{5}COOH < CH_{3}CH_{2}CH_{2}CH_{2}OH < CH_{3}COOCH_{3}.",
+          "D": "CH_{3}COOCH_{3} < C_{2}H_{5}COOH < CH_{3}CH_{2}CH_{2}CH_{2}OH."
+        },
+        "dap_an": "A",
+        "giai_thich": "Methyl acetate không có liên kết hydrogen liên phân tử nên sôi thấp nhất (57 °C), tiếp đến là butan-1-ol (118 °C) và cao nhất là propanoic acid (141 °C) do có liên kết hydrogen bền hơn."
+      },
+      {
+        "cau_so": 4,
+        "muc_do": "Thông hiểu",
+        "cau_hoi": "Khi đun nóng methyl acetate với dung dịch NaOH, sản phẩm thu được gồm",
+        "lua_chon": {
+          "A": "CH_{3}COOH và CH_{3}OH.",
+          "B": "CH_{3}COONa và C_{2}H_{5}OH.",
+          "C": "CH_{3}COONa và CH_{3}OH.",
+          "D": "HCOONa và C_{2}H_{5}OH."
+        },
+        "dap_an": "C",
+        "giai_thich": "Phản ứng xà phòng hóa: CH_{3}COOCH_{3} + NaOH -> CH_{3}COONa + CH_{3}OH."
+      },
+      {
+        "cau_so": 5,
+        "muc_do": "Vận dụng",
+        "cau_hoi": "Đun nóng 8,8 gam ethyl acetate (M = 88 g/mol) với 150 mL dung dịch NaOH 1 M. Sau khi phản ứng xảy ra hoàn toàn, cô cạn dung dịch thu được m gam chất rắn khan. Giá trị của m là",
+        "lua_chon": {
+          "A": "8,2 gam.",
+          "B": "10,2 gam.",
+          "C": "12,3 gam.",
+          "D": "14,8 gam."
+        },
+        "dap_an": "B",
+        "giai_thich": "n_{ester} = 8,8 / 88 = 0,1 mol; n_{NaOH} = 0,15 × 1 = 0,15 mol. Phản ứng tạo 0,1 mol CH_{3}COONa (M = 82) và còn dư 0,05 mol NaOH (M = 40). Khối lượng rắn khan m = 0,1 × 82 + 0,05 × 40 = 8,2 + 2,0 = 10,2 gam."
+      }
+    ],
+    "dung_sai": [
+      {
+        "cau_so": 1,
+        "dan_nhap": "Tiến hành thí nghiệm thủy phân ethyl acetate (CH_{3}COOC_{2}H_{5}): Cho 1,0 mL ethyl acetate vào hai ống nghiệm (1) và (2); thêm 2 mL H_{2}SO_{4} 20% vào ống (1) và 2 mL NaOH 30% vào ống (2), sau đó đun cách thủy ở 60–70 °C.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Trước khi đun, chất lỏng trong cả hai ống nghiệm đều tách thành hai lớp do ester nhẹ hơn nước và ít tan trong nước.",
+            "dap_an": true,
+            "giai_thich": "Ethyl acetate ít tan và có khối lượng riêng nhỏ hơn nước nên nổi thành lớp phía trên."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Phản ứng thủy phân ở ống nghiệm (1) là phản ứng một chiều nên lớp ester biến mất hoàn toàn nhanh hơn ống (2).",
+            "dap_an": false,
+            "giai_thich": "Thủy phân ester trong môi trường acid ở ống (1) là phản ứng thuận nghịch nên lớp ester chỉ giảm đi chứ không hết hoàn toàn như trong môi trường kiềm ở ống (2)."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Sau phản ứng, ống nghiệm (2) thu được hỗn hợp đồng nhất do muối sodium acetate và ethanol đều tan tốt trong nước.",
+            "dap_an": true,
+            "giai_thich": "CH_{3}COONa là muối tan và C_{2}H_{5}OH tan vô hạn trong nước nên dung dịch đồng nhất."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Nếu thay dung dịch NaOH bằng dung dịch KOH ở ống (2), phản ứng vẫn là phản ứng một chiều và thu được muối CH_{3}COOK cùng C_{2}H_{5}OH.",
+            "dap_an": true,
+            "giai_thich": "KOH cũng là base mạnh, thực hiện phản ứng xà phòng hóa một chiều tương tự NaOH."
+          }
+        ]
+      },
+      {
+        "cau_so": 2,
+        "dan_nhap": "Chất béo và các acid béo không no (omega-3, omega-6) đóng vai trò quan trọng trong dinh dưỡng và công nghiệp thực phẩm.",
+        "nhan_dinh": [
+          {
+            "ky_hieu": "a",
+            "noi_dung": "Chất béo là triester của glycerol với các acid béo, gọi chung là triglyceride.",
+            "dap_an": true,
+            "giai_thich": "Đúng theo định nghĩa chất béo trong SGK."
+          },
+          {
+            "ky_hieu": "b",
+            "noi_dung": "Dầu thực vật chứa nhiều gốc acid béo không no nên thường ở trạng thái lỏng ở điều kiện thường.",
+            "dap_an": true,
+            "giai_thich": "Liên kết đôi dạng cis làm các phân tử khó xếp khít, dẫn đến nhiệt độ nóng chảy thấp."
+          },
+          {
+            "ky_hieu": "c",
+            "noi_dung": "Hydrogen hóa hoàn toàn 1 mol triolein ((C_{17}H_{33}COO)_{3}C_{3}H_{5}) cần dùng tối đa 1 mol H_{2} (xúc tác Ni, t^{o}) để tạo thành tristearin.",
+            "dap_an": false,
+            "giai_thich": "Trong 1 phân tử triolein có 3 gốc oleate (mỗi gốc có 1 liên kết đôi C=C), do đó 1 mol triolein cần phản ứng với 3 mol H_{2}."
+          },
+          {
+            "ky_hieu": "d",
+            "noi_dung": "Dầu mỡ để lâu ngoài không khí bị ôi thiu là do các gốc acid béo không no bị oxi hóa chậm bởi oxygen không khí tạo ra các hợp chất có mùi khó chịu.",
+            "dap_an": true,
+            "giai_thich": "Đây là nguyên nhân hóa học gây ôi thiu dầu mỡ."
+          }
+        ]
+      }
+    ]
+  }
+}

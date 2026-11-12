@@ -1,0 +1,262 @@
+{
+  "id": "SGK_HOA_10_KNTT",
+  "mon_hoc": "Hóa học",
+  "khoi_lop": "Lớp 10",
+  "bo_sach": "Kết nối tri thức với cuộc sống",
+  "sgk_file": "SGK/SGK HOA 10 KNTT.pdf",
+  "sbt_file": "SGK/BAI TAP HOA 10 KNTT.pdf",
+  "sgv_file": "SGK/SGV HOA 10 KNTT.pdf",
+  "yccd_file": "SGK/YEU CAU CAN DAT HOA 10.pdf",
+  "page_offset_pdf_vs_printed": 1,
+  "chuong": [
+    {
+      "so_chuong": 1,
+      "ten_chuong": "Chương 1. Cấu tạo nguyên tử",
+      "trang_bat_dau": 12,
+      "trang_ket_thuc": 27,
+      "bai_hoc": [
+        {
+          "so_bai": 1,
+          "ten_bai": "Thành phần của nguyên tử",
+          "trang": "13-16"
+        },
+        {
+          "so_bai": 2,
+          "ten_bai": "Nguyên tố hoá học",
+          "trang": "17-20"
+        },
+        {
+          "so_bai": 3,
+          "ten_bai": "Cấu trúc lớp vỏ electron nguyên tử",
+          "trang": "21-25"
+        },
+        {
+          "so_bai": 4,
+          "ten_bai": "Ôn tập chương 1",
+          "trang": "26-27",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Trình bày được thành phần của nguyên tử (nguyên tử vô cùng nhỏ; nguyên tử gồm 2 phần: hạt nhân và lớp vỏ nguyên tử; hạt nhân tạo nên bởi các hạt proton (p), neutron (n); Lớp vỏ tạo nên bởi các electron (e); điện tích, khối lượng mỗi loại hạt).",
+        "So sánh được khối lượng của electron với proton và neutron, kích thước của hạt nhân với kích thước nguyên tử. Nguyên tố hoá học",
+        "Trình bày được khái niệm về nguyên tố hoá học, số hiệu nguyên tử và kí hiệu nguyên tử.",
+        "Phát biểu được khái niệm đồng vị, nguyên tử khối.",
+        "Tính được nguyên tử khối trung bình (theo amu) dựa vào khối lượng nguyên tử và phần trăm số nguyên tử của các đồng vị theo phổ khối lượng được cung cấp. Cấu trúc lớp vỏ electron nguyên tử",
+        "Trình bày và so sánh được mô hình của Rutherford – Bohr với mô hình hiện đại mô tả sự chuyển động của electron trong nguyên tử.",
+        "Nêu được khái niệm về orbital nguyên tử (AO), mô tả được hình dạng của AO (s, p), số lượng electron trong 1 AO.",
+        "Trình bày được khái niệm lớp, phân lớp electron và mối quan hệ về số lượng phân lớp trong một lớp. Liên hệ được về số lượng AO trong một phân lớp, trong một lớp.",
+        "Viết được cấu hình electron nguyên tử theo lớp, phân lớp electron và theo ô orbital khi biết số hiệu nguyên tử Z của 20 nguyên tố đầu tiên trong"
+      ]
+    },
+    {
+      "so_chuong": 2,
+      "ten_chuong": "Chương 2. Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+      "trang_bat_dau": 28,
+      "trang_ket_thuc": 47,
+      "bai_hoc": [
+        {
+          "so_bai": 5,
+          "ten_bai": "Cấu tạo của bảng tuần hoàn các nguyên tố hoá học",
+          "trang": "30-33"
+        },
+        {
+          "so_bai": 6,
+          "ten_bai": "Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+          "trang": "34-39"
+        },
+        {
+          "so_bai": 7,
+          "ten_bai": "Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì",
+          "trang": "40-42"
+        },
+        {
+          "so_bai": 8,
+          "ten_bai": "Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học",
+          "trang": "43-44"
+        },
+        {
+          "so_bai": 9,
+          "ten_bai": "Ôn tập chương 2",
+          "trang": "45-47",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Nêu được về lịch sử phát minh định luật tuần hoàn và bảng tuần hoàn các nguyên tố hoá học.",
+        "Mô tả được cấu tạo của bảng tuần hoàn các nguyên tố hoá học và nêu được các khái niệm liên quan (ô, chu kì, nhóm).",
+        "Nêu được nguyên tắc sắp xếp của bảng tuần hoàn các nguyên tố hoá học (dựa theo cấu hình electron).",
+        "Phân loại được nguyên tố (dựa theo cấu hình electron: nguyên tố s, p, d, f; dựa theo tính chất hoá học: kim loại, phi kim, khí hiếm). Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+        "Giải thích được xu hướng biến đổi bán kính nguyên tử trong một chu kì, trong một nhóm (nhóm A) (dựa theo lực hút tĩnh điện của hạt nhân với electron ngoài cùng và dựa theo số lớp electron tăng trong một nhóm theo chiều từ trên xuống dưới).",
+        "Nhận xét và giải thích được xu hướng biến đổi độ âm điện và tính kim loại, phi kim của nguyên tử các nguyên tố trong một chu kì, trong một nhóm (nhóm A). Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì",
+        "Nhận xét được xu hướng biến đổi thành phần và tính chất acid/base của các oxide và các hydroxide theo chu kì. Viết được phương trình hoá học minh hoạ. Định luật tuần hoàn và ý nghĩa của bảng tuần hoàn các nguyên tố hoá học",
+        "Phát biểu được định luật tuần hoàn.",
+        "Trình bày được ý nghĩa của bảng tuần hoàn các nguyên tố hoá học: Mối liên hệ giữa vị trí (trong bảng tuần hoàn các nguyên tố hoá học) với tính chất và ngược lại."
+      ]
+    },
+    {
+      "so_chuong": 3,
+      "ten_chuong": "Chương 3. Liên kết hoá học",
+      "trang_bat_dau": 48,
+      "trang_ket_thuc": 69,
+      "bai_hoc": [
+        {
+          "so_bai": 10,
+          "ten_bai": "Quy tắc octet",
+          "trang": "49-50"
+        },
+        {
+          "so_bai": 11,
+          "ten_bai": "Liên kết ion",
+          "trang": "51-54"
+        },
+        {
+          "so_bai": 12,
+          "ten_bai": "Liên kết cộng hoá trị",
+          "trang": "55-63"
+        },
+        {
+          "so_bai": 13,
+          "ten_bai": "Liên kết hydrogen và tương tác van der Waals",
+          "trang": "64-67"
+        },
+        {
+          "so_bai": 14,
+          "ten_bai": "Ôn tập chương 3",
+          "trang": "68-69",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Trình bày và vận dụng được quy tắc octet trong quá trình hình thành liên kết hoá học cho các nguyên tố nhóm A. Liên kết ion",
+        "Trình bày được khái niệm và sự hình thành liên kết ion (nêu một số ví dụ điển hình tuân theo quy tắc octet).",
+        "Nêu được cấu tạo tinh thể NaCl. Giải thích được vì sao các hợp chất ion thường ở trạng thái rắn trong điều kiện thường (dạng tinh thể ion). Liên kết cộng hoá trị",
+        "Trình bày được khái niệm và lấy được ví dụ về liên kết cộng hoá trị (liên kết đơn, đôi, ba) khi áp dụng quy tắc octet.",
+        "Viết được công thức Lewis của một số chất đơn giản.",
+        "Trình bày được khái niệm về liên kết cho nhận.",
+        "Phân biệt được các loại liên kết (liên kết cộng hoá trị không phân cực, phân cực, liên kết ion) dựa theo độ âm điện.",
+        "Giải thích được sự hình thành liên kết σ và liên kết π qua sự xen phủ AO.",
+        "Trình bày được khái niệm năng lượng liên kết (cộng hoá trị).",
+        "Lắp được mô hình phân tử, tinh thể NaCl (theo mô hình có sẵn). Liên kết hydrogen và tương tác (liên kết)",
+        "Trình bày được khái niệm liên kết hydrogen. Vận dụng để giải thích được sự xuất hiện liên kết hydrogen (với nguyên tố có độ âm điện lớn: N, O, F). van der Waals",
+        "Nêu được vai trò, ảnh hưởng của liên kết hydrogen tới tính chất vật lí của H2O.",
+        "Nêu được khái niệm về tương tác van der Waals và ảnh hưởng của tương tác này tới nhiệt độ nóng chảy, nhiệt độ sôi của các chất."
+      ]
+    },
+    {
+      "so_chuong": 4,
+      "ten_chuong": "Chương 4. Phản ứng oxi hoá – khử",
+      "trang_bat_dau": 70,
+      "trang_ket_thuc": 79,
+      "bai_hoc": [
+        {
+          "so_bai": 15,
+          "ten_bai": "Phản ứng oxi hoá – khử",
+          "trang": "71-77"
+        },
+        {
+          "so_bai": 16,
+          "ten_bai": "Ôn tập chương 4",
+          "trang": "78-79",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Nêu được khái niệm và xác định được số oxi hoá của nguyên tử các nguyên tố trong hợp chất.",
+        "Nêu được khái niệm về phản ứng oxi hoá – khử và ý nghĩa của phản ứng oxi hoá – khử.",
+        "Mô tả được một số phản ứng oxi hoá – khử quan trọng gắn liền với cuộc sống.",
+        "Cân bằng được phản ứng oxi hoá – khử bằng phương pháp thăng bằng electron."
+      ]
+    },
+    {
+      "so_chuong": 5,
+      "ten_chuong": "Chương 5. Năng lượng hoá học",
+      "trang_bat_dau": 80,
+      "trang_ket_thuc": 90,
+      "bai_hoc": [
+        {
+          "so_bai": 17,
+          "ten_bai": "Biến thiên enthalpy trong các phản ứng hoá học",
+          "trang": "81-88"
+        },
+        {
+          "so_bai": 18,
+          "ten_bai": "Ôn tập chương 5",
+          "trang": "89-90",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Trình bày được khái niệm phản ứng toả nhiệt, thu nhiệt; điều kiện chuẩn (áp suất 1 bar và thường chọn nhiệt độ 25oC hay 298 K); enthalpy tạo thành (nhiệt tạo thành) ∆ Ho , và biến f 298 thiên enthalpy (nhiệt phản ứng) của phản ứng ∆ Ho . r 298",
+        "Nêu được ý nghĩa của dấu và giá trị ∆ Ho . r 298",
+        "Tính  được ∆ Ho của một phản ứng dựa vào bảng số liệu năng lượng liên kết, nhiệt tạo r 298 thành cho sẵn, vận dụng công thức: ∆ H0 = ∑E (cđ ) − ∑E (sp) và ∆ H0 = ∑∆ H0 (sp) − ∑∆ H0 (cđ ) r 298 b b r 298 f 298 f 298 Eb (cđ ) , Eb (sp) là tổng năng lượng liên kết trong phân tử chất đầu và sản phẩm phản ứng."
+      ]
+    },
+    {
+      "so_chuong": 6,
+      "ten_chuong": "Chương 6. Tốc độ phản ứng",
+      "trang_bat_dau": 91,
+      "trang_ket_thuc": 102,
+      "bai_hoc": [
+        {
+          "so_bai": 19,
+          "ten_bai": "Tốc độ phản ứng",
+          "trang": "92-100"
+        },
+        {
+          "so_bai": 20,
+          "ten_bai": "Ôn tập chương 6",
+          "trang": "101-102",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Trình bày được khái niệm tốc độ phản ứng hoá học và cách tính tốc độ trung bình của phản ứng.",
+        "Viết được biểu thức tốc độ phản ứng theo hằng số tốc độ phản ứng và nồng độ (còn gọi là định luật tác dụng khối lượng (M. Guldberg và P. Waage, 1864) chỉ đúng cho phản ứng đơn giản nên không tùy ý áp dụng cho mọi phản ứng). Từ đó nêu được ý nghĩa hằng số tốc độ phản ứng. Các yếu tố ảnh hưởng tới tốc độ phản ứng",
+        "Thực hiện được một số thí nghiệm nghiên cứu các yếu tố ảnh hưởng tới tốc độ phản ứng (nồng độ, nhiệt độ, áp suất, diện tích bề mặt, chất xúc tác).",
+        "Giải thích được các yếu tố ảnh hưởng tới tốc độ phản ứng như: nồng độ, nhiệt độ, áp suất, diện tích bề mặt, chất xúc tác.",
+        "Nêu được ý nghĩa của hệ số nhiệt độ Van’t Hoff (γ).",
+        "Vận dụng được kiến thức tốc độ phản ứng hoá học vào việc giải thích một số vấn đề trong cuộc sống và sản xuất."
+      ]
+    },
+    {
+      "so_chuong": 7,
+      "ten_chuong": "Chương 7. Nguyên tố nhóm halogen",
+      "trang_bat_dau": 103,
+      "trang_ket_thuc": 118,
+      "bai_hoc": [
+        {
+          "so_bai": 21,
+          "ten_bai": "Nhóm halogen",
+          "trang": "104-111"
+        },
+        {
+          "so_bai": 22,
+          "ten_bai": "Hydrogen halide - Muối halide",
+          "trang": "112-116"
+        },
+        {
+          "so_bai": 23,
+          "ten_bai": "Ôn tập chương 7",
+          "trang": "117-118",
+          "is_on_tap": true
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Phát biểu được trạng thái tự nhiên của các nguyên tố halogen.",
+        "Mô tả được trạng thái, màu sắc, nhiệt độ nóng chảy, nhiệt độ sôi của các đơn chất halogen.",
+        "Giải thích được sự biến đổi nhiệt độ nóng chảy, nhiệt độ sôi của các đơn chất halogen dựa vào tương tác van der Waals.",
+        "Trình bày được xu hướng nhận thêm 1 electron (từ kim loại) hoặc dùng chung electron (với phi kim) để tạo hợp chất ion hoặc hợp chất cộng hoá trị dựa theo cấu hình electron.",
+        "Thực hiện được (hoặc quan sát video) thí nghiệm chứng minh được xu hướng giảm dần tính oxi hoá của các halogen thông qua một số phản ứng: Thay thế halogen trong dung dịch muối bởi một halogen khác; Halogen tác dụng với hydrogen và với nước.",
+        "Giải thích được xu hướng phản ứng của các đơn chất halogen với hydrogen theo khả năng hoạt động của halogen và năng lượng liên kết H–X (điều kiện phản ứng, hiện tượng phản ứng và hỗn hợp chất có trong bình phản ứng).",
+        "Viết được phương trình hoá học của phản ứng tự oxi hoá – khử của chlorine trong phản ứng với dung dịch sodium hydroxide ở nhiệt độ thường và khi đun nóng; ứng dụng của phản ứng này trong sản xuất chất tẩy rửa.",
+        "Thực hiện được (hoặc quan sát video) một số thí nghiệm chứng minh tính oxi hoá mạnh của các halogen và so sánh tính oxi hoá giữa chúng (thí nghiệm tính tẩy màu của khí chlorine ẩm; thí nghiệm nước chlorine, nước bromine tương tác với các dung dịch sodium chloride, sodium bromide, sodium iodide). Hydrogen halide và một số phản ứng của ion halide (halogenua)",
+        "Nhận xét (từ bảng dữ liệu về nhiệt độ  sôi)  và  giải  thích  được  xu  hướng  biến  đổi  nhiệt độ sôi của các hydrogen halide từ HCl tới HI dựa vào tương tác van der Waals. Giải thích được sự bất thường về nhiệt độ sôi của HF so với các HX khác.",
+        "Trình bày được xu hướng biến đổi tính acid của dãy hydrohalic acid.",
+        "Thực hiện được thí nghiệm phân biệt các ion F–, Cl–, Br–, I– bằng cách cho dung dịch silver nitrate vào dung dịch muối của chúng.",
+        "Trình bày được tính khử của các ion halide (Cl–, Br–, I–) thông qua phản ứng với chất oxi hoá là sulfuric acid đặc.",
+        "Nêu được ứng dụng của một số hydrogen halide."
+      ]
+    }
+  ]
+}

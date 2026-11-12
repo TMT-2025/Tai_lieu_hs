@@ -1,0 +1,213 @@
+{
+  "id": "SGK_HOA_11_CTST",
+  "mon_hoc": "Hóa học",
+  "khoi_lop": "Lớp 11",
+  "bo_sach": "Chân trời sáng tạo",
+  "sgk_file": "SGK/SGK HOA 11 CTST.pdf",
+  "sbt_file": "SGK/BAI TAP HOA 11 CTST.pdf",
+  "sgv_file": null,
+  "yccd_file": "SGK/YEU CAU CAN DAT HOA 11.pdf",
+  "chuong": [
+    {
+      "so_chuong": 1,
+      "ten_chuong": "Chương 1. Cân bằng hoá học",
+      "trang_bat_dau": 5,
+      "trang_ket_thuc": 19,
+      "bai_hoc": [
+        {
+          "so_bai": 1,
+          "ten_bai": "Khái niệm về cân bằng hoá học",
+          "trang": "5-11"
+        },
+        {
+          "so_bai": 2,
+          "ten_bai": "Cân bằng trong dung dịch nước",
+          "trang": "12-19"
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Trình bày được khái niệm phản ứng thuận nghịch và trạng thái cân bằng của một phản ứng thuận nghịch. bằng hoá học",
+        "Viết được biểu thức hằng số cân bằng (KC) của một phản ứng thuận nghịch.",
+        "Thực hiện được thí nghiệm nghiên cứu ảnh hưởng của nhiệt độ tới chuyển dịch cân bằng: (1) Phản ứng: 2NO2 ← →  N2O4 (2) Phản ứng thuỷ phân sodium acetate.",
+        "Vận dụng được nguyên lí chuyển dịch cân bằng Le Chatelier để giải thích ảnh hưởng của nhiệt độ, nồng độ, áp suất đến cân bằng hoá học. Cân bằng trong dung dịch nước",
+        "Nêu được khái niệm sự điện li, chất điện li, chất không điện li.",
+        "Trình bày được thuyết Brønsted – Lowry về acid – base.",
+        "Nêu được khái niệm và ý nghĩa của pH trong thực tiễn (liên hệ giá trị pH ở các bộ phận trong     cơ thể với sức khoẻ con người, pH của đất, nước tới sự phát triển của động thực vật,...).",
+        "Viết được biểu thức tính pH (pH = –lg[H+] hoặc [H+] = 10–pH) và biết cách sử dụng các chất chỉ thị để xác định pH (môi trường acid, base, trung tính) bằng các chất chỉ thị phổ biến như giấy chỉ thị màu, quỳ tím, phenolphthalein,...",
+        "Nêu được nguyên tắc xác định nồng độ acid, base mạnh bằng phương pháp chuẩn độ.",
+        "Thực hiện được thí nghiệm chuẩn độ acid – base: Chuẩn độ dung dịch base mạnh (sodium hydroxide) bằng acid mạnh (hydrochloric acid).",
+        "Trình bày được ý nghĩa thực tiễn cân bằng trong dung dịch nước của ion Al3+, Fe3+ và CO2−. 3"
+      ]
+    },
+    {
+      "so_chuong": 2,
+      "ten_chuong": "Chương 2. Nitrogen và Sulfur",
+      "trang_bat_dau": 20,
+      "trang_ket_thuc": 45,
+      "bai_hoc": [
+        {
+          "so_bai": 3,
+          "ten_bai": "Đơn chất nitrogen",
+          "trang": "20-23"
+        },
+        {
+          "so_bai": 4,
+          "ten_bai": "Ammonia và một số hợp chất ammonium",
+          "trang": "24-29"
+        },
+        {
+          "so_bai": 5,
+          "ten_bai": "Một số hợp chất với oxygen của nitrogen",
+          "trang": "30-34"
+        },
+        {
+          "so_bai": 6,
+          "ten_bai": "Sulfur và sulfur dioxide",
+          "trang": "35-39"
+        },
+        {
+          "so_bai": 7,
+          "ten_bai": "Sulfuric acid và muối sulfate",
+          "trang": "40-45"
+        }
+      ],
+      "yeu_cau_can_dat": []
+    },
+    {
+      "so_chuong": 3,
+      "ten_chuong": "Chương 3. Đại cương hoá học hữu cơ",
+      "trang_bat_dau": 46,
+      "trang_ket_thuc": 65,
+      "bai_hoc": [
+        {
+          "so_bai": 8,
+          "ten_bai": "Hợp chất hữu cơ và hoá học hữu cơ",
+          "trang": "46-51"
+        },
+        {
+          "so_bai": 9,
+          "ten_bai": "Phương pháp tách và tinh chế hợp chất hữu cơ",
+          "trang": "52-56"
+        },
+        {
+          "so_bai": 10,
+          "ten_bai": "Công thức phân tử hợp chất hữu cơ",
+          "trang": "57-60"
+        },
+        {
+          "so_bai": 11,
+          "ten_bai": "Cấu tạo hoá học hợp chất hữu cơ",
+          "trang": "61-65"
+        }
+      ],
+      "yeu_cau_can_dat": []
+    },
+    {
+      "so_chuong": 4,
+      "ten_chuong": "Chương 4. Hydrocarbon",
+      "trang_bat_dau": 66,
+      "trang_ket_thuc": 91,
+      "bai_hoc": [
+        {
+          "so_bai": 12,
+          "ten_bai": "Alkane",
+          "trang": "66-73"
+        },
+        {
+          "so_bai": 13,
+          "ten_bai": "Hydrocarbon không no",
+          "trang": "74-84"
+        },
+        {
+          "so_bai": 14,
+          "ten_bai": "Arene (Hydrocarbon thơm)",
+          "trang": "85-91"
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Nêu được khái niệm nhóm chức và một số loại nhóm chức cơ bản.",
+        "Sử dụng được bảng tín hiệu phổ hồng ngoại (IR) để xác định một số nhóm chức cơ bản. Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+        "Trình bày được nguyên tắc và cách thức tiến hành các phương pháp tách biệt và tinh chế hợp chất hữu cơ: chưng cất, chiết, kết tinh và sơ lược về sắc kí cột.",
+        "Thực hiện được các thí nghiệm về chưng cất thường, chiết.",
+        "Vận dụng được các phương pháp: chưng cất thường, chiết, kết tinh để tách biệt và tinh chế một số hợp chất hữu cơ trong cuộc sống. Công thức phân tử hợp chất hữu cơ",
+        "Nêu được khái niệm về công thức phân tử hợp chất hữu cơ.",
+        "Sử dụng được kết quả phổ khối lượng (MS) để xác định phân tử khối của hợp chất hữu cơ.",
+        "Lập được công thức phân tử hợp chất hữu cơ từ dữ liệu phân tích nguyên tố và phân tử khối. Cấu tạo hoá học hợp chất hữu cơ",
+        "Trình bày được nội dung thuyết cấu tạo hoá học trong hoá học hữu cơ.",
+        "Giải thích được hiện tượng đồng phân trong hoá học hữu cơ.",
+        "Nêu được khái niệm chất đồng đẳng và dãy đồng đẳng.",
+        "Viết được công thức cấu tạo của một số hợp chất hữu cơ đơn giản (công thức cấu tạo đầy đủ, công thức cấu tạo thu gọn).",
+        "Nêu được chất đồng đẳng, chất đồng phân dựa vào công thức cấu tạo cụ thể của các hợp chất hữu cơ. HYDROCARBON Alkane (ankan)",
+        "Nêu được khái niệm về alkane, nguồn alkane trong tự nhiên, công thức chung của alkane.",
+        "Trình bày được quy tắc gọi tên theo danh pháp thay thế; áp dụng gọi được tên cho một số alkane (C1 – C10) mạch không phân nhánh và một số alkane mạch nhánh chứa không quá 5  nguyên tử C.",
+        "Trình bày và giải thích được đặc điểm về tính chất vật lí (nhiệt độ nóng chảy, nhiệt độ sôi, tỉ khối, tính tan) của một số alkane.",
+        "Trình bày được đặc điểm về liên kết hoá học trong phân tử alkane, hình dạng phân tử của methane, ethane; phản ứng thế, cracking, reforming, phản ứng oxi hoá hoàn toàn, phản ứng oxi hoá không hoàn toàn.",
+        "Thực hiện được thí nghiệm: cho hexane vào dung dịch thuốc tím, cho hexane tương tác với nước bromine ở nhiệt độ thường và khi đun nóng (hoặc chiếu sáng), đốt cháy hexane; quan sát, mô tả các hiện tượng thí nghiệm và giải thích được tính chất hoá học của alkane.",
+        "Trình bày được các ứng dụng của alkane trong  thực  tiễn  và  cách  điều  chế  alkane  trong  công nghiệp.",
+        "Trình bày được một trong các nguyên nhân gây ô nhiễm không khí là do các chất trong khí thải của các phương tiện giao thông; Hiểu và thực hiện được một số biện pháp hạn chế ô nhiễm môi trường do các phương tiện giao thông gây ra. Hydrocarbon không no − Nêu được khái niệm về alkene và alkyne, công thức chung của alkene; đặc điểm liên kết, hình dạng phân tử của ethylene và acetylene. − Gọi được tên một số alkene, alkyne đơn giản (C2 – C5), tên thông thường một vài alkene, alkyne thường gặp.",
+        "Nêu được khái niệm và xác định được đồng phân hình học (cis, trans) trong một số trường hợp đơn giản. − Nêu được đặc điểm về tính chất vật lí (nhiệt độ nóng chảy, nhiệt độ sôi, tỉ khối, khả năng hoà tan trong nước) của một số alkene, alkyne. − Trình bày được các tính chất hoá học của alkene, alkyne: Phản ứng cộng hydrogen, cộng halogen (bromine); cộng hydrogen halide (HBr) và cộng nước; quy tắc Markovnikov; Phản ứng trùng hợp của alkene; Phản ứng của alk-1-yne với dung dịch AgNO3 trong NH3; Phản ứng oxi hoá (phản ứng làm mất màu thuốc tím của alkene, phản ứng cháy của alkene, alkyne).",
+        "Thực hiện được thí nghiệm điều chế và thử tính chất của ethylene và acetylene (phản ứng cháy, phản ứng với nước bromine, phản ứng làm mất màu thuốc tím); mô tả các hiện tượng thí nghiệm và giải thích được tính chất hoá học của alkene, alkyne.",
+        "Trình bày được ứng dụng của các alkene và acetylene trong thực tiễn; phương pháp điều chế alkene, acetylene trong phòng thí nghiệm (phản ứng dehydrate hoá alcohol điều chế alkene, từ calcium carbide điều chế acetylene) và trong công nghiệp (phản ứng cracking điều chế alkene, điều chế acetylene từ methane). Arene (hydrocarbon thơm) − Nêu được khái niệm về arene.",
+        "Viết được công thức và gọi được tên của một số arene (benzene, toluene, xylene, styrene, naphthalene).",
+        "Trình bày được đặc điểm về tính chất vật lí, trạng thái tự nhiên của một số arene, đặc điểm liên kết và hình dạng phân tử benzene. − Trình bày được tính chất hoá học đặc trưng của arene (hoặc qua mô tả thí nghiệm): Phản ứng thế của benzene và toluene, gồm phản ứng halogen hoá, nitro hoá (điều kiện phản ứng, quy tắc thế); Phản ứng cộng chlorine, hydrogen vào vòng benzene; Phản ứng oxi hoá hoàn toàn, oxi hoá nhóm alkyl. − Thực hiện được (hoặc quan sát qua video hoặc qua mô tả) thí nghiệm nitro hoá benzene, cộng chlorine vào benzene, oxi hoá benzene và toluene bằng dung dịch KMnO4; mô tả các hiện tượng thí nghiệm và giải thích được tính chất hoá học của arene.",
+        "Trình bày được ứng dụng của arene và đưa ra được cách ứng xử thích hợp đối với việc sử dụng arene trong việc bảo vệ sức khoẻ con người và môi trường.",
+        "Trình bày được phương pháp điều chế arene trong công nghiệp (từ nguồn hydrocarbon thiên nhiên, từ phản ứng reforming)."
+      ]
+    },
+    {
+      "so_chuong": 5,
+      "ten_chuong": "Chương 5. Dẫn xuất halogen – Alcohol – Phenol",
+      "trang_bat_dau": 92,
+      "trang_ket_thuc": 114,
+      "bai_hoc": [
+        {
+          "so_bai": 15,
+          "ten_bai": "Dẫn xuất halogen",
+          "trang": "92-98"
+        },
+        {
+          "so_bai": 16,
+          "ten_bai": "Alcohol",
+          "trang": "99-107"
+        },
+        {
+          "so_bai": 17,
+          "ten_bai": "Phenol",
+          "trang": "108-114"
+        }
+      ],
+      "yeu_cau_can_dat": [
+        "Nêu được khái niệm dẫn xuất halogen.",
+        "Viết được công thức cấu tạo, gọi được tên theo danh pháp thay thế (C1 – C5) và danh pháp thường của một vài dẫn xuất halogen thường gặp.",
+        "Nêu được đặc điểm về tính chất vật lí của một số dẫn xuất halogen.",
+        "Trình bày được tính chất hoá học cơ bản của dẫn xuất halogen: Phản ứng thế nguyên tử halogen (với OH–); Phản ứng tách hydrogen halide theo quy tắc Zaisev.",
+        "Thực hiện được (hoặc quan sát video) thí nghiệm thuỷ phân ethyl bromide (hoặc ethyl chloride); mô tả được các hiện tượng thí nghiệm, giải thích được tính chất hoá học của dẫn xuất halogen.",
+        "Trình bày được ứng dụng của các dẫn xuất halogen; tác hại của việc sử dụng các hợp chất chlorofluorocarbon (CFC) trong công nghệ làm lạnh. Đưa ra được cách ứng xử thích hợp đối với việc lạm dụng các dẫn xuất halogen trong đời sống và sản xuất (thuốc trừ sâu, thuốc diệt cỏ, chất kích thích tăng trưởng thực vật...). Alcohol − Nêu được khái niệm alcohol; công thức tổng quát của alcohol no, đơn chức, mạch hở; khái niệm về bậc của alcohol; đặc điểm liên kết và hình dạng phân tử của methanol, ethanol.",
+        "Viết được công thức cấu tạo, gọi được tên theo danh pháp thay thế một  số alcohol đơn giản (C1 – C5), tên thông thường một vài alcohol thường gặp. − Trình bày được đặc điểm về tính chất vật lí của alcohol (trạng thái, xu hướng của nhiệt độ sôi, độ tan trong nước), giải thích được ảnh hưởng của liên kết hydrogen đến nhiệt độ sôi và khả năng hoà tan trong nước của các alcohol. − Trình bày được tính chất hoá học của alcohol: Phản ứng thế nguyên tử H của nhóm –OH (phản ứng chung của R–OH, phản ứng riêng của polyalcohol); Phản ứng tạo thành alkene hoặc ether; Phản ứng oxi hoá alcohol bậc I, bậc II thành aldehyde, ketone bằng CuO; Phản ứng đốt cháy. − Thực hiện được các thí nghiệm đốt cháy ethanol, glycerol tác dụng với copper(II) hydroxide; mô tả các hiện tượng thí nghiệm và giải thích được tính chất hoá học của alcohol. − Trình bày được ứng dụng của alcohol, tác hại của việc lạm dụng rượu bia và đồ uống có cồn; Nêu được thái độ, cách ứng xử của cá nhân với việc bảo vệ sức khoẻ bản thân, gia đình và cộng đồng. − Trình bày được phương pháp điều chế ethanol bằng phương pháp hydrate hoá ethylene, lên men tinh bột; điều chế glycerol từ propylene. Phenol − Nêu được khái niệm về phenol, tên gọi, công thức cấu tạo một số phenol đơn giản, đặc điểm cấu tạo và hình dạng phân tử của phenol.",
+        "Nêu được tính chất vật lí (trạng thái, nhiệt độ nóng chảy, độ tan trong nước) của phenol.",
+        "Trình bày được tính chất hoá học cơ bản của phenol: Phản ứng thế H ở nhóm –OH (tính acid: thông qua phản ứng với sodium hydroxide, sodium carbonate), phản ứng thế ở vòng thơm (tác dụng với nước bromine, với HNO3 đặc trong H2SO4 đặc).",
+        "Thực hiện được (hoặc quan sát video, hoặc qua mô tả) thí nghiệm của phenol với sodium hydroxide, sodium carbonate, với nước bromine, với HNO3 đặc trong H2SO4 đặc; mô tả hiện tượng thí nghiệm, giải thích được tính chất hoá học của phenol.",
+        "Trình bày được ứng dụng của phenol và điều chế phenol (từ cumene và từ nhựa than đá)."
+      ]
+    },
+    {
+      "so_chuong": 6,
+      "ten_chuong": "Chương 6. Hợp chất carbonyl (Aldehyde – Ketone) – Carboxylic acid",
+      "trang_bat_dau": 115,
+      "trang_ket_thuc": 132,
+      "bai_hoc": [
+        {
+          "so_bai": 18,
+          "ten_bai": "Hợp chất carbonyl",
+          "trang": "115-123"
+        },
+        {
+          "so_bai": 19,
+          "ten_bai": "Carboxylic acid",
+          "trang": "124-132"
+        }
+      ],
+      "yeu_cau_can_dat": []
+    }
+  ]
+}

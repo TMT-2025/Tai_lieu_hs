@@ -1,0 +1,10 @@
+.env
+.env.local
+.env*.local
+node_modules/
+.next/
+SGK/
+data/cache_pages/
+output/
+*.log
+__pycache__/
