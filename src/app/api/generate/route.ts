@@ -21,7 +21,10 @@ export async function POST(req: NextRequest) {
       ghiChuThem = '',
     } = body;
 
-    const resolvedKey = (apiKey && String(apiKey).trim()) || process.env.GEMINI_API_KEY;
+    const resolvedKey =
+      (apiKey && String(apiKey).trim()) ||
+      process.env.GEMINI_API_KEY ||
+      process.env.Gemini_API_Key;
     if (!resolvedKey) {
       return NextResponse.json(
         { error: 'Thiếu Gemini API Key. Vui lòng nhập API Key trên giao diện hoặc cấu hình GEMINI_API_KEY trên Vercel.' },
